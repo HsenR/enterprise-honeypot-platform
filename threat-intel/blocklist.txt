@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-05 14:31:08 UTC
-# Total IPs: 248
+# Updated: 2026-03-05 15:31:10 UTC
+# Total IPs: 265
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -26,6 +26,8 @@
 154.81.14.244        # CRITICAL | Score: 98 | UCLOUD INFORMATION TECHNOLOGY  | SC
 187.191.2.214        # CRITICAL | Score: 98 | TOTAL PLAY TELECOMUNICACIONES  | MX
 16.58.56.214         # CRITICAL | Score: 98 | Amazon.com, Inc. | US
+176.65.139.38        # CRITICAL | Score: 96 | Storm Industries | DE
+77.90.185.16         # CRITICAL | Score: 96 | Inside Network LTD | IR
 207.231.108.199      # CRITICAL | Score: 96 | HostRush | US
 5.61.209.96          # CRITICAL | Score: 96 | Amarutu Technology Ltd | SC
 45.227.254.170       # CRITICAL | Score: 96 | XWIN UNIVERSAL LTD | PA
@@ -54,6 +56,8 @@
 68.183.13.228        # CRITICAL | Score: 94 | DigitalOcean, LLC | NL
 94.231.206.11        # CRITICAL | Score: 93 | FR ONYPHE | CN
 87.121.84.67         # CRITICAL | Score: 93 | Dedicated Servers and VPS Host | US
+92.118.39.74         # CRITICAL | Score: 92 | DMZHOST | US
+176.65.132.39        # CRITICAL | Score: 92 | VMHeaven.io | DE
 204.76.203.18        # CRITICAL | Score: 92 | Intelligence Hosting LLC | NL
 45.153.34.187        # CRITICAL | Score: 92 | VMHeaven.io | NL
 204.76.203.18        # CRITICAL | Score: 92 | Intelligence Hosting LLC | NL
@@ -67,9 +71,11 @@
 204.76.203.8         # CRITICAL | Score: 92 | Intelligence Hosting LLC | NL
 193.142.146.230      # CRITICAL | Score: 92 | ColocaTel Datacenter | DE
 94.102.49.155        # CRITICAL | Score: 92 | FiberXpress BV | NL
+176.65.139.41        # CRITICAL | Score: 91 | Storm Industries | DE
 180.232.31.146       # CRITICAL | Score: 91 | Eastern Telecom's DSL-Client | PH
 212.0.217.26         # CRITICAL | Score: 91 | JSC Moldtelecom S.A. | MD
 119.18.55.118        # CRITICAL | Score: 91 | Hostgator Asian Operations Div | IN
+206.168.34.126       # CRITICAL | Score: 90 | Censys, Inc. | US
 93.123.109.246       # CRITICAL | Score: 90 | TECHOFF_SRV_LIMITED | BG
 54.161.134.131       # CRITICAL | Score: 90 | Amazon Technologies Inc. | US
 60.165.238.170       # CRITICAL | Score: 90 | CHINANET Gansu province networ | CN
@@ -86,18 +92,22 @@
 64.62.197.116        # CRITICAL | Score: 89 | The Shadowserver Foundation, I | US
 176.65.148.95        # CRITICAL | Score: 89 | Pfcloud UG | NL
 45.156.87.10         # CRITICAL | Score: 89 | VMHeaven.io | NL
+178.83.200.2         # CRITICAL | Score: 88 | Internet Utilities Europe and  | GB
 167.235.25.150       # CRITICAL | Score: 88 | Hetzner Online GmbH | DE
 167.235.25.150       # CRITICAL | Score: 88 | Hetzner Online GmbH | DE
 45.194.92.9          # CRITICAL | Score: 88 | VPSVAULT.HOST LTD | US
 195.178.110.246      # CRITICAL | Score: 87 | TECHOFF SRV LIMITED | BG
 195.178.110.246      # CRITICAL | Score: 87 | TECHOFF SRV LIMITED | BG
 65.49.1.132          # CRITICAL | Score: 87 | The Shadowserver Foundation, I | US
+176.65.134.20        # CRITICAL | Score: 86 | Pfcloud UG | SI
+45.156.87.91         # CRITICAL | Score: 86 | VMHeaven.io | NL
 95.85.234.50         # CRITICAL | Score: 86 | WAIcore Ltd | DE
 71.6.232.30          # CRITICAL | Score: 86 | CariNet, Inc. | US
 74.50.81.220         # CRITICAL | Score: 86 | Host Department NJ, LLC | US
 94.231.206.34        # CRITICAL | Score: 86 | FR ONYPHE | CN
 78.128.114.38        # CRITICAL | Score: 85 | Tamatiya EOOD | BG
 185.156.73.181       # CRITICAL | Score: 85 | TOV E-RISHENNYA | UA
+20.163.60.205        # CRITICAL | Score: 84 | Microsoft Corporation | US
 176.65.148.19        # CRITICAL | Score: 84 | Pfcloud UG | NL
 45.156.128.201       # CRITICAL | Score: 84 | INAP-AMS-1 | PT
 185.247.137.66       # CRITICAL | Score: 84 | Driftnet Ltd | GB
@@ -112,6 +122,7 @@
 144.202.82.88        # CRITICAL | Score: 82 | Vultr Holdings, LLC | US
 144.202.82.88        # CRITICAL | Score: 82 | Vultr Holdings, LLC | US
 176.65.149.253       # CRITICAL | Score: 82 | Pfcloud UG | NL
+101.200.243.197      # CRITICAL | Score: 81 | Aliyun Computing Co., LTD | CN
 94.231.206.38        # CRITICAL | Score: 81 | FR ONYPHE | CN
 18.218.118.203       # CRITICAL | Score: 81 | Amazon Technologies Inc. | US
 94.231.206.6         # CRITICAL | Score: 81 | FR ONYPHE | CN
@@ -125,6 +136,7 @@
 46.151.182.181       # CRITICAL | Score: 80 | DEMENIN B.V. | NL
 20.64.104.11         # CRITICAL | Score: 80 | Microsoft Corporation | US
 107.172.7.140        # CRITICAL | Score: 80 | HostPapa | US
+3.143.162.210        # CRITICAL | Score: 79 | Amazon Technologies Inc. | US
 87.121.84.57         # CRITICAL | Score: 79 | Dedicated Servers and VPS Host | US
 220.82.236.135       # CRITICAL | Score: 79 | Korea Telecom | KR
 182.92.181.218       # CRITICAL | Score: 79 | Aliyun Computing Co., LTD | CN
@@ -157,6 +169,8 @@
 34.193.119.44        # CRITICAL | Score: 75 | Amazon Technologies Inc. | US
 
 # ── HIGH THREATS ─────────────────────────────────────
+24.107.209.210       # HIGH     | Score: 74 | Charter Communications LLC | US
+66.132.153.155       # HIGH     | Score: 74 | Censys, Inc. | US
 3.85.184.110         # HIGH     | Score: 74 | Amazon Data Services Northern  | US
 54.152.26.85         # HIGH     | Score: 74 | Amazon Technologies Inc. | US
 138.68.89.128        # HIGH     | Score: 74 | DigitalOcean, LLC | DE
@@ -216,6 +230,7 @@
 40.76.117.18         # HIGH     | Score: 65 | Microsoft Corporation | US
 34.197.70.90         # HIGH     | Score: 65 | Amazon Technologies Inc. | US
 20.65.194.56         # HIGH     | Score: 65 | Microsoft Corporation | US
+47.251.93.227        # HIGH     | Score: 64 | Alibaba Cloud - US | US
 45.33.41.118         # HIGH     | Score: 64 | Linode | US
 147.182.172.160      # HIGH     | Score: 64 | DigitalOcean, LLC | US
 45.33.41.118         # HIGH     | Score: 64 | Linode | US
@@ -248,6 +263,8 @@
 143.42.164.127       # HIGH     | Score: 54 | Linode | US
 35.187.72.100        # HIGH     | Score: 54 | Google LLC | BE
 34.76.96.243         # HIGH     | Score: 54 | Google LLC | BE
+162.142.125.117      # HIGH     | Score: 52 | Censys, Inc. | US
+205.210.31.219       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 205.210.31.31        # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 97.107.133.213       # HIGH     | Score: 52 | Linode | US
 167.94.138.117       # HIGH     | Score: 52 | Censys, Inc. | US
