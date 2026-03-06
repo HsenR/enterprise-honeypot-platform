@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-06 13:58:00 UTC
-# Total IPs: 716
+# Updated: 2026-03-06 14:58:01 UTC
+# Total IPs: 720
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -74,6 +74,8 @@
 185.226.197.15       # CRITICAL | Score: 96 | ICG-4-ZEN-AMS | PT
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
+66.132.153.134       # CRITICAL | Score: 94 | Censys, Inc. | US
+80.94.92.168         # CRITICAL | Score: 94 | TECHOFF SRV LIMITED | RO
 60.191.125.35        # CRITICAL | Score: 94 | Hangzhou Shentong Investment C | CN
 74.82.47.40          # CRITICAL | Score: 94 | The Shadowserver Foundation, I | US
 204.76.203.73        # CRITICAL | Score: 94 | Intelligence Hosting LLC | NL
@@ -370,6 +372,7 @@
 185.247.137.36       # CRITICAL | Score: 77 | Driftnet Ltd | GB
 167.86.107.35        # CRITICAL | Score: 77 | Contabo GmbH | FR
 167.86.107.35        # CRITICAL | Score: 77 | Contabo GmbH | FR
+95.214.52.233        # CRITICAL | Score: 76 | MEVSPACE sp. z o.o. | PL
 101.200.243.197      # CRITICAL | Score: 76 | Aliyun Computing Co., LTD | CN
 13.222.252.87        # CRITICAL | Score: 76 | Amazon Data Services Northern  | US
 14.145.204.104       # CRITICAL | Score: 76 | CHINANET Guangdong province ne | CN
@@ -644,6 +647,7 @@
 14.225.2.67          # HIGH     | Score: 54 | Vietnam Posts and Telecommunic | VN
 209.38.31.99         # HIGH     | Score: 54 | DigitalOcean, LLC | AU
 170.64.168.136       # HIGH     | Score: 54 | DigitalOcean, LLC | AU
+167.94.146.59        # HIGH     | Score: 52 | Censys, Inc. | US
 147.185.132.76       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 198.235.24.212       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 198.235.24.111       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
