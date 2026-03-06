@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-06 08:28:43 UTC
-# Total IPs: 597
+# Updated: 2026-03-06 09:28:44 UTC
+# Total IPs: 600
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -224,6 +224,7 @@
 78.128.114.38        # CRITICAL | Score: 85 | Tamatiya EOOD | BG
 185.156.73.181       # CRITICAL | Score: 85 | TOV E-RISHENNYA | UA
 167.71.0.189         # CRITICAL | Score: 85 | DigitalOcean, LLC | NL
+47.251.13.59         # CRITICAL | Score: 84 | Alibaba Cloud - US | US
 185.242.246.38       # CRITICAL | Score: 84 | SOLDATOV ALEXEY VALEREVICH | SC
 20.163.60.205        # CRITICAL | Score: 84 | Microsoft Corporation | US
 176.65.148.19        # CRITICAL | Score: 84 | Pfcloud UG | NL
@@ -487,6 +488,7 @@
 47.251.93.227        # HIGH     | Score: 64 | Alibaba Cloud - US | US
 139.162.70.53        # HIGH     | Score: 64 | 139.162.0.0/16 | JP
 20.106.57.180        # HIGH     | Score: 64 | Microsoft Corporation | US
+161.35.40.156        # HIGH     | Score: 63 | DigitalOcean, LLC | GB
 140.246.124.160      # HIGH     | Score: 63 | CHINANET SHANDONG PROVINCE NET | CN
 162.243.37.46        # HIGH     | Score: 63 | DigitalOcean, LLC | US
 20.163.15.34         # HIGH     | Score: 62 | Microsoft Corporation | US
@@ -504,6 +506,7 @@
 175.183.10.183       # HIGH     | Score: 61 | New Century InfoComm Tech. Co. | TW
 54.86.228.47         # HIGH     | Score: 61 | Amazon Technologies Inc. | US
 15.157.122.50        # HIGH     | Score: 61 | Amazon Data Services Canada | CA
+20.64.105.221        # HIGH     | Score: 60 | Microsoft Corporation | US
 185.226.197.74       # HIGH     | Score: 60 | ICG-4-ZEN-AMS | PT
 20.65.193.83         # HIGH     | Score: 60 | Microsoft Corporation | US
 40.76.117.18         # HIGH     | Score: 60 | Microsoft Corporation | US
