@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-06 14:58:01 UTC
-# Total IPs: 720
+# Updated: 2026-03-06 15:58:03 UTC
+# Total IPs: 721
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -615,6 +615,7 @@
 47.251.93.227        # HIGH     | Score: 59 | Alibaba Cloud - US | US
 188.166.120.208      # HIGH     | Score: 59 | Digital Ocean, Inc. | NL
 168.144.29.167       # HIGH     | Score: 59 | DigitalOcean, LLC | IN
+35.167.108.113       # HIGH     | Score: 58 | Amazon.com, Inc. | US
 20.65.144.90         # HIGH     | Score: 57 | Microsoft Corporation | US
 143.42.164.97        # HIGH     | Score: 57 | Linode | US
 40.76.248.252        # HIGH     | Score: 57 | Microsoft Corporation | US
