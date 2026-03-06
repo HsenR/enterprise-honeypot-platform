@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-06 15:58:03 UTC
-# Total IPs: 721
+# Updated: 2026-03-06 16:58:04 UTC
+# Total IPs: 729
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -22,6 +22,7 @@
 218.15.1.181         # CRITICAL | Score:100 | CHINANET Guangdong province ne | CN
 45.43.37.254         # CRITICAL | Score:100 | UCLOUD | TW
 45.43.37.254         # CRITICAL | Score:100 | UCLOUD | TW
+8.221.139.48         # CRITICAL | Score: 98 | Alibaba Cloud (Singapore) Priv | JP
 87.121.84.67         # CRITICAL | Score: 98 | Dedicated Servers and VPS Host | US
 154.81.14.244        # CRITICAL | Score: 98 | UCLOUD INFORMATION TECHNOLOGY  | SC
 187.191.2.214        # CRITICAL | Score: 98 | TOTAL PLAY TELECOMUNICACIONES  | MX
@@ -122,6 +123,7 @@
 87.121.84.67         # CRITICAL | Score: 93 | Dedicated Servers and VPS Host | US
 89.42.231.179        # CRITICAL | Score: 93 | Amarutu Technology Ltd | NL
 89.42.231.179        # CRITICAL | Score: 93 | Amarutu Technology Ltd | NL
+204.76.203.30        # CRITICAL | Score: 92 | Intelligence Hosting LLC | NL
 204.76.203.215       # CRITICAL | Score: 92 | Intelligence Hosting LLC | NL
 87.236.176.103       # CRITICAL | Score: 92 | Driftnet Ltd | GB
 94.102.49.155        # CRITICAL | Score: 92 | FiberXpress BV | NL
@@ -273,6 +275,7 @@
 185.156.73.181       # CRITICAL | Score: 85 | TOV E-RISHENNYA | UA
 167.71.0.189         # CRITICAL | Score: 85 | DigitalOcean, LLC | NL
 78.128.114.38        # CRITICAL | Score: 85 | Tamatiya EOOD | BG
+47.251.13.59         # CRITICAL | Score: 84 | Alibaba Cloud - US | US
 176.65.148.19        # CRITICAL | Score: 84 | Pfcloud UG | NL
 45.156.128.201       # CRITICAL | Score: 84 | INAP-AMS-1 | PT
 185.247.137.66       # CRITICAL | Score: 84 | Driftnet Ltd | GB
@@ -334,6 +337,7 @@
 89.248.168.227       # CRITICAL | Score: 81 | FiberXpress BV | NL
 34.158.79.105        # CRITICAL | Score: 81 | Google LLC | NL
 3.143.162.210        # CRITICAL | Score: 81 | Amazon Technologies Inc. | US
+209.38.23.24         # CRITICAL | Score: 80 | DigitalOcean, LLC | AU
 46.151.182.181       # CRITICAL | Score: 80 | DEMENIN B.V. | NL
 107.172.7.140        # CRITICAL | Score: 80 | HostPapa | US
 3.134.216.108        # CRITICAL | Score: 80 | Amazon Technologies Inc. | US
@@ -372,6 +376,7 @@
 185.247.137.36       # CRITICAL | Score: 77 | Driftnet Ltd | GB
 167.86.107.35        # CRITICAL | Score: 77 | Contabo GmbH | FR
 167.86.107.35        # CRITICAL | Score: 77 | Contabo GmbH | FR
+203.83.11.208        # CRITICAL | Score: 76 | Jiangsu Sanai network science  | CN
 95.214.52.233        # CRITICAL | Score: 76 | MEVSPACE sp. z o.o. | PL
 101.200.243.197      # CRITICAL | Score: 76 | Aliyun Computing Co., LTD | CN
 13.222.252.87        # CRITICAL | Score: 76 | Amazon Data Services Northern  | US
@@ -528,6 +533,7 @@
 45.151.139.200       # HIGH     | Score: 68 | TIME-HOST-NET | RU
 193.163.125.236      # HIGH     | Score: 68 | Driftnet Ltd | GB
 162.243.37.46        # HIGH     | Score: 68 | DigitalOcean, LLC | US
+45.142.154.10        # HIGH     | Score: 67 | HDTIDC LIMITED | HK
 45.142.154.98        # HIGH     | Score: 67 | HDTIDC LIMITED | HK
 128.199.8.140        # HIGH     | Score: 67 | DigitalOcean, LLC | US
 135.237.126.148      # HIGH     | Score: 67 | Microsoft Limited | US
@@ -574,6 +580,7 @@
 140.246.124.160      # HIGH     | Score: 63 | CHINANET SHANDONG PROVINCE NET | CN
 162.243.37.46        # HIGH     | Score: 63 | DigitalOcean, LLC | US
 161.35.40.156        # HIGH     | Score: 63 | DigitalOcean, LLC | GB
+62.60.130.7          # HIGH     | Score: 62 | CIPHER OPERATIONS DOO BEOGRAD  | IR
 20.163.15.34         # HIGH     | Score: 62 | Microsoft Corporation | US
 48.214.25.59         # HIGH     | Score: 62 | Microsoft Limited | US
 185.247.137.236      # HIGH     | Score: 62 | Driftnet Ltd | GB
@@ -636,6 +643,7 @@
 64.227.109.89        # HIGH     | Score: 55 | DigitalOcean, LLC | US
 108.181.221.34       # HIGH     | Score: 55 | Psychz Networks | US
 173.212.236.89       # HIGH     | Score: 55 | Contabo GmbH | FR
+130.12.180.174       # HIGH     | Score: 54 | Virtualine Technologies | US
 20.64.105.81         # HIGH     | Score: 54 | Microsoft Corporation | US
 45.33.105.182        # HIGH     | Score: 54 | Linode | US
 143.42.164.127       # HIGH     | Score: 54 | Linode | US
