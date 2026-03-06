@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-06 09:28:44 UTC
-# Total IPs: 600
+# Updated: 2026-03-06 12:57:59 UTC
+# Total IPs: 602
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -65,6 +65,7 @@
 45.138.16.145        # CRITICAL | Score: 96 | 1337 Services GmbH | PL
 77.90.185.16         # CRITICAL | Score: 96 | Inside Network LTD | IR
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
+5.101.64.6           # CRITICAL | Score: 94 | public vlans of DC | RU
 185.226.197.12       # CRITICAL | Score: 94 | ICG-4-ZEN-AMS | PT
 87.236.176.246       # CRITICAL | Score: 94 | Driftnet Ltd | GB
 185.247.137.237      # CRITICAL | Score: 94 | Driftnet Ltd | GB
@@ -103,6 +104,7 @@
 94.231.206.11        # CRITICAL | Score: 93 | FR ONYPHE | CN
 87.121.84.67         # CRITICAL | Score: 93 | Dedicated Servers and VPS Host | US
 89.42.231.179        # CRITICAL | Score: 93 | Amarutu Technology Ltd | NL
+176.32.195.85        # CRITICAL | Score: 92 | Interactive TV LLC | AM
 91.196.152.32        # CRITICAL | Score: 92 | FR ONYPHE | FR
 91.196.152.167       # CRITICAL | Score: 92 | FR ONYPHE | FR
 176.65.132.39        # CRITICAL | Score: 92 | VMHeaven.io | DE
