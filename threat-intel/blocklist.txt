@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-06 05:28:40 UTC
-# Total IPs: 574
+# Updated: 2026-03-06 06:28:41 UTC
+# Total IPs: 582
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -240,6 +240,7 @@
 76.174.80.164        # CRITICAL | Score: 83 | Charter Communications Inc | US
 76.174.80.164        # CRITICAL | Score: 83 | Charter Communications Inc | US
 47.103.36.53         # CRITICAL | Score: 83 | Aliyun Computing Co., LTD | CN
+20.163.39.86         # CRITICAL | Score: 82 | Microsoft Corporation | US
 144.202.82.88        # CRITICAL | Score: 82 | Vultr Holdings, LLC | US
 144.202.82.88        # CRITICAL | Score: 82 | Vultr Holdings, LLC | US
 176.65.149.253       # CRITICAL | Score: 82 | Pfcloud UG | NL
@@ -249,6 +250,7 @@
 78.128.114.126       # CRITICAL | Score: 82 | Tamatiya EOOD | BG
 89.248.163.200       # CRITICAL | Score: 82 | RECYBER PROJECT NETBLOCK | NL
 144.202.82.88        # CRITICAL | Score: 82 | Vultr Holdings, LLC | US
+34.158.79.105        # CRITICAL | Score: 81 | Google LLC | NL
 89.248.168.227       # CRITICAL | Score: 81 | FiberXpress BV | NL
 18.218.118.203       # CRITICAL | Score: 81 | Amazon Technologies Inc. | US
 94.231.206.6         # CRITICAL | Score: 81 | FR ONYPHE | CN
@@ -372,6 +374,7 @@
 34.14.58.194         # HIGH     | Score: 73 | Google LLC | BE
 34.140.188.44        # HIGH     | Score: 73 | Google LLC | BE
 34.140.188.44        # HIGH     | Score: 73 | Google LLC | BE
+20.29.24.90          # HIGH     | Score: 72 | Microsoft Corporation | US
 193.163.125.136      # HIGH     | Score: 72 | Driftnet Ltd | GB
 194.187.176.176      # HIGH     | Score: 72 | Alpha Strike Labs GmbH | DE
 109.105.210.94       # HIGH     | Score: 72 | ICG-ZEN-DFW | PT
@@ -423,6 +426,7 @@
 194.180.48.63        # HIGH     | Score: 69 | Neterra Ltd. | DE
 203.83.11.210        # HIGH     | Score: 69 | Jiangsu Sanai network science  | CN
 100.28.153.226       # HIGH     | Score: 69 | Amazon Data Services Northern  | US
+193.163.125.236      # HIGH     | Score: 68 | Driftnet Ltd | GB
 119.237.27.185       # HIGH     | Score: 68 | Hong Kong Telecommunications ( | HK
 65.21.61.209         # HIGH     | Score: 68 | Hetzner Online GmbH | FI
 100.28.191.174       # HIGH     | Score: 68 | Amazon Data Services Northern  | US
@@ -436,6 +440,7 @@
 193.163.125.236      # HIGH     | Score: 68 | Driftnet Ltd | GB
 104.236.240.67       # HIGH     | Score: 68 | DigitalOcean, LLC | US
 45.151.139.200       # HIGH     | Score: 68 | TIME-HOST-NET | RU
+128.199.8.140        # HIGH     | Score: 67 | DigitalOcean, LLC | US
 135.237.126.148      # HIGH     | Score: 67 | Microsoft Limited | US
 45.142.154.98        # HIGH     | Score: 67 | HDTIDC LIMITED | HK
 52.90.57.39          # HIGH     | Score: 67 | Amazon Technologies Inc. | US
@@ -473,6 +478,8 @@
 20.106.57.180        # HIGH     | Score: 64 | Microsoft Corporation | US
 140.246.124.160      # HIGH     | Score: 63 | CHINANET SHANDONG PROVINCE NET | CN
 162.243.37.46        # HIGH     | Score: 63 | DigitalOcean, LLC | US
+20.163.15.34         # HIGH     | Score: 62 | Microsoft Corporation | US
+40.124.173.2         # HIGH     | Score: 62 | Microsoft Corporation | US
 48.214.25.59         # HIGH     | Score: 62 | Microsoft Limited | US
 185.247.137.236      # HIGH     | Score: 62 | Driftnet Ltd | GB
 48.214.25.59         # HIGH     | Score: 62 | Microsoft Limited | US
@@ -582,6 +589,7 @@
 14.225.2.67          # HIGH     | Score: 51 | Vietnam Posts and Telecommunic | VN
 44.247.181.228       # HIGH     | Score: 51 | Amazon.com, Inc. | US
 103.203.57.5         # HIGH     | Score: 51 | Beijing Tiantexin Tech. Co., L | CN
+162.142.125.213      # HIGH     | Score: 50 | Censys, Inc. | US
 115.175.227.67       # HIGH     | Score: 50 | Huawei Public Cloud Service (H | CN
 45.143.180.243       # HIGH     | Score: 50 | TELEMANAPOLI S.R.L. | IT
 205.210.31.185       # HIGH     | Score: 50 | Palo Alto Networks, Inc | US
