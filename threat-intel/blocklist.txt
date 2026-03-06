@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-06 06:28:41 UTC
-# Total IPs: 582
+# Updated: 2026-03-06 07:28:42 UTC
+# Total IPs: 591
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -32,6 +32,7 @@
 181.176.14.90        # CRITICAL | Score: 98 | VIETTEL PERÚ S.A.C. | PE
 16.58.56.214         # CRITICAL | Score: 98 | Amazon.com, Inc. | US
 3.131.220.121        # CRITICAL | Score: 98 | Amazon Technologies Inc. | US
+185.226.197.15       # CRITICAL | Score: 96 | ICG-4-ZEN-AMS | PT
 80.82.70.133         # CRITICAL | Score: 96 | FiberXpress BV | NL
 207.231.108.199      # CRITICAL | Score: 96 | HostRush | US
 5.61.209.96          # CRITICAL | Score: 96 | Amarutu Technology Ltd | SC
@@ -64,6 +65,7 @@
 45.138.16.145        # CRITICAL | Score: 96 | 1337 Services GmbH | PL
 77.90.185.16         # CRITICAL | Score: 96 | Inside Network LTD | IR
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
+185.226.197.12       # CRITICAL | Score: 94 | ICG-4-ZEN-AMS | PT
 87.236.176.246       # CRITICAL | Score: 94 | Driftnet Ltd | GB
 185.247.137.237      # CRITICAL | Score: 94 | Driftnet Ltd | GB
 204.76.203.73        # CRITICAL | Score: 94 | Intelligence Hosting LLC | NL
@@ -101,6 +103,7 @@
 94.231.206.11        # CRITICAL | Score: 93 | FR ONYPHE | CN
 87.121.84.67         # CRITICAL | Score: 93 | Dedicated Servers and VPS Host | US
 89.42.231.179        # CRITICAL | Score: 93 | Amarutu Technology Ltd | NL
+91.196.152.32        # CRITICAL | Score: 92 | FR ONYPHE | FR
 91.196.152.167       # CRITICAL | Score: 92 | FR ONYPHE | FR
 176.65.132.39        # CRITICAL | Score: 92 | VMHeaven.io | DE
 204.76.203.30        # CRITICAL | Score: 92 | Intelligence Hosting LLC | NL
@@ -157,6 +160,7 @@
 3.129.187.38         # CRITICAL | Score: 91 | Amazon Technologies Inc. | US
 176.65.139.41        # CRITICAL | Score: 91 | Storm Industries | DE
 85.11.183.6          # CRITICAL | Score: 91 | SOFCOMPANY Ltd | GB
+206.168.34.114       # CRITICAL | Score: 90 | Censys, Inc. | US
 206.168.34.126       # CRITICAL | Score: 90 | Censys, Inc. | US
 206.168.34.37        # CRITICAL | Score: 90 | Censys, Inc. | US
 93.123.109.246       # CRITICAL | Score: 90 | TECHOFF_SRV_LIMITED | BG
@@ -196,6 +200,7 @@
 45.194.92.9          # CRITICAL | Score: 88 | VPSVAULT.HOST LTD | US
 178.83.200.2         # CRITICAL | Score: 88 | Internet Utilities Europe and  | GB
 165.101.154.85       # CRITICAL | Score: 88 | Sierra.Net Network & Data Solu | PH
+20.169.105.52        # CRITICAL | Score: 87 | Microsoft Corporation | US
 195.178.110.246      # CRITICAL | Score: 87 | TECHOFF SRV LIMITED | BG
 195.178.110.246      # CRITICAL | Score: 87 | TECHOFF SRV LIMITED | BG
 65.49.1.132          # CRITICAL | Score: 87 | The Shadowserver Foundation, I | US
@@ -374,6 +379,7 @@
 34.14.58.194         # HIGH     | Score: 73 | Google LLC | BE
 34.140.188.44        # HIGH     | Score: 73 | Google LLC | BE
 34.140.188.44        # HIGH     | Score: 73 | Google LLC | BE
+185.226.197.75       # HIGH     | Score: 72 | ICG-4-ZEN-AMS | PT
 20.29.24.90          # HIGH     | Score: 72 | Microsoft Corporation | US
 193.163.125.136      # HIGH     | Score: 72 | Driftnet Ltd | GB
 194.187.176.176      # HIGH     | Score: 72 | Alpha Strike Labs GmbH | DE
@@ -493,6 +499,7 @@
 175.183.10.183       # HIGH     | Score: 61 | New Century InfoComm Tech. Co. | TW
 54.86.228.47         # HIGH     | Score: 61 | Amazon Technologies Inc. | US
 15.157.122.50        # HIGH     | Score: 61 | Amazon Data Services Canada | CA
+185.226.197.74       # HIGH     | Score: 60 | ICG-4-ZEN-AMS | PT
 20.65.193.83         # HIGH     | Score: 60 | Microsoft Corporation | US
 40.76.117.18         # HIGH     | Score: 60 | Microsoft Corporation | US
 20.65.195.41         # HIGH     | Score: 60 | Microsoft Corporation | US
@@ -589,6 +596,8 @@
 14.225.2.67          # HIGH     | Score: 51 | Vietnam Posts and Telecommunic | VN
 44.247.181.228       # HIGH     | Score: 51 | Amazon.com, Inc. | US
 103.203.57.5         # HIGH     | Score: 51 | Beijing Tiantexin Tech. Co., L | CN
+137.184.25.194       # HIGH     | Score: 50 | DigitalOcean, LLC | US
+198.235.24.22        # HIGH     | Score: 50 | Palo Alto Networks, Inc | US
 162.142.125.213      # HIGH     | Score: 50 | Censys, Inc. | US
 115.175.227.67       # HIGH     | Score: 50 | Huawei Public Cloud Service (H | CN
 45.143.180.243       # HIGH     | Score: 50 | TELEMANAPOLI S.R.L. | IT
