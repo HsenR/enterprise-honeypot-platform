@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-06 04:28:39 UTC
-# Total IPs: 567
+# Updated: 2026-03-06 05:28:40 UTC
+# Total IPs: 574
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -436,6 +436,7 @@
 193.163.125.236      # HIGH     | Score: 68 | Driftnet Ltd | GB
 104.236.240.67       # HIGH     | Score: 68 | DigitalOcean, LLC | US
 45.151.139.200       # HIGH     | Score: 68 | TIME-HOST-NET | RU
+135.237.126.148      # HIGH     | Score: 67 | Microsoft Limited | US
 45.142.154.98        # HIGH     | Score: 67 | HDTIDC LIMITED | HK
 52.90.57.39          # HIGH     | Score: 67 | Amazon Technologies Inc. | US
 167.172.134.198      # HIGH     | Score: 67 | DigitalOcean, LLC | US
@@ -526,6 +527,12 @@
 34.76.96.243         # HIGH     | Score: 54 | Google LLC | BE
 20.119.86.70         # HIGH     | Score: 54 | Microsoft Corporation | US
 20.64.105.81         # HIGH     | Score: 54 | Microsoft Corporation | US
+167.94.146.51        # HIGH     | Score: 52 | Censys, Inc. | US
+198.235.24.28        # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
+198.235.24.111       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
+20.51.245.30         # HIGH     | Score: 52 | Microsoft Corporation | US
+205.210.31.234       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
+139.162.119.61       # HIGH     | Score: 52 | 139.162.0.0/16 | JP
 205.210.31.8         # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 112.74.242.167       # HIGH     | Score: 52 | Aliyun Computing Co., LTD | CN
 147.185.132.87       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
