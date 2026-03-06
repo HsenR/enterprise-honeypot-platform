@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-06 07:28:42 UTC
-# Total IPs: 591
+# Updated: 2026-03-06 08:28:43 UTC
+# Total IPs: 597
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -160,6 +160,7 @@
 3.129.187.38         # CRITICAL | Score: 91 | Amazon Technologies Inc. | US
 176.65.139.41        # CRITICAL | Score: 91 | Storm Industries | DE
 85.11.183.6          # CRITICAL | Score: 91 | SOFCOMPANY Ltd | GB
+206.168.34.118       # CRITICAL | Score: 90 | Censys, Inc. | US
 206.168.34.114       # CRITICAL | Score: 90 | Censys, Inc. | US
 206.168.34.126       # CRITICAL | Score: 90 | Censys, Inc. | US
 206.168.34.37        # CRITICAL | Score: 90 | Censys, Inc. | US
@@ -311,6 +312,7 @@
 43.139.65.242        # CRITICAL | Score: 77 | Tencent Cloud Computing (Beiji | CN
 185.247.137.36       # CRITICAL | Score: 77 | Driftnet Ltd | GB
 167.86.107.35        # CRITICAL | Score: 77 | Contabo GmbH | FR
+95.214.52.233        # CRITICAL | Score: 76 | MEVSPACE sp. z o.o. | PL
 185.247.137.241      # CRITICAL | Score: 76 | Driftnet Ltd | GB
 13.222.252.87        # CRITICAL | Score: 76 | Amazon Data Services Northern  | US
 14.145.204.104       # CRITICAL | Score: 76 | CHINANET Guangdong province ne | CN
@@ -345,6 +347,7 @@
 20.65.194.73         # CRITICAL | Score: 75 | Microsoft Corporation | US
 
 # ── HIGH THREATS ─────────────────────────────────────
+139.162.78.6         # HIGH     | Score: 74 | 139.162.0.0/16 | JP
 3.85.184.110         # HIGH     | Score: 74 | Amazon Data Services Northern  | US
 54.152.26.85         # HIGH     | Score: 74 | Amazon Technologies Inc. | US
 138.68.89.128        # HIGH     | Score: 74 | DigitalOcean, LLC | DE
@@ -379,6 +382,7 @@
 34.14.58.194         # HIGH     | Score: 73 | Google LLC | BE
 34.140.188.44        # HIGH     | Score: 73 | Google LLC | BE
 34.140.188.44        # HIGH     | Score: 73 | Google LLC | BE
+74.249.178.165       # HIGH     | Score: 72 | Microsoft Corporation | US
 185.226.197.75       # HIGH     | Score: 72 | ICG-4-ZEN-AMS | PT
 20.29.24.90          # HIGH     | Score: 72 | Microsoft Corporation | US
 193.163.125.136      # HIGH     | Score: 72 | Driftnet Ltd | GB
@@ -400,6 +404,7 @@
 106.13.124.241       # HIGH     | Score: 71 | Beijing Baidu Netcom Science a | CN
 3.85.160.111         # HIGH     | Score: 71 | Amazon Data Services Northern  | US
 3.85.160.111         # HIGH     | Score: 71 | Amazon Data Services Northern  | US
+111.119.234.232      # HIGH     | Score: 70 | Huawei-Cloud-SG | SG
 40.76.125.17         # HIGH     | Score: 70 | Microsoft Corporation | US
 34.230.221.101       # HIGH     | Score: 70 | Amazon Technologies Inc. | US
 20.64.105.82         # HIGH     | Score: 70 | Microsoft Corporation | US
@@ -541,6 +546,7 @@
 34.76.96.243         # HIGH     | Score: 54 | Google LLC | BE
 20.119.86.70         # HIGH     | Score: 54 | Microsoft Corporation | US
 20.64.105.81         # HIGH     | Score: 54 | Microsoft Corporation | US
+167.94.138.171       # HIGH     | Score: 52 | Censys, Inc. | US
 167.94.146.51        # HIGH     | Score: 52 | Censys, Inc. | US
 198.235.24.28        # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 198.235.24.111       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
