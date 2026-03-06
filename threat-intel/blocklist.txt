@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-06 01:27:01 UTC
-# Total IPs: 424
+# Updated: 2026-03-06 03:28:38 UTC
+# Total IPs: 427
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -51,6 +51,7 @@
 77.90.185.16         # CRITICAL | Score: 96 | Inside Network LTD | IR
 80.82.70.133         # CRITICAL | Score: 96 | FiberXpress BV | NL
 198.98.61.65         # CRITICAL | Score: 96 | FranTech Solutions | US
+87.236.176.246       # CRITICAL | Score: 94 | Driftnet Ltd | GB
 74.82.47.40          # CRITICAL | Score: 94 | The Shadowserver Foundation, I | US
 74.82.47.48          # CRITICAL | Score: 94 | The Shadowserver Foundation, I | US
 74.82.47.20          # CRITICAL | Score: 94 | The Shadowserver Foundation, I | US
@@ -211,6 +212,7 @@
 3.134.216.108        # CRITICAL | Score: 80 | Amazon Technologies Inc. | US
 107.172.7.140        # CRITICAL | Score: 80 | HostPapa | US
 78.128.114.38        # CRITICAL | Score: 80 | Tamatiya EOOD | BG
+185.247.137.226      # CRITICAL | Score: 79 | Driftnet Ltd | GB
 87.121.84.57         # CRITICAL | Score: 79 | Dedicated Servers and VPS Host | US
 220.82.236.135       # CRITICAL | Score: 79 | Korea Telecom | KR
 182.92.181.218       # CRITICAL | Score: 79 | Aliyun Computing Co., LTD | CN
@@ -228,6 +230,7 @@
 167.86.107.35        # CRITICAL | Score: 77 | Contabo GmbH | FR
 43.139.65.242        # CRITICAL | Score: 77 | Tencent Cloud Computing (Beiji | CN
 185.247.137.36       # CRITICAL | Score: 77 | Driftnet Ltd | GB
+3.132.26.232         # CRITICAL | Score: 76 | Amazon Technologies Inc. | US
 185.247.137.241      # CRITICAL | Score: 76 | Driftnet Ltd | GB
 100.50.17.159        # CRITICAL | Score: 76 | Amazon Data Services Northern  | US
 13.222.252.87        # CRITICAL | Score: 76 | Amazon Data Services Northern  | US
