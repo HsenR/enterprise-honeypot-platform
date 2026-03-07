@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-07 17:26:53 UTC
-# Total IPs: 886
+# Updated: 2026-03-07 18:26:54 UTC
+# Total IPs: 894
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -93,6 +93,7 @@
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
+93.174.93.12         # CRITICAL | Score: 94 | FiberXpress BV | NL
 185.12.59.118        # CRITICAL | Score: 94 | Blix Group AS | NO
 93.174.93.12         # CRITICAL | Score: 94 | FiberXpress BV | NL
 71.6.199.65          # CRITICAL | Score: 94 | CariNet, Inc. | US
@@ -151,6 +152,7 @@
 89.42.231.179        # CRITICAL | Score: 93 | Amarutu Technology Ltd | NL
 89.42.231.179        # CRITICAL | Score: 93 | Amarutu Technology Ltd | NL
 89.42.231.179        # CRITICAL | Score: 93 | Amarutu Technology Ltd | NL
+185.224.128.251      # CRITICAL | Score: 92 | Alsycon B.V. | NL
 204.76.203.18        # CRITICAL | Score: 92 | Intelligence Hosting LLC | NL
 45.153.34.187        # CRITICAL | Score: 92 | VMHeaven.io | NL
 204.76.203.18        # CRITICAL | Score: 92 | Intelligence Hosting LLC | NL
@@ -218,6 +220,7 @@
 204.76.203.30        # CRITICAL | Score: 92 | Intelligence Hosting LLC | NL
 87.236.176.64        # CRITICAL | Score: 92 | Driftnet Ltd | GB
 176.32.195.85        # CRITICAL | Score: 92 | Interactive TV LLC | AM
+167.172.43.192       # CRITICAL | Score: 91 | DigitalOcean, LLC | NL
 180.232.31.146       # CRITICAL | Score: 91 | Eastern Telecom's DSL-Client | PH
 212.0.217.26         # CRITICAL | Score: 91 | JSC Moldtelecom S.A. | MD
 119.18.55.118        # CRITICAL | Score: 91 | Hostgator Asian Operations Div | IN
@@ -279,6 +282,7 @@
 206.168.34.114       # CRITICAL | Score: 90 | Censys, Inc. | US
 206.168.34.118       # CRITICAL | Score: 90 | Censys, Inc. | US
 98.89.204.118        # CRITICAL | Score: 90 | Amazon Data Services Northern  | US
+66.132.153.128       # CRITICAL | Score: 89 | Censys, Inc. | US
 66.132.153.140       # CRITICAL | Score: 89 | Censys, Inc. | US
 87.236.176.65        # CRITICAL | Score: 89 | Driftnet Ltd | GB
 185.242.226.22       # CRITICAL | Score: 89 | HostUS Solutions LLC | US
@@ -320,6 +324,7 @@
 20.169.105.52        # CRITICAL | Score: 87 | Microsoft Corporation | US
 20.169.105.52        # CRITICAL | Score: 87 | Microsoft Corporation | US
 91.196.152.151       # CRITICAL | Score: 87 | FR ONYPHE | FR
+102.22.20.125        # CRITICAL | Score: 86 | Dimension Data Ltd | GH
 34.158.79.105        # CRITICAL | Score: 86 | Google LLC | NL
 95.85.234.50         # CRITICAL | Score: 86 | WAIcore Ltd | DE
 71.6.232.30          # CRITICAL | Score: 86 | CariNet, Inc. | US
@@ -376,6 +381,7 @@
 138.68.133.32        # CRITICAL | Score: 83 | DigitalOcean, LLC | GB
 47.103.36.53         # CRITICAL | Score: 83 | Aliyun Computing Co., LTD | CN
 47.103.36.53         # CRITICAL | Score: 83 | Aliyun Computing Co., LTD | CN
+13.89.124.211        # CRITICAL | Score: 82 | Microsoft Corporation | US
 144.202.82.88        # CRITICAL | Score: 82 | Vultr Holdings, LLC | US
 144.202.82.88        # CRITICAL | Score: 82 | Vultr Holdings, LLC | US
 176.65.149.253       # CRITICAL | Score: 82 | Pfcloud UG | NL
@@ -514,6 +520,7 @@
 164.92.146.87        # CRITICAL | Score: 75 | DigitalOcean, LLC | NL
 
 # ── HIGH THREATS ─────────────────────────────────────
+178.20.210.151       # HIGH     | Score: 74 | Shereverov Marat Ahmedovich | DE
 3.85.184.110         # HIGH     | Score: 74 | Amazon Data Services Northern  | US
 54.152.26.85         # HIGH     | Score: 74 | Amazon Technologies Inc. | US
 138.68.89.128        # HIGH     | Score: 74 | DigitalOcean, LLC | DE
@@ -648,6 +655,7 @@
 45.142.154.10        # HIGH     | Score: 67 | HDTIDC LIMITED | HK
 20.119.75.60         # HIGH     | Score: 67 | Microsoft Corporation | US
 192.241.179.235      # HIGH     | Score: 67 | DigitalOcean, LLC | US
+183.232.212.193      # HIGH     | Score: 66 | China Mobile Communications Co | CN
 167.172.100.176      # HIGH     | Score: 66 | DigitalOcean, LLC | DE
 3.239.13.6           # HIGH     | Score: 66 | Amazon Data Services Northern  | US
 52.36.5.236          # HIGH     | Score: 66 | Amazon Technologies Inc. | US
