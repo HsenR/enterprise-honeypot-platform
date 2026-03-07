@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-07 10:26:46 UTC
-# Total IPs: 868
+# Updated: 2026-03-07 11:26:47 UTC
+# Total IPs: 871
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -314,6 +314,7 @@
 20.169.105.52        # CRITICAL | Score: 87 | Microsoft Corporation | US
 20.169.105.52        # CRITICAL | Score: 87 | Microsoft Corporation | US
 91.196.152.151       # CRITICAL | Score: 87 | FR ONYPHE | FR
+34.158.79.105        # CRITICAL | Score: 86 | Google LLC | NL
 95.85.234.50         # CRITICAL | Score: 86 | WAIcore Ltd | DE
 71.6.232.30          # CRITICAL | Score: 86 | CariNet, Inc. | US
 74.50.81.220         # CRITICAL | Score: 86 | Host Department NJ, LLC | US
@@ -625,6 +626,7 @@
 45.151.139.200       # HIGH     | Score: 68 | TIME-HOST-NET | RU
 45.151.139.200       # HIGH     | Score: 68 | TIME-HOST-NET | RU
 130.12.180.174       # HIGH     | Score: 68 | Virtualine Technologies | US
+45.142.154.10        # HIGH     | Score: 67 | HDTIDC LIMITED | HK
 167.172.134.198      # HIGH     | Score: 67 | DigitalOcean, LLC | US
 161.35.135.113       # HIGH     | Score: 67 | DigitalOcean, LLC | US
 45.142.154.98        # HIGH     | Score: 67 | HDTIDC LIMITED | HK
@@ -777,6 +779,7 @@
 104.248.160.105      # HIGH     | Score: 54 | DigitalOcean, LLC | GB
 87.106.3.40          # HIGH     | Score: 53 | IONOS SE | FR
 8.222.153.157        # HIGH     | Score: 53 | Alibaba Cloud (Singapore) Priv | SG
+167.94.138.60        # HIGH     | Score: 52 | Censys, Inc. | US
 205.210.31.31        # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 97.107.133.213       # HIGH     | Score: 52 | Linode | US
 167.94.138.117       # HIGH     | Score: 52 | Censys, Inc. | US
