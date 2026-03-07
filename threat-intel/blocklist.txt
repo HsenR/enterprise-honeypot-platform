@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-07 22:26:58 UTC
-# Total IPs: 906
+# Updated: 2026-03-07 23:26:59 UTC
+# Total IPs: 908
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -25,6 +25,7 @@
 45.91.64.7           # CRITICAL | Score:100 | F6 | RU
 144.91.93.174        # CRITICAL | Score:100 | Contabo GmbH | FR
 45.91.64.7           # CRITICAL | Score:100 | F6 | RU
+87.121.84.67         # CRITICAL | Score: 98 | Dedicated Servers and VPS Host | US
 87.121.84.67         # CRITICAL | Score: 98 | Dedicated Servers and VPS Host | US
 154.81.14.244        # CRITICAL | Score: 98 | UCLOUD INFORMATION TECHNOLOGY  | SC
 187.191.2.214        # CRITICAL | Score: 98 | TOTAL PLAY TELECOMUNICACIONES  | MX
@@ -807,6 +808,7 @@
 104.248.160.105      # HIGH     | Score: 54 | DigitalOcean, LLC | GB
 87.106.3.40          # HIGH     | Score: 53 | IONOS SE | FR
 8.222.153.157        # HIGH     | Score: 53 | Alibaba Cloud (Singapore) Priv | SG
+167.94.146.55        # HIGH     | Score: 52 | Censys, Inc. | US
 162.142.125.219      # HIGH     | Score: 52 | Censys, Inc. | US
 162.142.125.211      # HIGH     | Score: 52 | Censys, Inc. | US
 198.235.24.29        # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
