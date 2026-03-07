@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-07 07:26:43 UTC
-# Total IPs: 858
+# Updated: 2026-03-07 08:26:44 UTC
+# Total IPs: 862
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -453,6 +453,7 @@
 185.247.137.36       # CRITICAL | Score: 77 | Driftnet Ltd | GB
 167.86.107.35        # CRITICAL | Score: 77 | Contabo GmbH | FR
 167.86.107.35        # CRITICAL | Score: 77 | Contabo GmbH | FR
+100.50.17.159        # CRITICAL | Score: 76 | Amazon Data Services Northern  | US
 203.83.11.208        # CRITICAL | Score: 76 | Jiangsu Sanai network science  | CN
 101.200.243.197      # CRITICAL | Score: 76 | Aliyun Computing Co., LTD | CN
 206.189.107.18       # CRITICAL | Score: 76 | DigitalOcean, LLC | NL
@@ -668,6 +669,7 @@
 20.106.57.180        # HIGH     | Score: 64 | Microsoft Corporation | US
 34.38.101.176        # HIGH     | Score: 64 | Google LLC | BE
 161.35.40.156        # HIGH     | Score: 64 | DigitalOcean, LLC | GB
+100.28.191.174       # HIGH     | Score: 63 | Amazon Data Services Northern  | US
 140.246.124.160      # HIGH     | Score: 63 | CHINANET SHANDONG PROVINCE NET | CN
 162.243.37.46        # HIGH     | Score: 63 | DigitalOcean, LLC | US
 161.35.40.156        # HIGH     | Score: 63 | DigitalOcean, LLC | GB
@@ -694,6 +696,7 @@
 15.157.122.50        # HIGH     | Score: 61 | Amazon Data Services Canada | CA
 175.183.10.183       # HIGH     | Score: 61 | New Century InfoComm Tech. Co. | TW
 15.157.122.50        # HIGH     | Score: 61 | Amazon Data Services Canada | CA
+20.65.193.199        # HIGH     | Score: 60 | Microsoft Corporation | US
 64.227.109.89        # HIGH     | Score: 60 | DigitalOcean, LLC | US
 20.65.195.41         # HIGH     | Score: 60 | Microsoft Corporation | US
 34.79.87.162         # HIGH     | Score: 60 | Google LLC | BE
@@ -707,6 +710,7 @@
 20.64.105.221        # HIGH     | Score: 60 | Microsoft Corporation | US
 13.89.125.21         # HIGH     | Score: 60 | Microsoft Corporation | US
 20.65.194.56         # HIGH     | Score: 60 | Microsoft Corporation | US
+130.131.161.76       # HIGH     | Score: 59 | Microsoft Limited | US
 20.127.157.56        # HIGH     | Score: 59 | Microsoft Corporation | US
 64.23.165.151        # HIGH     | Score: 59 | DigitalOcean, LLC | US
 192.241.244.23       # HIGH     | Score: 59 | DigitalOcean, LLC | US
