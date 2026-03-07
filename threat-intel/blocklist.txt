@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-07 01:58:13 UTC
-# Total IPs: 738
+# Updated: 2026-03-07 03:26:39 UTC
+# Total IPs: 742
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -78,6 +78,7 @@
 185.226.197.15       # CRITICAL | Score: 96 | ICG-4-ZEN-AMS | PT
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
+66.132.153.112       # CRITICAL | Score: 94 | Censys, Inc. | US
 66.132.153.134       # CRITICAL | Score: 94 | Censys, Inc. | US
 80.94.92.168         # CRITICAL | Score: 94 | TECHOFF SRV LIMITED | RO
 60.191.125.35        # CRITICAL | Score: 94 | Hangzhou Shentong Investment C | CN
@@ -183,6 +184,7 @@
 193.142.146.230      # CRITICAL | Score: 92 | ColocaTel Datacenter | DE
 45.148.10.121        # CRITICAL | Score: 92 | TECHOFF SRV LIMITED | NL
 91.224.92.177        # CRITICAL | Score: 92 | Cloud hosting | GB
+112.163.119.199      # CRITICAL | Score: 91 | Korea Telecom | KR
 139.162.117.40       # CRITICAL | Score: 91 | 139.162.0.0/16 | JP
 180.232.31.146       # CRITICAL | Score: 91 | Eastern Telecom's DSL-Client | PH
 212.0.217.26         # CRITICAL | Score: 91 | JSC Moldtelecom S.A. | MD
@@ -539,6 +541,7 @@
 45.151.139.200       # HIGH     | Score: 68 | TIME-HOST-NET | RU
 193.163.125.236      # HIGH     | Score: 68 | Driftnet Ltd | GB
 162.243.37.46        # HIGH     | Score: 68 | DigitalOcean, LLC | US
+20.119.75.60         # HIGH     | Score: 67 | Microsoft Corporation | US
 45.142.154.10        # HIGH     | Score: 67 | HDTIDC LIMITED | HK
 45.142.154.98        # HIGH     | Score: 67 | HDTIDC LIMITED | HK
 128.199.8.140        # HIGH     | Score: 67 | DigitalOcean, LLC | US
@@ -663,6 +666,7 @@
 14.225.2.67          # HIGH     | Score: 54 | Vietnam Posts and Telecommunic | VN
 209.38.31.99         # HIGH     | Score: 54 | DigitalOcean, LLC | AU
 170.64.168.136       # HIGH     | Score: 54 | DigitalOcean, LLC | AU
+162.142.125.218      # HIGH     | Score: 52 | Censys, Inc. | US
 162.142.125.124      # HIGH     | Score: 52 | Censys, Inc. | US
 167.94.146.59        # HIGH     | Score: 52 | Censys, Inc. | US
 147.185.132.76       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
