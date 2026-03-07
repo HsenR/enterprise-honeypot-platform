@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-06 23:58:10 UTC
-# Total IPs: 730
+# Updated: 2026-03-07 00:58:12 UTC
+# Total IPs: 733
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -15,6 +15,7 @@
 #
 
 # ── CRITICAL THREATS ─────────────────────────────────
+45.91.64.7           # CRITICAL | Score:100 | F6 | RU
 170.39.216.152       # CRITICAL | Score:100 | REDHEBERG SAS | FR
 45.91.64.7           # CRITICAL | Score:100 | F6 | RU
 8.220.192.64         # CRITICAL | Score:100 | Alibaba Cloud (Singapore) Priv | KR
@@ -36,6 +37,7 @@
 181.176.14.90        # CRITICAL | Score: 98 | VIETTEL PERÚ S.A.C. | PE
 3.131.220.121        # CRITICAL | Score: 98 | Amazon Technologies Inc. | US
 16.58.56.214         # CRITICAL | Score: 98 | Amazon.com, Inc. | US
+185.36.81.23         # CRITICAL | Score: 96 | Cloud hosting | LT
 74.82.47.24          # CRITICAL | Score: 96 | The Shadowserver Foundation, I | US
 207.231.108.199      # CRITICAL | Score: 96 | HostRush | US
 5.61.209.96          # CRITICAL | Score: 96 | Amarutu Technology Ltd | SC
@@ -302,6 +304,7 @@
 47.103.36.53         # CRITICAL | Score: 83 | Aliyun Computing Co., LTD | CN
 138.68.133.32        # CRITICAL | Score: 83 | DigitalOcean, LLC | GB
 47.103.36.53         # CRITICAL | Score: 83 | Aliyun Computing Co., LTD | CN
+176.65.149.245       # CRITICAL | Score: 82 | Pfcloud UG | NL
 20.163.39.86         # CRITICAL | Score: 82 | Microsoft Corporation | US
 144.202.82.88        # CRITICAL | Score: 82 | Vultr Holdings, LLC | US
 144.202.82.88        # CRITICAL | Score: 82 | Vultr Holdings, LLC | US
