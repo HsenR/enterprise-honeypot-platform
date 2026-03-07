@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-07 21:26:57 UTC
-# Total IPs: 902
+# Updated: 2026-03-07 22:26:58 UTC
+# Total IPs: 906
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -249,6 +249,7 @@
 176.65.139.41        # CRITICAL | Score: 91 | Storm Industries | DE
 112.163.119.199      # CRITICAL | Score: 91 | Korea Telecom | KR
 5.61.209.96          # CRITICAL | Score: 91 | Amarutu Technology Ltd | SC
+199.45.155.102       # CRITICAL | Score: 90 | Censys, Inc. | US
 78.128.114.38        # CRITICAL | Score: 90 | Tamatiya EOOD | BG
 199.45.155.90        # CRITICAL | Score: 90 | Censys, Inc. | US
 71.6.135.131         # CRITICAL | Score: 90 | CariNet, Inc. | US
@@ -646,6 +647,7 @@
 45.151.139.200       # HIGH     | Score: 68 | TIME-HOST-NET | RU
 45.151.139.200       # HIGH     | Score: 68 | TIME-HOST-NET | RU
 130.12.180.174       # HIGH     | Score: 68 | Virtualine Technologies | US
+187.110.175.205      # HIGH     | Score: 67 | EVEO S.A. | BR
 45.142.154.10        # HIGH     | Score: 67 | HDTIDC LIMITED | HK
 167.172.134.198      # HIGH     | Score: 67 | DigitalOcean, LLC | US
 161.35.135.113       # HIGH     | Score: 67 | DigitalOcean, LLC | US
@@ -670,6 +672,7 @@
 52.36.5.236          # HIGH     | Score: 66 | Amazon Technologies Inc. | US
 34.62.180.194        # HIGH     | Score: 66 | Google LLC | BE
 52.36.5.236          # HIGH     | Score: 66 | Amazon Technologies Inc. | US
+20.118.202.145       # HIGH     | Score: 65 | Microsoft Corporation | US
 34.197.70.90         # HIGH     | Score: 65 | Amazon Technologies Inc. | US
 47.243.177.131       # HIGH     | Score: 65 | ALIBABA CLOUD - HK | HK
 185.226.197.73       # HIGH     | Score: 65 | ICG-4-ZEN-AMS | PT
@@ -899,6 +902,7 @@
 44.247.181.228       # HIGH     | Score: 51 | Amazon.com, Inc. | US
 18.221.132.46        # HIGH     | Score: 51 | Amazon Technologies Inc. | US
 18.221.132.46        # HIGH     | Score: 51 | Amazon Technologies Inc. | US
+167.94.146.53        # HIGH     | Score: 50 | Censys, Inc. | US
 162.142.125.221      # HIGH     | Score: 50 | Censys, Inc. | US
 167.94.138.36        # HIGH     | Score: 50 | Censys, Inc. | US
 115.175.227.67       # HIGH     | Score: 50 | Huawei Public Cloud Service (H | CN
