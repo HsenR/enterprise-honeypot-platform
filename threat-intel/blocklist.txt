@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-07 04:26:40 UTC
-# Total IPs: 842
+# Updated: 2026-03-07 05:26:41 UTC
+# Total IPs: 848
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -241,6 +241,7 @@
 85.11.183.6          # CRITICAL | Score: 91 | SOFCOMPANY Ltd | GB
 139.162.117.40       # CRITICAL | Score: 91 | 139.162.0.0/16 | JP
 112.163.119.199      # CRITICAL | Score: 91 | Korea Telecom | KR
+98.89.204.118        # CRITICAL | Score: 90 | Amazon Data Services Northern  | US
 206.168.34.114       # CRITICAL | Score: 90 | Censys, Inc. | US
 206.168.34.118       # CRITICAL | Score: 90 | Censys, Inc. | US
 206.168.34.193       # CRITICAL | Score: 90 | Censys, Inc. | US
@@ -380,6 +381,7 @@
 89.248.163.200       # CRITICAL | Score: 82 | RECYBER PROJECT NETBLOCK | NL
 20.163.39.86         # CRITICAL | Score: 82 | Microsoft Corporation | US
 176.65.149.245       # CRITICAL | Score: 82 | Pfcloud UG | NL
+185.242.246.36       # CRITICAL | Score: 81 | SOLDATOV ALEXEY VALEREVICH | SC
 139.162.113.212      # CRITICAL | Score: 81 | 139.162.0.0/16 | JP
 3.143.162.210        # CRITICAL | Score: 81 | Amazon Technologies Inc. | US
 18.218.118.203       # CRITICAL | Score: 81 | Amazon Technologies Inc. | US
@@ -484,6 +486,7 @@
 101.200.243.197      # CRITICAL | Score: 76 | Aliyun Computing Co., LTD | CN
 95.214.52.233        # CRITICAL | Score: 76 | MEVSPACE sp. z o.o. | PL
 203.83.11.208        # CRITICAL | Score: 76 | Jiangsu Sanai network science  | CN
+164.92.146.87        # CRITICAL | Score: 75 | DigitalOcean, LLC | NL
 109.105.210.95       # CRITICAL | Score: 75 | ICG-ZEN-DFW | PT
 34.193.119.44        # CRITICAL | Score: 75 | Amazon Technologies Inc. | US
 138.68.133.32        # CRITICAL | Score: 75 | DigitalOcean, LLC | GB
@@ -740,6 +743,7 @@
 64.227.109.89        # HIGH     | Score: 55 | DigitalOcean, LLC | US
 108.181.221.34       # HIGH     | Score: 55 | Psychz Networks | US
 173.212.236.89       # HIGH     | Score: 55 | Contabo GmbH | FR
+104.248.160.105      # HIGH     | Score: 54 | DigitalOcean, LLC | GB
 64.227.141.50        # HIGH     | Score: 54 | DigitalOcean, LLC | IN
 14.225.2.67          # HIGH     | Score: 54 | Vietnam Posts and Telecommunic | VN
 45.33.105.182        # HIGH     | Score: 54 | Linode | US
@@ -755,6 +759,8 @@
 170.64.168.136       # HIGH     | Score: 54 | DigitalOcean, LLC | AU
 20.64.105.81         # HIGH     | Score: 54 | Microsoft Corporation | US
 130.12.180.174       # HIGH     | Score: 54 | Virtualine Technologies | US
+87.106.3.40          # HIGH     | Score: 53 | IONOS SE | FR
+167.94.146.63        # HIGH     | Score: 52 | Censys, Inc. | US
 147.185.132.201      # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 162.142.125.124      # HIGH     | Score: 52 | Censys, Inc. | US
 162.142.125.218      # HIGH     | Score: 52 | Censys, Inc. | US
