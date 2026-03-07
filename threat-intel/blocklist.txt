@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-07 15:26:51 UTC
-# Total IPs: 878
+# Updated: 2026-03-07 16:26:52 UTC
+# Total IPs: 883
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -245,6 +245,8 @@
 176.65.139.41        # CRITICAL | Score: 91 | Storm Industries | DE
 112.163.119.199      # CRITICAL | Score: 91 | Korea Telecom | KR
 5.61.209.96          # CRITICAL | Score: 91 | Amarutu Technology Ltd | SC
+78.128.114.38        # CRITICAL | Score: 90 | Tamatiya EOOD | BG
+199.45.155.90        # CRITICAL | Score: 90 | Censys, Inc. | US
 71.6.135.131         # CRITICAL | Score: 90 | CariNet, Inc. | US
 93.123.109.246       # CRITICAL | Score: 90 | TECHOFF_SRV_LIMITED | BG
 54.161.134.131       # CRITICAL | Score: 90 | Amazon Technologies Inc. | US
@@ -309,6 +311,7 @@
 165.101.154.85       # CRITICAL | Score: 88 | Sierra.Net Network & Data Solu | PH
 45.194.92.9          # CRITICAL | Score: 88 | VPSVAULT.HOST LTD | US
 167.71.0.189         # CRITICAL | Score: 88 | DigitalOcean, LLC | NL
+20.84.153.185        # CRITICAL | Score: 87 | Microsoft Corporation | US
 143.198.73.240       # CRITICAL | Score: 87 | DigitalOcean, LLC | US
 195.178.110.246      # CRITICAL | Score: 87 | TECHOFF SRV LIMITED | BG
 195.178.110.246      # CRITICAL | Score: 87 | TECHOFF SRV LIMITED | BG
@@ -461,6 +464,7 @@
 167.86.107.35        # CRITICAL | Score: 77 | Contabo GmbH | FR
 167.86.107.35        # CRITICAL | Score: 77 | Contabo GmbH | FR
 112.87.155.120       # CRITICAL | Score: 77 | China Unicom Jiangsu province  | CN
+48.216.244.43        # CRITICAL | Score: 76 | Microsoft Limited | US
 13.222.252.87        # CRITICAL | Score: 76 | Amazon Data Services Northern  | US
 14.145.204.104       # CRITICAL | Score: 76 | CHINANET Guangdong province ne | CN
 62.146.237.245       # CRITICAL | Score: 76 | Contabo GmbH | SG
@@ -785,6 +789,7 @@
 104.248.160.105      # HIGH     | Score: 54 | DigitalOcean, LLC | GB
 87.106.3.40          # HIGH     | Score: 53 | IONOS SE | FR
 8.222.153.157        # HIGH     | Score: 53 | Alibaba Cloud (Singapore) Priv | SG
+198.235.24.29        # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 205.210.31.20        # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 167.94.138.60        # HIGH     | Score: 52 | Censys, Inc. | US
 205.210.31.31        # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
