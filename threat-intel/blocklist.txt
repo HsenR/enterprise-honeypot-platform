@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-07 05:26:41 UTC
-# Total IPs: 848
+# Updated: 2026-03-07 06:26:42 UTC
+# Total IPs: 854
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -44,6 +44,7 @@
 16.58.56.214         # CRITICAL | Score: 98 | Amazon.com, Inc. | US
 8.221.139.48         # CRITICAL | Score: 98 | Alibaba Cloud (Singapore) Priv | JP
 89.42.231.182        # CRITICAL | Score: 98 | Amarutu Technology Ltd | NL
+176.65.134.22        # CRITICAL | Score: 96 | Pfcloud UG | SI
 89.42.231.182        # CRITICAL | Score: 96 | Amarutu Technology Ltd | NL
 185.36.81.23         # CRITICAL | Score: 96 | Cloud hosting | LT
 176.65.139.38        # CRITICAL | Score: 96 | Storm Industries | DE
@@ -616,6 +617,7 @@
 193.163.125.236      # HIGH     | Score: 68 | Driftnet Ltd | GB
 162.243.37.46        # HIGH     | Score: 68 | DigitalOcean, LLC | US
 45.151.139.200       # HIGH     | Score: 68 | TIME-HOST-NET | RU
+192.241.179.235      # HIGH     | Score: 67 | DigitalOcean, LLC | US
 167.172.134.198      # HIGH     | Score: 67 | DigitalOcean, LLC | US
 161.35.135.113       # HIGH     | Score: 67 | DigitalOcean, LLC | US
 45.142.154.98        # HIGH     | Score: 67 | HDTIDC LIMITED | HK
@@ -690,6 +692,7 @@
 15.157.122.50        # HIGH     | Score: 61 | Amazon Data Services Canada | CA
 175.183.10.183       # HIGH     | Score: 61 | New Century InfoComm Tech. Co. | TW
 15.157.122.50        # HIGH     | Score: 61 | Amazon Data Services Canada | CA
+64.227.109.89        # HIGH     | Score: 60 | DigitalOcean, LLC | US
 20.65.195.41         # HIGH     | Score: 60 | Microsoft Corporation | US
 34.79.87.162         # HIGH     | Score: 60 | Google LLC | BE
 13.89.125.21         # HIGH     | Score: 60 | Microsoft Corporation | US
@@ -719,6 +722,7 @@
 35.167.108.113       # HIGH     | Score: 58 | Amazon.com, Inc. | US
 16.176.125.201       # HIGH     | Score: 58 | Amazon Corporate Services Pty  | AU
 35.167.108.113       # HIGH     | Score: 58 | Amazon.com, Inc. | US
+157.245.243.118      # HIGH     | Score: 57 | DigitalOcean, LLC | US
 4.240.39.201         # HIGH     | Score: 57 | Microsoft Corporation | IN
 40.124.173.2         # HIGH     | Score: 57 | Microsoft Corporation | US
 20.65.193.198        # HIGH     | Score: 57 | Microsoft Corporation | US
@@ -735,6 +739,7 @@
 134.199.201.185      # HIGH     | Score: 57 | DigitalOcean, LLC | US
 20.65.144.90         # HIGH     | Score: 57 | Microsoft Corporation | US
 20.65.193.198        # HIGH     | Score: 57 | Microsoft Corporation | US
+3.14.82.245          # HIGH     | Score: 56 | Amazon Technologies Inc. | US
 177.75.95.169        # HIGH     | Score: 56 | RazaoInfo Internet Ltda | BR
 135.149.113.154      # HIGH     | Score: 56 | Microsoft Singapore Pte. Ltd. | JP
 113.131.185.3        # HIGH     | Score: 56 | HVHaeundae | KR
@@ -759,6 +764,7 @@
 170.64.168.136       # HIGH     | Score: 54 | DigitalOcean, LLC | AU
 20.64.105.81         # HIGH     | Score: 54 | Microsoft Corporation | US
 130.12.180.174       # HIGH     | Score: 54 | Virtualine Technologies | US
+8.222.153.157        # HIGH     | Score: 53 | Alibaba Cloud (Singapore) Priv | SG
 87.106.3.40          # HIGH     | Score: 53 | IONOS SE | FR
 167.94.146.63        # HIGH     | Score: 52 | Censys, Inc. | US
 147.185.132.201      # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
