@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-07 11:26:47 UTC
-# Total IPs: 871
+# Updated: 2026-03-07 12:26:48 UTC
+# Total IPs: 874
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -307,6 +307,7 @@
 165.101.154.85       # CRITICAL | Score: 88 | Sierra.Net Network & Data Solu | PH
 45.194.92.9          # CRITICAL | Score: 88 | VPSVAULT.HOST LTD | US
 167.71.0.189         # CRITICAL | Score: 88 | DigitalOcean, LLC | NL
+143.198.73.240       # CRITICAL | Score: 87 | DigitalOcean, LLC | US
 195.178.110.246      # CRITICAL | Score: 87 | TECHOFF SRV LIMITED | BG
 195.178.110.246      # CRITICAL | Score: 87 | TECHOFF SRV LIMITED | BG
 65.49.1.132          # CRITICAL | Score: 87 | The Shadowserver Foundation, I | US
@@ -649,6 +650,7 @@
 52.36.5.236          # HIGH     | Score: 66 | Amazon Technologies Inc. | US
 34.62.180.194        # HIGH     | Score: 66 | Google LLC | BE
 52.36.5.236          # HIGH     | Score: 66 | Amazon Technologies Inc. | US
+47.243.177.131       # HIGH     | Score: 65 | ALIBABA CLOUD - HK | HK
 185.226.197.73       # HIGH     | Score: 65 | ICG-4-ZEN-AMS | PT
 20.80.105.86         # HIGH     | Score: 65 | Microsoft Corporation | US
 40.76.117.18         # HIGH     | Score: 65 | Microsoft Corporation | US
@@ -664,6 +666,7 @@
 20.64.105.82         # HIGH     | Score: 65 | Microsoft Corporation | US
 20.65.194.90         # HIGH     | Score: 65 | Microsoft Corporation | US
 20.64.105.221        # HIGH     | Score: 65 | Microsoft Corporation | US
+176.65.139.46        # HIGH     | Score: 64 | Storm Industries | DE
 45.33.41.118         # HIGH     | Score: 64 | Linode | US
 147.182.172.160      # HIGH     | Score: 64 | DigitalOcean, LLC | US
 45.33.41.118         # HIGH     | Score: 64 | Linode | US
