@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-07 00:58:12 UTC
-# Total IPs: 733
+# Updated: 2026-03-07 01:58:13 UTC
+# Total IPs: 738
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -23,6 +23,7 @@
 218.15.1.181         # CRITICAL | Score:100 | CHINANET Guangdong province ne | CN
 45.43.37.254         # CRITICAL | Score:100 | UCLOUD | TW
 45.43.37.254         # CRITICAL | Score:100 | UCLOUD | TW
+89.42.231.182        # CRITICAL | Score: 98 | Amarutu Technology Ltd | NL
 8.221.139.48         # CRITICAL | Score: 98 | Alibaba Cloud (Singapore) Priv | JP
 87.121.84.67         # CRITICAL | Score: 98 | Dedicated Servers and VPS Host | US
 154.81.14.244        # CRITICAL | Score: 98 | UCLOUD INFORMATION TECHNOLOGY  | SC
@@ -278,6 +279,7 @@
 185.156.73.181       # CRITICAL | Score: 85 | TOV E-RISHENNYA | UA
 167.71.0.189         # CRITICAL | Score: 85 | DigitalOcean, LLC | NL
 78.128.114.38        # CRITICAL | Score: 85 | Tamatiya EOOD | BG
+66.132.153.143       # CRITICAL | Score: 84 | Censys, Inc. | US
 47.251.13.59         # CRITICAL | Score: 84 | Alibaba Cloud - US | US
 176.65.148.19        # CRITICAL | Score: 84 | Pfcloud UG | NL
 45.156.128.201       # CRITICAL | Score: 84 | INAP-AMS-1 | PT
@@ -627,6 +629,7 @@
 188.166.120.208      # HIGH     | Score: 59 | Digital Ocean, Inc. | NL
 168.144.29.167       # HIGH     | Score: 59 | DigitalOcean, LLC | IN
 35.167.108.113       # HIGH     | Score: 58 | Amazon.com, Inc. | US
+20.65.193.198        # HIGH     | Score: 57 | Microsoft Corporation | US
 20.65.144.90         # HIGH     | Score: 57 | Microsoft Corporation | US
 143.42.164.97        # HIGH     | Score: 57 | Linode | US
 40.76.248.252        # HIGH     | Score: 57 | Microsoft Corporation | US
@@ -660,6 +663,7 @@
 14.225.2.67          # HIGH     | Score: 54 | Vietnam Posts and Telecommunic | VN
 209.38.31.99         # HIGH     | Score: 54 | DigitalOcean, LLC | AU
 170.64.168.136       # HIGH     | Score: 54 | DigitalOcean, LLC | AU
+162.142.125.124      # HIGH     | Score: 52 | Censys, Inc. | US
 167.94.146.59        # HIGH     | Score: 52 | Censys, Inc. | US
 147.185.132.76       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 198.235.24.212       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
@@ -725,6 +729,7 @@
 159.65.26.71         # HIGH     | Score: 52 | DigitalOcean, LLC | GB
 198.235.24.97        # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 167.94.146.61        # HIGH     | Score: 52 | Censys, Inc. | US
+18.221.132.46        # HIGH     | Score: 51 | Amazon Technologies Inc. | US
 14.96.191.90         # HIGH     | Score: 51 | TATA TELESERVICES LTD - TATA I | IN
 35.205.27.53         # HIGH     | Score: 51 | Google LLC | BE
 44.247.181.228       # HIGH     | Score: 51 | Amazon.com, Inc. | US
