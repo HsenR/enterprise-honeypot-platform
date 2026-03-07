@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-07 16:26:52 UTC
-# Total IPs: 883
+# Updated: 2026-03-07 17:26:53 UTC
+# Total IPs: 886
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -657,6 +657,7 @@
 52.36.5.236          # HIGH     | Score: 66 | Amazon Technologies Inc. | US
 34.62.180.194        # HIGH     | Score: 66 | Google LLC | BE
 52.36.5.236          # HIGH     | Score: 66 | Amazon Technologies Inc. | US
+34.197.70.90         # HIGH     | Score: 65 | Amazon Technologies Inc. | US
 47.243.177.131       # HIGH     | Score: 65 | ALIBABA CLOUD - HK | HK
 185.226.197.73       # HIGH     | Score: 65 | ICG-4-ZEN-AMS | PT
 20.80.105.86         # HIGH     | Score: 65 | Microsoft Corporation | US
@@ -713,6 +714,7 @@
 175.183.10.183       # HIGH     | Score: 61 | New Century InfoComm Tech. Co. | TW
 15.157.122.50        # HIGH     | Score: 61 | Amazon Data Services Canada | CA
 15.157.122.50        # HIGH     | Score: 61 | Amazon Data Services Canada | CA
+48.217.64.148        # HIGH     | Score: 60 | Microsoft Limited | US
 20.65.195.41         # HIGH     | Score: 60 | Microsoft Corporation | US
 34.79.87.162         # HIGH     | Score: 60 | Google LLC | BE
 13.89.125.21         # HIGH     | Score: 60 | Microsoft Corporation | US
@@ -789,6 +791,7 @@
 104.248.160.105      # HIGH     | Score: 54 | DigitalOcean, LLC | GB
 87.106.3.40          # HIGH     | Score: 53 | IONOS SE | FR
 8.222.153.157        # HIGH     | Score: 53 | Alibaba Cloud (Singapore) Priv | SG
+162.142.125.211      # HIGH     | Score: 52 | Censys, Inc. | US
 198.235.24.29        # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 205.210.31.20        # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 167.94.138.60        # HIGH     | Score: 52 | Censys, Inc. | US
