@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-07 09:26:45 UTC
-# Total IPs: 867
+# Updated: 2026-03-07 10:26:46 UTC
+# Total IPs: 868
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -244,6 +244,7 @@
 176.65.139.41        # CRITICAL | Score: 91 | Storm Industries | DE
 112.163.119.199      # CRITICAL | Score: 91 | Korea Telecom | KR
 5.61.209.96          # CRITICAL | Score: 91 | Amarutu Technology Ltd | SC
+71.6.135.131         # CRITICAL | Score: 90 | CariNet, Inc. | US
 93.123.109.246       # CRITICAL | Score: 90 | TECHOFF_SRV_LIMITED | BG
 54.161.134.131       # CRITICAL | Score: 90 | Amazon Technologies Inc. | US
 60.165.238.170       # CRITICAL | Score: 90 | CHINANET Gansu province networ | CN
