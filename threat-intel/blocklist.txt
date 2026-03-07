@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-07 14:26:50 UTC
-# Total IPs: 877
+# Updated: 2026-03-07 15:26:51 UTC
+# Total IPs: 878
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -277,6 +277,7 @@
 206.168.34.114       # CRITICAL | Score: 90 | Censys, Inc. | US
 206.168.34.118       # CRITICAL | Score: 90 | Censys, Inc. | US
 98.89.204.118        # CRITICAL | Score: 90 | Amazon Data Services Northern  | US
+66.132.153.140       # CRITICAL | Score: 89 | Censys, Inc. | US
 87.236.176.65        # CRITICAL | Score: 89 | Driftnet Ltd | GB
 185.242.226.22       # CRITICAL | Score: 89 | HostUS Solutions LLC | US
 65.49.20.83          # CRITICAL | Score: 89 | The Shadowserver Foundation, I | US
