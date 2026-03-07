@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-07 20:26:56 UTC
-# Total IPs: 901
+# Updated: 2026-03-07 21:26:57 UTC
+# Total IPs: 902
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -93,6 +93,7 @@
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
+204.76.203.73        # CRITICAL | Score: 94 | Intelligence Hosting LLC | NL
 93.174.93.12         # CRITICAL | Score: 94 | FiberXpress BV | NL
 185.12.59.118        # CRITICAL | Score: 94 | Blix Group AS | NO
 93.174.93.12         # CRITICAL | Score: 94 | FiberXpress BV | NL
