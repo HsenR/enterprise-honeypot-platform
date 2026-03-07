@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-07 19:26:55 UTC
-# Total IPs: 898
+# Updated: 2026-03-07 20:26:56 UTC
+# Total IPs: 901
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -306,6 +306,7 @@
 109.105.209.15       # CRITICAL | Score: 89 | ICG-ZEN-LAX-1 | PT
 66.132.153.114       # CRITICAL | Score: 89 | Censys, Inc. | US
 66.132.153.136       # CRITICAL | Score: 89 | Censys, Inc. | US
+3.151.241.153        # CRITICAL | Score: 88 | Amazon Technologies Inc. | US
 167.235.25.150       # CRITICAL | Score: 88 | Hetzner Online GmbH | DE
 167.235.25.150       # CRITICAL | Score: 88 | Hetzner Online GmbH | DE
 45.194.92.9          # CRITICAL | Score: 88 | VPSVAULT.HOST LTD | US
@@ -349,6 +350,7 @@
 185.156.73.181       # CRITICAL | Score: 85 | TOV E-RISHENNYA | UA
 167.71.0.189         # CRITICAL | Score: 85 | DigitalOcean, LLC | NL
 78.128.114.38        # CRITICAL | Score: 85 | Tamatiya EOOD | BG
+159.223.203.97       # CRITICAL | Score: 84 | DigitalOcean, LLC | US
 176.65.148.19        # CRITICAL | Score: 84 | Pfcloud UG | NL
 45.156.128.201       # CRITICAL | Score: 84 | INAP-AMS-1 | PT
 185.247.137.66       # CRITICAL | Score: 84 | Driftnet Ltd | GB
@@ -896,6 +898,7 @@
 44.247.181.228       # HIGH     | Score: 51 | Amazon.com, Inc. | US
 18.221.132.46        # HIGH     | Score: 51 | Amazon Technologies Inc. | US
 18.221.132.46        # HIGH     | Score: 51 | Amazon Technologies Inc. | US
+162.142.125.221      # HIGH     | Score: 50 | Censys, Inc. | US
 167.94.138.36        # HIGH     | Score: 50 | Censys, Inc. | US
 115.175.227.67       # HIGH     | Score: 50 | Huawei Public Cloud Service (H | CN
 45.143.180.243       # HIGH     | Score: 50 | TELEMANAPOLI S.R.L. | IT
