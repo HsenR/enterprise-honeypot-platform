@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-07 06:26:42 UTC
-# Total IPs: 854
+# Updated: 2026-03-07 07:26:43 UTC
+# Total IPs: 858
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -44,6 +44,7 @@
 16.58.56.214         # CRITICAL | Score: 98 | Amazon.com, Inc. | US
 8.221.139.48         # CRITICAL | Score: 98 | Alibaba Cloud (Singapore) Priv | JP
 89.42.231.182        # CRITICAL | Score: 98 | Amarutu Technology Ltd | NL
+185.247.184.146      # CRITICAL | Score: 96 | GLOBAL INTERNET SOLUTIONS LLC | IT
 176.65.134.22        # CRITICAL | Score: 96 | Pfcloud UG | SI
 89.42.231.182        # CRITICAL | Score: 96 | Amarutu Technology Ltd | NL
 185.36.81.23         # CRITICAL | Score: 96 | Cloud hosting | LT
@@ -359,6 +360,7 @@
 47.251.13.59         # CRITICAL | Score: 84 | Alibaba Cloud - US | US
 47.251.13.59         # CRITICAL | Score: 84 | Alibaba Cloud - US | US
 66.132.153.143       # CRITICAL | Score: 84 | Censys, Inc. | US
+47.103.36.53         # CRITICAL | Score: 83 | Aliyun Computing Co., LTD | CN
 14.18.41.55          # CRITICAL | Score: 83 | CHINANET Guangdong province ne | CN
 76.174.80.164        # CRITICAL | Score: 83 | Charter Communications Inc | US
 76.174.80.164        # CRITICAL | Score: 83 | Charter Communications Inc | US
@@ -766,6 +768,8 @@
 130.12.180.174       # HIGH     | Score: 54 | Virtualine Technologies | US
 8.222.153.157        # HIGH     | Score: 53 | Alibaba Cloud (Singapore) Priv | SG
 87.106.3.40          # HIGH     | Score: 53 | IONOS SE | FR
+167.94.146.61        # HIGH     | Score: 52 | Censys, Inc. | US
+162.142.125.210      # HIGH     | Score: 52 | Censys, Inc. | US
 167.94.146.63        # HIGH     | Score: 52 | Censys, Inc. | US
 147.185.132.201      # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 162.142.125.124      # HIGH     | Score: 52 | Censys, Inc. | US
