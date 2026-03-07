@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-07 12:26:48 UTC
-# Total IPs: 874
+# Updated: 2026-03-07 13:26:49 UTC
+# Total IPs: 876
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -93,6 +93,7 @@
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
+185.12.59.118        # CRITICAL | Score: 94 | Blix Group AS | NO
 93.174.93.12         # CRITICAL | Score: 94 | FiberXpress BV | NL
 71.6.199.65          # CRITICAL | Score: 94 | CariNet, Inc. | US
 66.240.236.116       # CRITICAL | Score: 94 | CariNet, Inc. | US
@@ -609,6 +610,7 @@
 100.28.153.226       # HIGH     | Score: 69 | Amazon Data Services Northern  | US
 194.180.48.63        # HIGH     | Score: 69 | Neterra Ltd. | DE
 194.180.48.63        # HIGH     | Score: 69 | Neterra Ltd. | DE
+198.12.115.30        # HIGH     | Score: 68 | HostPapa | US
 119.237.27.185       # HIGH     | Score: 68 | Hong Kong Telecommunications ( | HK
 65.21.61.209         # HIGH     | Score: 68 | Hetzner Online GmbH | FI
 100.28.191.174       # HIGH     | Score: 68 | Amazon Data Services Northern  | US
