@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-08 19:26:57 UTC
+# Updated: 2026-03-08 20:26:58 UTC
 # Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -659,6 +659,7 @@
 111.119.234.232      # HIGH     | Score: 70 | Huawei-Cloud-SG | SG
 20.221.58.154        # HIGH     | Score: 70 | Microsoft Corporation | US
 183.232.212.193      # HIGH     | Score: 70 | China Mobile Communications Co | CN
+64.227.132.35        # HIGH     | Score: 69 | DigitalOcean, LLC | IN
 146.70.178.116       # HIGH     | Score: 69 | M247 LTD Frankfurt Infrastruct | DE
 149.102.230.138      # HIGH     | Score: 69 | Datacamp Limited | DE
 194.180.48.63        # HIGH     | Score: 69 | Neterra Ltd. | DE
@@ -1016,4 +1017,3 @@
 167.94.138.47        # HIGH     | Score: 50 | Censys, Inc. | US
 167.94.146.52        # HIGH     | Score: 50 | Censys, Inc. | US
 162.142.125.213      # HIGH     | Score: 50 | Censys, Inc. | US
-167.94.138.36        # HIGH     | Score: 50 | Censys, Inc. | US
