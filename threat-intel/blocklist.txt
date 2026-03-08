@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-08 01:27:01 UTC
-# Total IPs: 910
+# Updated: 2026-03-08 03:26:40 UTC
+# Total IPs: 911
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -896,6 +896,7 @@
 162.142.125.211      # HIGH     | Score: 52 | Censys, Inc. | US
 162.142.125.219      # HIGH     | Score: 52 | Censys, Inc. | US
 167.94.146.55        # HIGH     | Score: 52 | Censys, Inc. | US
+44.246.78.181        # HIGH     | Score: 51 | Amazon.com, Inc. | US
 14.96.191.90         # HIGH     | Score: 51 | TATA TELESERVICES LTD - TATA I | IN
 35.205.27.53         # HIGH     | Score: 51 | Google LLC | BE
 44.247.181.228       # HIGH     | Score: 51 | Amazon.com, Inc. | US
