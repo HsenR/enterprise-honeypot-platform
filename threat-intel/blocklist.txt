@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-08 15:26:53 UTC
-# Total IPs: 986
+# Updated: 2026-03-08 16:26:54 UTC
+# Total IPs: 990
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -500,6 +500,7 @@
 157.245.245.246      # CRITICAL | Score: 79 | DigitalOcean, LLC | US
 185.247.137.226      # CRITICAL | Score: 79 | Driftnet Ltd | GB
 51.38.90.52          # CRITICAL | Score: 79 | GalaxyShell Internet Teknolojl | FR
+89.117.104.16        # CRITICAL | Score: 78 | SC Lithuanian Radio and TV Cen | DE
 35.216.144.195       # CRITICAL | Score: 78 | Google LLC | CH
 34.130.69.154        # CRITICAL | Score: 78 | Google LLC | CA
 34.47.182.97         # CRITICAL | Score: 78 | Google LLC | IN
@@ -804,6 +805,7 @@
 64.227.109.89        # HIGH     | Score: 60 | DigitalOcean, LLC | US
 20.65.193.199        # HIGH     | Score: 60 | Microsoft Corporation | US
 48.217.64.148        # HIGH     | Score: 60 | Microsoft Limited | US
+146.70.160.220       # HIGH     | Score: 59 | M247 LTD Frankfurt Infrastruct | DE
 147.182.172.160      # HIGH     | Score: 59 | DigitalOcean, LLC | US
 20.64.105.53         # HIGH     | Score: 59 | Microsoft Corporation | US
 161.35.126.43        # HIGH     | Score: 59 | DigitalOcean, LLC | US
@@ -876,6 +878,7 @@
 18.133.212.170       # HIGH     | Score: 54 | Amazon Data Services UK | GB
 87.106.3.40          # HIGH     | Score: 53 | IONOS SE | FR
 8.222.153.157        # HIGH     | Score: 53 | Alibaba Cloud (Singapore) Priv | SG
+156.146.33.78        # HIGH     | Score: 52 | Datacamp Limited | DE
 205.210.31.31        # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 97.107.133.213       # HIGH     | Score: 52 | Linode | US
 167.94.138.117       # HIGH     | Score: 52 | Censys, Inc. | US
@@ -980,6 +983,7 @@
 18.221.132.46        # HIGH     | Score: 51 | Amazon Technologies Inc. | US
 44.246.78.181        # HIGH     | Score: 51 | Amazon.com, Inc. | US
 44.246.78.181        # HIGH     | Score: 51 | Amazon.com, Inc. | US
+146.70.36.140        # HIGH     | Score: 50 | M247 LTD Frankfurt Infrastruct | DE
 167.94.138.36        # HIGH     | Score: 50 | Censys, Inc. | US
 115.175.227.67       # HIGH     | Score: 50 | Huawei Public Cloud Service (H | CN
 45.143.180.243       # HIGH     | Score: 50 | TELEMANAPOLI S.R.L. | IT
