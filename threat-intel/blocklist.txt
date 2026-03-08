@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-08 14:26:51 UTC
-# Total IPs: 983
+# Updated: 2026-03-08 15:26:53 UTC
+# Total IPs: 986
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -15,6 +15,7 @@
 #
 
 # ── CRITICAL THREATS ─────────────────────────────────
+103.215.201.34       # CRITICAL | Score:100 | A2j Data Services Pvt. Ltd. | IN
 170.39.216.152       # CRITICAL | Score:100 | REDHEBERG SAS | FR
 45.91.64.7           # CRITICAL | Score:100 | F6 | RU
 8.220.192.64         # CRITICAL | Score:100 | Alibaba Cloud (Singapore) Priv | KR
@@ -499,6 +500,7 @@
 157.245.245.246      # CRITICAL | Score: 79 | DigitalOcean, LLC | US
 185.247.137.226      # CRITICAL | Score: 79 | Driftnet Ltd | GB
 51.38.90.52          # CRITICAL | Score: 79 | GalaxyShell Internet Teknolojl | FR
+35.216.144.195       # CRITICAL | Score: 78 | Google LLC | CH
 34.130.69.154        # CRITICAL | Score: 78 | Google LLC | CA
 34.47.182.97         # CRITICAL | Score: 78 | Google LLC | IN
 34.47.182.97         # CRITICAL | Score: 78 | Google LLC | IN
@@ -840,6 +842,7 @@
 4.240.39.201         # HIGH     | Score: 57 | Microsoft Corporation | IN
 157.245.243.118      # HIGH     | Score: 57 | DigitalOcean, LLC | US
 188.166.127.204      # HIGH     | Score: 57 | Digital Ocean, Inc. | NL
+94.198.40.124        # HIGH     | Score: 56 | M247 LTD Frankfurt Infrastruct | DE
 177.75.95.169        # HIGH     | Score: 56 | RazaoInfo Internet Ltda | BR
 135.149.113.154      # HIGH     | Score: 56 | Microsoft Singapore Pte. Ltd. | JP
 113.131.185.3        # HIGH     | Score: 56 | HVHaeundae | KR
