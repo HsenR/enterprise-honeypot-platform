@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-08 07:26:44 UTC
-# Total IPs: 974
+# Updated: 2026-03-08 08:26:45 UTC
+# Total IPs: 975
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -866,6 +866,7 @@
 18.133.212.170       # HIGH     | Score: 54 | Amazon Data Services UK | GB
 87.106.3.40          # HIGH     | Score: 53 | IONOS SE | FR
 8.222.153.157        # HIGH     | Score: 53 | Alibaba Cloud (Singapore) Priv | SG
+162.142.125.199      # HIGH     | Score: 52 | Censys, Inc. | US
 167.94.138.125       # HIGH     | Score: 52 | Censys, Inc. | US
 8.222.153.157        # HIGH     | Score: 52 | Alibaba Cloud (Singapore) Priv | SG
 167.94.146.63        # HIGH     | Score: 52 | Censys, Inc. | US
