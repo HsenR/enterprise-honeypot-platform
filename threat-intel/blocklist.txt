@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-08 12:26:49 UTC
-# Total IPs: 981
+# Updated: 2026-03-08 13:26:50 UTC
+# Total IPs: 982
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -785,6 +785,7 @@
 175.183.10.183       # HIGH     | Score: 61 | New Century InfoComm Tech. Co. | TW
 15.157.122.50        # HIGH     | Score: 61 | Amazon Data Services Canada | CA
 15.157.122.50        # HIGH     | Score: 61 | Amazon Data Services Canada | CA
+4.227.178.208        # HIGH     | Score: 60 | Microsoft Corporation | US
 20.65.195.41         # HIGH     | Score: 60 | Microsoft Corporation | US
 34.79.87.162         # HIGH     | Score: 60 | Google LLC | BE
 13.89.125.21         # HIGH     | Score: 60 | Microsoft Corporation | US
