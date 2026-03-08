@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-08 06:26:43 UTC
-# Total IPs: 970
+# Updated: 2026-03-08 07:26:44 UTC
+# Total IPs: 974
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -25,6 +25,7 @@
 45.91.64.7           # CRITICAL | Score:100 | F6 | RU
 144.91.93.174        # CRITICAL | Score:100 | Contabo GmbH | FR
 45.91.64.7           # CRITICAL | Score:100 | F6 | RU
+191.96.11.36         # CRITICAL | Score: 98 | Chunkserve Mateusz Peplinski | NL
 3.131.220.121        # CRITICAL | Score: 98 | Amazon Technologies Inc. | US
 167.172.43.192       # CRITICAL | Score: 98 | DigitalOcean, LLC | NL
 16.58.56.214         # CRITICAL | Score: 98 | Amazon.com, Inc. | US
@@ -48,6 +49,7 @@
 176.65.139.44        # CRITICAL | Score: 98 | Storm Industries | DE
 8.221.139.48         # CRITICAL | Score: 98 | Alibaba Cloud (Singapore) Priv | JP
 87.121.84.67         # CRITICAL | Score: 98 | Dedicated Servers and VPS Host | US
+101.206.107.245      # CRITICAL | Score: 96 | UNICOM Sichuan province networ | CN
 185.247.184.146      # CRITICAL | Score: 96 | GLOBAL INTERNET SOLUTIONS LLC | IT
 81.168.83.103        # CRITICAL | Score: 96 | Sapphire Web Services Limited | GB
 45.138.16.145        # CRITICAL | Score: 96 | 1337 Services GmbH | PL
@@ -167,6 +169,7 @@
 89.42.231.179        # CRITICAL | Score: 93 | Amarutu Technology Ltd | NL
 89.42.231.179        # CRITICAL | Score: 93 | Amarutu Technology Ltd | NL
 89.42.231.179        # CRITICAL | Score: 93 | Amarutu Technology Ltd | NL
+45.153.34.187        # CRITICAL | Score: 92 | VMHeaven.io | NL
 193.142.146.230      # CRITICAL | Score: 92 | ColocaTel Datacenter | DE
 204.76.203.30        # CRITICAL | Score: 92 | Intelligence Hosting LLC | NL
 204.76.203.18        # CRITICAL | Score: 92 | Intelligence Hosting LLC | NL
@@ -863,6 +866,7 @@
 18.133.212.170       # HIGH     | Score: 54 | Amazon Data Services UK | GB
 87.106.3.40          # HIGH     | Score: 53 | IONOS SE | FR
 8.222.153.157        # HIGH     | Score: 53 | Alibaba Cloud (Singapore) Priv | SG
+167.94.138.125       # HIGH     | Score: 52 | Censys, Inc. | US
 8.222.153.157        # HIGH     | Score: 52 | Alibaba Cloud (Singapore) Priv | SG
 167.94.146.63        # HIGH     | Score: 52 | Censys, Inc. | US
 18.143.235.216       # HIGH     | Score: 52 | Amazon Data Services Singapore | SG
