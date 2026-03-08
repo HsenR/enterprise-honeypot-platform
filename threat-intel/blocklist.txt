@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-08 04:26:41 UTC
-# Total IPs: 967
+# Updated: 2026-03-08 05:26:42 UTC
+# Total IPs: 969
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -307,6 +307,7 @@
 78.128.114.38        # CRITICAL | Score: 90 | Tamatiya EOOD | BG
 199.45.155.90        # CRITICAL | Score: 90 | Censys, Inc. | US
 199.45.155.102       # CRITICAL | Score: 90 | Censys, Inc. | US
+81.29.142.50         # CRITICAL | Score: 89 | Data-center IMAQLIQ Ltd. | RU
 176.65.134.20        # CRITICAL | Score: 89 | Pfcloud UG | SI
 66.132.153.140       # CRITICAL | Score: 89 | Censys, Inc. | US
 159.223.203.97       # CRITICAL | Score: 89 | DigitalOcean, LLC | US
@@ -461,6 +462,7 @@
 3.143.162.210        # CRITICAL | Score: 81 | Amazon Technologies Inc. | US
 139.162.113.212      # CRITICAL | Score: 81 | 139.162.0.0/16 | JP
 185.242.246.36       # CRITICAL | Score: 81 | SOLDATOV ALEXEY VALEREVICH | SC
+107.172.7.140        # CRITICAL | Score: 80 | HostPapa | US
 3.134.216.108        # CRITICAL | Score: 80 | Amazon Technologies Inc. | US
 46.151.182.181       # CRITICAL | Score: 80 | DEMENIN B.V. | NL
 107.172.7.140        # CRITICAL | Score: 80 | HostPapa | US
