@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-08 20:26:58 UTC
+# Updated: 2026-03-08 21:26:59 UTC
 # Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -635,6 +635,7 @@
 74.249.178.165       # HIGH     | Score: 72 | Microsoft Corporation | US
 20.119.75.60         # HIGH     | Score: 72 | Microsoft Corporation | US
 187.110.175.205      # HIGH     | Score: 72 | EVEO S.A. | BR
+104.248.198.91       # HIGH     | Score: 71 | DigitalOcean, LLC | NL
 138.199.19.180       # HIGH     | Score: 71 | Datacamp Limited | DE
 98.81.195.81         # HIGH     | Score: 71 | Amazon Data Services Northern  | US
 185.253.241.146      # HIGH     | Score: 71 | Fidro Sp. z o.o. | PL
@@ -1016,4 +1017,3 @@
 162.142.125.213      # HIGH     | Score: 50 | Censys, Inc. | US
 167.94.138.47        # HIGH     | Score: 50 | Censys, Inc. | US
 167.94.146.52        # HIGH     | Score: 50 | Censys, Inc. | US
-162.142.125.213      # HIGH     | Score: 50 | Censys, Inc. | US
