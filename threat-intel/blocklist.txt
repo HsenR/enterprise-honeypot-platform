@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-08 09:26:46 UTC
-# Total IPs: 977
+# Updated: 2026-03-08 10:26:47 UTC
+# Total IPs: 979
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -847,6 +847,7 @@
 64.227.109.89        # HIGH     | Score: 55 | DigitalOcean, LLC | US
 108.181.221.34       # HIGH     | Score: 55 | Psychz Networks | US
 173.212.236.89       # HIGH     | Score: 55 | Contabo GmbH | FR
+165.22.81.219        # HIGH     | Score: 54 | DigitalOcean, LLC | DE
 139.28.219.70        # HIGH     | Score: 54 | M247 LTD Paris Infrastructure | FR
 45.33.105.182        # HIGH     | Score: 54 | Linode | US
 143.42.164.127       # HIGH     | Score: 54 | Linode | US
@@ -972,6 +973,7 @@
 18.221.132.46        # HIGH     | Score: 51 | Amazon Technologies Inc. | US
 44.246.78.181        # HIGH     | Score: 51 | Amazon.com, Inc. | US
 44.246.78.181        # HIGH     | Score: 51 | Amazon.com, Inc. | US
+167.94.138.36        # HIGH     | Score: 50 | Censys, Inc. | US
 115.175.227.67       # HIGH     | Score: 50 | Huawei Public Cloud Service (H | CN
 45.143.180.243       # HIGH     | Score: 50 | TELEMANAPOLI S.R.L. | IT
 205.210.31.185       # HIGH     | Score: 50 | Palo Alto Networks, Inc | US
