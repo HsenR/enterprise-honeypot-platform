@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-08 05:26:42 UTC
-# Total IPs: 969
+# Updated: 2026-03-08 06:26:43 UTC
+# Total IPs: 970
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -707,6 +707,7 @@
 192.241.179.235      # HIGH     | Score: 67 | DigitalOcean, LLC | US
 45.142.154.10        # HIGH     | Score: 67 | HDTIDC LIMITED | HK
 187.110.175.205      # HIGH     | Score: 67 | EVEO S.A. | BR
+143.244.57.120       # HIGH     | Score: 66 | Datacamp Limited | FR
 167.172.100.176      # HIGH     | Score: 66 | DigitalOcean, LLC | DE
 3.239.13.6           # HIGH     | Score: 66 | Amazon Data Services Northern  | US
 52.36.5.236          # HIGH     | Score: 66 | Amazon Technologies Inc. | US
