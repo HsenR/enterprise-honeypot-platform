@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-08 16:26:54 UTC
-# Total IPs: 990
+# Updated: 2026-03-08 17:26:55 UTC
+# Total IPs: 996
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -573,6 +573,7 @@
 164.92.146.87        # CRITICAL | Score: 75 | DigitalOcean, LLC | NL
 
 # ── HIGH THREATS ─────────────────────────────────────
+207.154.211.129      # HIGH     | Score: 74 | DigitalOcean, LLC | DE
 3.85.184.110         # HIGH     | Score: 74 | Amazon Data Services Northern  | US
 54.152.26.85         # HIGH     | Score: 74 | Amazon Technologies Inc. | US
 138.68.89.128        # HIGH     | Score: 74 | DigitalOcean, LLC | DE
@@ -657,6 +658,7 @@
 111.119.234.232      # HIGH     | Score: 70 | Huawei-Cloud-SG | SG
 20.221.58.154        # HIGH     | Score: 70 | Microsoft Corporation | US
 183.232.212.193      # HIGH     | Score: 70 | China Mobile Communications Co | CN
+149.102.230.138      # HIGH     | Score: 69 | Datacamp Limited | DE
 194.180.48.63        # HIGH     | Score: 69 | Neterra Ltd. | DE
 3.85.184.110         # HIGH     | Score: 69 | Amazon Data Services Northern  | US
 47.115.150.82        # HIGH     | Score: 69 | Aliyun Computing Co., LTD | CN
@@ -699,6 +701,7 @@
 45.151.139.200       # HIGH     | Score: 68 | TIME-HOST-NET | RU
 130.12.180.174       # HIGH     | Score: 68 | Virtualine Technologies | US
 198.12.115.30        # HIGH     | Score: 68 | HostPapa | US
+185.104.184.196      # HIGH     | Score: 67 | M247 LTD Frankfurt Infrastruct | DE
 89.117.104.6         # HIGH     | Score: 67 | SC Lithuanian Radio and TV Cen | DE
 167.172.134.198      # HIGH     | Score: 67 | DigitalOcean, LLC | US
 161.35.135.113       # HIGH     | Score: 67 | DigitalOcean, LLC | US
@@ -715,6 +718,7 @@
 192.241.179.235      # HIGH     | Score: 67 | DigitalOcean, LLC | US
 45.142.154.10        # HIGH     | Score: 67 | HDTIDC LIMITED | HK
 187.110.175.205      # HIGH     | Score: 67 | EVEO S.A. | BR
+156.146.33.76        # HIGH     | Score: 66 | Datacamp Limited | DE
 167.172.100.176      # HIGH     | Score: 66 | DigitalOcean, LLC | DE
 3.239.13.6           # HIGH     | Score: 66 | Amazon Data Services Northern  | US
 52.36.5.236          # HIGH     | Score: 66 | Amazon Technologies Inc. | US
@@ -805,6 +809,7 @@
 64.227.109.89        # HIGH     | Score: 60 | DigitalOcean, LLC | US
 20.65.193.199        # HIGH     | Score: 60 | Microsoft Corporation | US
 48.217.64.148        # HIGH     | Score: 60 | Microsoft Limited | US
+91.239.157.185       # HIGH     | Score: 59 | Clouvider Limited | DE
 146.70.160.220       # HIGH     | Score: 59 | M247 LTD Frankfurt Infrastruct | DE
 147.182.172.160      # HIGH     | Score: 59 | DigitalOcean, LLC | US
 20.64.105.53         # HIGH     | Score: 59 | Microsoft Corporation | US
@@ -825,6 +830,7 @@
 35.167.108.113       # HIGH     | Score: 58 | Amazon.com, Inc. | US
 35.167.108.113       # HIGH     | Score: 58 | Amazon.com, Inc. | US
 16.176.125.201       # HIGH     | Score: 58 | Amazon Corporate Services Pty  | AU
+89.117.104.46        # HIGH     | Score: 57 | SC Lithuanian Radio and TV Cen | DE
 82.102.18.220        # HIGH     | Score: 57 | M247 LTD Paris Infrastructure | FR
 143.42.164.97        # HIGH     | Score: 57 | Linode | US
 40.76.248.252        # HIGH     | Score: 57 | Microsoft Corporation | US
