@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-08 17:26:55 UTC
-# Total IPs: 996
+# Updated: 2026-03-08 18:26:56 UTC
+# Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -635,6 +635,7 @@
 74.249.178.165       # HIGH     | Score: 72 | Microsoft Corporation | US
 20.119.75.60         # HIGH     | Score: 72 | Microsoft Corporation | US
 187.110.175.205      # HIGH     | Score: 72 | EVEO S.A. | BR
+138.199.19.180       # HIGH     | Score: 71 | Datacamp Limited | DE
 98.81.195.81         # HIGH     | Score: 71 | Amazon Data Services Northern  | US
 185.253.241.146      # HIGH     | Score: 71 | Fidro Sp. z o.o. | PL
 98.81.195.81         # HIGH     | Score: 71 | Amazon Data Services Northern  | US
@@ -658,6 +659,7 @@
 111.119.234.232      # HIGH     | Score: 70 | Huawei-Cloud-SG | SG
 20.221.58.154        # HIGH     | Score: 70 | Microsoft Corporation | US
 183.232.212.193      # HIGH     | Score: 70 | China Mobile Communications Co | CN
+146.70.178.116       # HIGH     | Score: 69 | M247 LTD Frankfurt Infrastruct | DE
 149.102.230.138      # HIGH     | Score: 69 | Datacamp Limited | DE
 194.180.48.63        # HIGH     | Score: 69 | Neterra Ltd. | DE
 3.85.184.110         # HIGH     | Score: 69 | Amazon Data Services Northern  | US
@@ -718,6 +720,7 @@
 192.241.179.235      # HIGH     | Score: 67 | DigitalOcean, LLC | US
 45.142.154.10        # HIGH     | Score: 67 | HDTIDC LIMITED | HK
 187.110.175.205      # HIGH     | Score: 67 | EVEO S.A. | BR
+178.62.211.204       # HIGH     | Score: 66 | DigitalOcean Amsterdam | NL
 156.146.33.76        # HIGH     | Score: 66 | Datacamp Limited | DE
 167.172.100.176      # HIGH     | Score: 66 | DigitalOcean, LLC | DE
 3.239.13.6           # HIGH     | Score: 66 | Amazon Data Services Northern  | US
@@ -830,6 +833,7 @@
 35.167.108.113       # HIGH     | Score: 58 | Amazon.com, Inc. | US
 35.167.108.113       # HIGH     | Score: 58 | Amazon.com, Inc. | US
 16.176.125.201       # HIGH     | Score: 58 | Amazon Corporate Services Pty  | AU
+138.199.19.191       # HIGH     | Score: 57 | Datacamp Limited | DE
 89.117.104.46        # HIGH     | Score: 57 | SC Lithuanian Radio and TV Cen | DE
 82.102.18.220        # HIGH     | Score: 57 | M247 LTD Paris Infrastructure | FR
 143.42.164.97        # HIGH     | Score: 57 | Linode | US
@@ -862,6 +866,7 @@
 64.227.109.89        # HIGH     | Score: 55 | DigitalOcean, LLC | US
 108.181.221.34       # HIGH     | Score: 55 | Psychz Networks | US
 173.212.236.89       # HIGH     | Score: 55 | Contabo GmbH | FR
+45.150.174.99        # HIGH     | Score: 54 | Clouvider Limited | DE
 165.22.81.219        # HIGH     | Score: 54 | DigitalOcean, LLC | DE
 139.28.219.70        # HIGH     | Score: 54 | M247 LTD Paris Infrastructure | FR
 45.33.105.182        # HIGH     | Score: 54 | Linode | US
@@ -884,6 +889,7 @@
 18.133.212.170       # HIGH     | Score: 54 | Amazon Data Services UK | GB
 87.106.3.40          # HIGH     | Score: 53 | IONOS SE | FR
 8.222.153.157        # HIGH     | Score: 53 | Alibaba Cloud (Singapore) Priv | SG
+146.70.178.164       # HIGH     | Score: 52 | M247 LTD Frankfurt Infrastruct | DE
 156.146.33.78        # HIGH     | Score: 52 | Datacamp Limited | DE
 205.210.31.31        # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 97.107.133.213       # HIGH     | Score: 52 | Linode | US
@@ -989,6 +995,7 @@
 18.221.132.46        # HIGH     | Score: 51 | Amazon Technologies Inc. | US
 44.246.78.181        # HIGH     | Score: 51 | Amazon.com, Inc. | US
 44.246.78.181        # HIGH     | Score: 51 | Amazon.com, Inc. | US
+146.70.36.126        # HIGH     | Score: 50 | M247 LTD Frankfurt Infrastruct | DE
 146.70.36.140        # HIGH     | Score: 50 | M247 LTD Frankfurt Infrastruct | DE
 167.94.138.36        # HIGH     | Score: 50 | Censys, Inc. | US
 115.175.227.67       # HIGH     | Score: 50 | Huawei Public Cloud Service (H | CN
@@ -1010,6 +1017,3 @@
 167.94.146.52        # HIGH     | Score: 50 | Censys, Inc. | US
 162.142.125.213      # HIGH     | Score: 50 | Censys, Inc. | US
 167.94.138.36        # HIGH     | Score: 50 | Censys, Inc. | US
-162.142.125.221      # HIGH     | Score: 50 | Censys, Inc. | US
-167.94.146.53        # HIGH     | Score: 50 | Censys, Inc. | US
-193.19.205.119       # HIGH     | Score: 50 | IP Resources Trading SRL | BR
