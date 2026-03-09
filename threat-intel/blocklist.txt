@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-09 00:27:02 UTC
+# Updated: 2026-03-09 01:27:03 UTC
 # Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -27,6 +27,7 @@
 45.91.64.7           # CRITICAL | Score:100 | F6 | RU
 103.215.201.34       # CRITICAL | Score:100 | A2j Data Services Pvt. Ltd. | IN
 45.91.64.7           # CRITICAL | Score:100 | F6 | RU
+130.12.180.108       # CRITICAL | Score: 98 | Virtualine Technologies | US
 87.121.84.67         # CRITICAL | Score: 98 | Dedicated Servers and VPS Host | US
 154.81.14.244        # CRITICAL | Score: 98 | UCLOUD INFORMATION TECHNOLOGY  | SC
 187.191.2.214        # CRITICAL | Score: 98 | TOTAL PLAY TELECOMUNICACIONES  | MX
@@ -169,6 +170,7 @@
 185.224.128.251      # CRITICAL | Score: 94 | Alsycon B.V. | NL
 66.132.153.128       # CRITICAL | Score: 94 | Censys, Inc. | US
 47.91.125.252        # CRITICAL | Score: 94 | Alibaba Cloud - AE(Dubai) | AE
+130.12.180.19        # CRITICAL | Score: 93 | Virtualine Technologies | US
 94.231.206.11        # CRITICAL | Score: 93 | FR ONYPHE | CN
 87.121.84.67         # CRITICAL | Score: 93 | Dedicated Servers and VPS Host | US
 89.42.231.179        # CRITICAL | Score: 93 | Amarutu Technology Ltd | NL
@@ -500,6 +502,7 @@
 107.172.7.140        # CRITICAL | Score: 80 | HostPapa | US
 130.12.180.37        # CRITICAL | Score: 80 | Virtualine Technologies | US
 130.12.180.77        # CRITICAL | Score: 80 | Virtualine Technologies | US
+130.12.180.89        # CRITICAL | Score: 79 | Virtualine Technologies | US
 87.121.84.57         # CRITICAL | Score: 79 | Dedicated Servers and VPS Host | US
 220.82.236.135       # CRITICAL | Score: 79 | Korea Telecom | KR
 182.92.181.218       # CRITICAL | Score: 79 | Aliyun Computing Co., LTD | CN
@@ -626,6 +629,7 @@
 45.179.132.224       # HIGH     | Score: 73 | SUPERNETMAIS TELECOMUNICAÇÕES  | BR
 104.236.240.67       # HIGH     | Score: 73 | DigitalOcean, LLC | US
 167.172.51.219       # HIGH     | Score: 73 | DigitalOcean, LLC | GB
+130.12.180.117       # HIGH     | Score: 72 | Virtualine Technologies | US
 193.163.125.136      # HIGH     | Score: 72 | Driftnet Ltd | GB
 194.187.176.176      # HIGH     | Score: 72 | Alpha Strike Labs GmbH | DE
 109.105.210.94       # HIGH     | Score: 72 | ICG-ZEN-DFW | PT
@@ -659,6 +663,7 @@
 138.199.19.180       # HIGH     | Score: 71 | Datacamp Limited | DE
 104.248.198.91       # HIGH     | Score: 71 | DigitalOcean, LLC | NL
 178.16.54.35         # HIGH     | Score: 71 | OMEGATECH | NL
+130.12.180.101       # HIGH     | Score: 70 | Virtualine Technologies | US
 34.230.221.101       # HIGH     | Score: 70 | Amazon Technologies Inc. | US
 20.64.105.82         # HIGH     | Score: 70 | Microsoft Corporation | US
 94.231.206.35        # HIGH     | Score: 70 | FR ONYPHE | CN
@@ -785,11 +790,13 @@
 176.65.139.46        # HIGH     | Score: 64 | Storm Industries | DE
 194.180.48.63        # HIGH     | Score: 64 | Neterra Ltd. | DE
 185.242.226.18       # HIGH     | Score: 64 | HostUS Solutions LLC | US
+130.12.180.116       # HIGH     | Score: 63 | Virtualine Technologies | US
 140.246.124.160      # HIGH     | Score: 63 | CHINANET SHANDONG PROVINCE NET | CN
 162.243.37.46        # HIGH     | Score: 63 | DigitalOcean, LLC | US
 161.35.40.156        # HIGH     | Score: 63 | DigitalOcean, LLC | GB
 100.28.191.174       # HIGH     | Score: 63 | Amazon Data Services Northern  | US
 130.12.180.57        # HIGH     | Score: 63 | Virtualine Technologies | US
+130.12.180.92        # HIGH     | Score: 62 | Virtualine Technologies | US
 48.214.25.59         # HIGH     | Score: 62 | Microsoft Limited | US
 185.247.137.236      # HIGH     | Score: 62 | Driftnet Ltd | GB
 48.214.25.59         # HIGH     | Score: 62 | Microsoft Limited | US
@@ -848,6 +855,7 @@
 14.225.2.67          # HIGH     | Score: 59 | Vietnam Posts and Telecommunic | VN
 146.70.160.220       # HIGH     | Score: 59 | M247 LTD Frankfurt Infrastruct | DE
 91.239.157.185       # HIGH     | Score: 59 | Clouvider Limited | DE
+91.92.243.197        # HIGH     | Score: 58 | OMEGATECH | US
 35.167.108.113       # HIGH     | Score: 58 | Amazon.com, Inc. | US
 35.167.108.113       # HIGH     | Score: 58 | Amazon.com, Inc. | US
 16.176.125.201       # HIGH     | Score: 58 | Amazon Corporate Services Pty  | AU
@@ -1009,11 +1017,3 @@
 44.247.181.228       # HIGH     | Score: 51 | Amazon.com, Inc. | US
 14.225.2.67          # HIGH     | Score: 51 | Vietnam Posts and Telecommunic | VN
 44.247.181.228       # HIGH     | Score: 51 | Amazon.com, Inc. | US
-103.203.57.5         # HIGH     | Score: 51 | Beijing Tiantexin Tech. Co., L | CN
-44.247.181.228       # HIGH     | Score: 51 | Amazon.com, Inc. | US
-18.221.132.46        # HIGH     | Score: 51 | Amazon Technologies Inc. | US
-18.221.132.46        # HIGH     | Score: 51 | Amazon Technologies Inc. | US
-44.246.78.181        # HIGH     | Score: 51 | Amazon.com, Inc. | US
-44.246.78.181        # HIGH     | Score: 51 | Amazon.com, Inc. | US
-178.16.54.89         # HIGH     | Score: 51 | OMEGATECH | NL
-115.175.227.67       # HIGH     | Score: 50 | Huawei Public Cloud Service (H | CN
