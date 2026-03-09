@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-09 10:26:49 UTC
+# Updated: 2026-03-09 11:26:50 UTC
 # Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -940,6 +940,7 @@
 64.227.109.89        # HIGH     | Score: 55 | DigitalOcean, LLC | US
 108.181.221.34       # HIGH     | Score: 55 | Psychz Networks | US
 173.212.236.89       # HIGH     | Score: 55 | Contabo GmbH | FR
+170.64.187.153       # HIGH     | Score: 54 | DigitalOcean, LLC | AU
 45.33.105.182        # HIGH     | Score: 54 | Linode | US
 143.42.164.127       # HIGH     | Score: 54 | Linode | US
 35.187.72.100        # HIGH     | Score: 54 | Google LLC | BE
@@ -1016,4 +1017,3 @@
 20.51.245.30         # HIGH     | Score: 52 | Microsoft Corporation | US
 205.210.31.234       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 139.162.119.61       # HIGH     | Score: 52 | 139.162.0.0/16 | JP
-167.94.138.171       # HIGH     | Score: 52 | Censys, Inc. | US
