@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-09 16:26:56 UTC
+# Updated: 2026-03-09 17:26:57 UTC
 # Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -910,6 +910,7 @@
 91.92.243.197        # HIGH     | Score: 58 | OMEGATECH | US
 91.92.243.197        # HIGH     | Score: 58 | OMEGATECH | US
 121.173.173.48       # HIGH     | Score: 58 | Korea Telecom | KR
+64.23.173.227        # HIGH     | Score: 57 | DigitalOcean, LLC | US
 143.42.164.97        # HIGH     | Score: 57 | Linode | US
 40.76.248.252        # HIGH     | Score: 57 | Microsoft Corporation | US
 143.42.164.97        # HIGH     | Score: 57 | Linode | US
@@ -1016,4 +1017,3 @@
 205.210.31.8         # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 112.74.242.167       # HIGH     | Score: 52 | Aliyun Computing Co., LTD | CN
 147.185.132.87       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
-167.94.146.51        # HIGH     | Score: 52 | Censys, Inc. | US
