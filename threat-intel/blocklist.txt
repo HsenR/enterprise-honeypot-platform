@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-09 05:26:43 UTC
+# Updated: 2026-03-09 06:26:44 UTC
 # Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -122,6 +122,7 @@
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 98.89.204.118        # CRITICAL | Score: 95 | Amazon Data Services Northern  | US
 130.12.180.72        # CRITICAL | Score: 95 | Virtualine Technologies | US
+152.32.159.180       # CRITICAL | Score: 94 | UCLOUD INFORMATION TECHNOLOGY  | IN
 93.174.93.12         # CRITICAL | Score: 94 | FiberXpress BV | NL
 71.6.199.65          # CRITICAL | Score: 94 | CariNet, Inc. | US
 66.240.236.116       # CRITICAL | Score: 94 | CariNet, Inc. | US
@@ -1016,4 +1017,3 @@
 167.94.138.171       # HIGH     | Score: 52 | Censys, Inc. | US
 159.65.26.71         # HIGH     | Score: 52 | DigitalOcean, LLC | GB
 198.235.24.97        # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
-167.94.146.61        # HIGH     | Score: 52 | Censys, Inc. | US
