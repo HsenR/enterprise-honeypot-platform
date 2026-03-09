@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-09 06:26:44 UTC
+# Updated: 2026-03-09 07:26:46 UTC
 # Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -879,6 +879,7 @@
 20.65.193.199        # HIGH     | Score: 60 | Microsoft Corporation | US
 48.217.64.148        # HIGH     | Score: 60 | Microsoft Limited | US
 4.227.178.208        # HIGH     | Score: 60 | Microsoft Corporation | US
+138.68.171.246       # HIGH     | Score: 59 | DigitalOcean, LLC | GB
 147.182.172.160      # HIGH     | Score: 59 | DigitalOcean, LLC | US
 20.64.105.53         # HIGH     | Score: 59 | Microsoft Corporation | US
 161.35.126.43        # HIGH     | Score: 59 | DigitalOcean, LLC | US
@@ -1016,4 +1017,3 @@
 139.162.119.61       # HIGH     | Score: 52 | 139.162.0.0/16 | JP
 167.94.138.171       # HIGH     | Score: 52 | Censys, Inc. | US
 159.65.26.71         # HIGH     | Score: 52 | DigitalOcean, LLC | GB
-198.235.24.97        # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
