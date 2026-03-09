@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-09 18:26:59 UTC
+# Updated: 2026-03-09 19:27:00 UTC
 # Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -369,6 +369,7 @@
 81.29.142.50         # CRITICAL | Score: 89 | Data-center IMAQLIQ Ltd. | RU
 178.16.54.139        # CRITICAL | Score: 89 | OMEGATECH | NL
 130.12.180.49        # CRITICAL | Score: 89 | Virtualine Technologies | US
+45.33.65.239         # CRITICAL | Score: 88 | Linode | US
 167.235.25.150       # CRITICAL | Score: 88 | Hetzner Online GmbH | DE
 167.235.25.150       # CRITICAL | Score: 88 | Hetzner Online GmbH | DE
 45.194.92.9          # CRITICAL | Score: 88 | VPSVAULT.HOST LTD | US
@@ -720,6 +721,7 @@
 20.221.58.154        # HIGH     | Score: 70 | Microsoft Corporation | US
 183.232.212.193      # HIGH     | Score: 70 | China Mobile Communications Co | CN
 130.12.180.101       # HIGH     | Score: 70 | Virtualine Technologies | US
+159.89.160.76        # HIGH     | Score: 69 | DigitalOcean, LLC | IN
 194.180.48.63        # HIGH     | Score: 69 | Neterra Ltd. | DE
 3.85.184.110         # HIGH     | Score: 69 | Amazon Data Services Northern  | US
 47.115.150.82        # HIGH     | Score: 69 | Aliyun Computing Co., LTD | CN
@@ -784,6 +786,7 @@
 187.110.175.205      # HIGH     | Score: 67 | EVEO S.A. | BR
 89.117.104.6         # HIGH     | Score: 67 | SC Lithuanian Radio and TV Cen | DE
 185.104.184.196      # HIGH     | Score: 67 | M247 LTD Frankfurt Infrastruct | DE
+13.58.84.198         # HIGH     | Score: 66 | Amazon Technologies Inc. | US
 167.172.100.176      # HIGH     | Score: 66 | DigitalOcean, LLC | DE
 3.239.13.6           # HIGH     | Score: 66 | Amazon Data Services Northern  | US
 52.36.5.236          # HIGH     | Score: 66 | Amazon Technologies Inc. | US
@@ -1014,6 +1017,3 @@
 205.210.31.215       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 20.169.106.110       # HIGH     | Score: 52 | Microsoft Corporation | US
 205.210.31.210       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
-205.210.31.8         # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
-112.74.242.167       # HIGH     | Score: 52 | Aliyun Computing Co., LTD | CN
-147.185.132.87       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
