@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-09 12:26:51 UTC
+# Updated: 2026-03-09 13:26:52 UTC
 # Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -267,6 +267,7 @@
 45.153.34.187        # CRITICAL | Score: 92 | VMHeaven.io | NL
 49.88.156.34         # CRITICAL | Score: 92 | CHINANET jiangsu province netw | CN
 204.76.203.18        # CRITICAL | Score: 92 | Intelligence Hosting LLC | NL
+3.129.187.38         # CRITICAL | Score: 91 | Amazon Technologies Inc. | US
 180.232.31.146       # CRITICAL | Score: 91 | Eastern Telecom's DSL-Client | PH
 212.0.217.26         # CRITICAL | Score: 91 | JSC Moldtelecom S.A. | MD
 119.18.55.118        # CRITICAL | Score: 91 | Hostgator Asian Operations Div | IN
@@ -1016,4 +1017,3 @@
 167.94.146.51        # HIGH     | Score: 52 | Censys, Inc. | US
 198.235.24.28        # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 198.235.24.111       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
-20.51.245.30         # HIGH     | Score: 52 | Microsoft Corporation | US
