@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-10 04:26:47 UTC
+# Updated: 2026-03-10 05:26:48 UTC
 # Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -34,6 +34,7 @@
 45.91.64.7           # CRITICAL | Score:100 | F6 | RU
 207.244.239.45       # CRITICAL | Score:100 | Contabo Inc. | US
 161.97.67.38         # CRITICAL | Score:100 | Contabo GmbH | FR
+115.191.65.47        # CRITICAL | Score: 98 | Beijing Volcano Engine Technol | CN
 3.131.220.121        # CRITICAL | Score: 98 | Amazon Technologies Inc. | US
 130.12.180.108       # CRITICAL | Score: 98 | Virtualine Technologies | US
 87.121.84.67         # CRITICAL | Score: 98 | Dedicated Servers and VPS Host | US
@@ -1016,4 +1017,3 @@
 20.119.86.70         # HIGH     | Score: 54 | Microsoft Corporation | US
 14.225.2.67          # HIGH     | Score: 54 | Vietnam Posts and Telecommunic | VN
 209.38.31.99         # HIGH     | Score: 54 | DigitalOcean, LLC | AU
-170.64.168.136       # HIGH     | Score: 54 | DigitalOcean, LLC | AU
