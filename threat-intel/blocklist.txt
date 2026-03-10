@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-10 08:26:58 UTC
+# Updated: 2026-03-10 09:26:59 UTC
 # Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -779,6 +779,7 @@
 130.12.180.101       # HIGH     | Score: 72 | Virtualine Technologies | US
 130.12.180.117       # HIGH     | Score: 72 | Virtualine Technologies | US
 178.16.54.134        # HIGH     | Score: 72 | OMEGATECH | NL
+159.65.152.30        # HIGH     | Score: 71 | DigitalOcean, LLC | IN
 91.92.243.27         # HIGH     | Score: 71 | OMEGATECH | US
 98.81.195.81         # HIGH     | Score: 71 | Amazon Data Services Northern  | US
 185.253.241.146      # HIGH     | Score: 71 | Fidro Sp. z o.o. | PL
@@ -1016,4 +1017,3 @@
 35.167.108.113       # HIGH     | Score: 58 | Amazon.com, Inc. | US
 16.176.125.201       # HIGH     | Score: 58 | Amazon Corporate Services Pty  | AU
 178.16.54.134        # HIGH     | Score: 58 | OMEGATECH | NL
-91.92.243.197        # HIGH     | Score: 58 | OMEGATECH | US
