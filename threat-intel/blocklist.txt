@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-10 12:27:02 UTC
+# Updated: 2026-03-10 13:27:03 UTC
 # Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -36,6 +36,7 @@
 45.91.64.7           # CRITICAL | Score:100 | F6 | RU
 161.97.67.38         # CRITICAL | Score:100 | Contabo GmbH | FR
 207.244.239.45       # CRITICAL | Score:100 | Contabo Inc. | US
+45.202.102.17        # CRITICAL | Score: 98 | Hasan Bulduk | SC
 16.58.56.214         # CRITICAL | Score: 98 | Amazon.com, Inc. | US
 185.196.8.233        # CRITICAL | Score: 98 | Global-Data System IT Corporat | CH
 115.191.65.47        # CRITICAL | Score: 98 | Beijing Volcano Engine Technol | CN
@@ -1016,4 +1017,3 @@
 91.239.157.185       # HIGH     | Score: 59 | Clouvider Limited | DE
 138.68.171.246       # HIGH     | Score: 59 | DigitalOcean, LLC | GB
 85.204.70.92         # HIGH     | Score: 58 | Hydra Communications Ltd | FR
-35.167.108.113       # HIGH     | Score: 58 | Amazon.com, Inc. | US
