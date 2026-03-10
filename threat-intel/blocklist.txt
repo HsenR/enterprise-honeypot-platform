@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-09 23:27:05 UTC
+# Updated: 2026-03-10 00:27:06 UTC
 # Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -339,6 +339,7 @@
 199.45.155.102       # CRITICAL | Score: 90 | Censys, Inc. | US
 199.45.155.67        # CRITICAL | Score: 90 | Censys, Inc. | US
 206.168.34.112       # CRITICAL | Score: 90 | Censys, Inc. | US
+77.83.39.74          # CRITICAL | Score: 89 | Pitline Ltd | UA
 87.236.176.65        # CRITICAL | Score: 89 | Driftnet Ltd | GB
 185.242.226.22       # CRITICAL | Score: 89 | HostUS Solutions LLC | US
 65.49.20.83          # CRITICAL | Score: 89 | The Shadowserver Foundation, I | US
@@ -625,6 +626,7 @@
 178.16.54.35         # CRITICAL | Score: 75 | OMEGATECH | NL
 
 # ── HIGH THREATS ─────────────────────────────────────
+164.92.138.14        # HIGH     | Score: 74 | DigitalOcean, LLC | DE
 3.85.184.110         # HIGH     | Score: 74 | Amazon Data Services Northern  | US
 54.152.26.85         # HIGH     | Score: 74 | Amazon Technologies Inc. | US
 138.68.89.128        # HIGH     | Score: 74 | DigitalOcean, LLC | DE
@@ -1015,5 +1017,3 @@
 205.210.31.79        # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 167.94.146.55        # HIGH     | Score: 52 | Censys, Inc. | US
 205.210.31.215       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
-20.169.106.110       # HIGH     | Score: 52 | Microsoft Corporation | US
-205.210.31.210       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
