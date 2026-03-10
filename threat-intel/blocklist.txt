@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-10 11:27:01 UTC
+# Updated: 2026-03-10 12:27:02 UTC
 # Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
