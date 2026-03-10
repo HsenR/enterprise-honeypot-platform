@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-10 09:26:59 UTC
+# Updated: 2026-03-10 10:27:00 UTC
 # Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -36,6 +36,7 @@
 45.91.64.7           # CRITICAL | Score:100 | F6 | RU
 161.97.67.38         # CRITICAL | Score:100 | Contabo GmbH | FR
 207.244.239.45       # CRITICAL | Score:100 | Contabo Inc. | US
+16.58.56.214         # CRITICAL | Score: 98 | Amazon.com, Inc. | US
 185.196.8.233        # CRITICAL | Score: 98 | Global-Data System IT Corporat | CH
 115.191.65.47        # CRITICAL | Score: 98 | Beijing Volcano Engine Technol | CN
 3.131.220.121        # CRITICAL | Score: 98 | Amazon Technologies Inc. | US
@@ -141,6 +142,7 @@
 18.116.101.220       # CRITICAL | Score: 96 | Amazon Technologies Inc. | US
 130.12.180.55        # CRITICAL | Score: 96 | Virtualine Technologies | US
 130.12.180.80        # CRITICAL | Score: 96 | Virtualine Technologies | US
+3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
@@ -1015,5 +1017,3 @@
 85.204.70.92         # HIGH     | Score: 58 | Hydra Communications Ltd | FR
 35.167.108.113       # HIGH     | Score: 58 | Amazon.com, Inc. | US
 35.167.108.113       # HIGH     | Score: 58 | Amazon.com, Inc. | US
-16.176.125.201       # HIGH     | Score: 58 | Amazon Corporate Services Pty  | AU
-178.16.54.134        # HIGH     | Score: 58 | OMEGATECH | NL
