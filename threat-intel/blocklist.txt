@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-10 18:27:09 UTC
+# Updated: 2026-03-10 19:27:10 UTC
 # Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -225,6 +225,7 @@
 130.12.180.19        # CRITICAL | Score: 93 | Virtualine Technologies | US
 45.33.65.239         # CRITICAL | Score: 93 | Linode | US
 130.12.180.19        # CRITICAL | Score: 93 | Virtualine Technologies | US
+142.93.3.113         # CRITICAL | Score: 92 | DigitalOcean, LLC | US
 45.153.34.187        # CRITICAL | Score: 92 | VMHeaven.io | NL
 184.105.247.194      # CRITICAL | Score: 92 | The Shadowserver Foundation, I | US
 49.88.156.34         # CRITICAL | Score: 92 | CHINANET jiangsu province netw | CN
@@ -997,6 +998,7 @@
 20.65.193.199        # HIGH     | Score: 60 | Microsoft Corporation | US
 48.217.64.148        # HIGH     | Score: 60 | Microsoft Limited | US
 4.227.178.208        # HIGH     | Score: 60 | Microsoft Corporation | US
+34.66.133.48         # HIGH     | Score: 59 | Google LLC | US
 147.182.172.160      # HIGH     | Score: 59 | DigitalOcean, LLC | US
 20.64.105.53         # HIGH     | Score: 59 | Microsoft Corporation | US
 161.35.126.43        # HIGH     | Score: 59 | DigitalOcean, LLC | US
@@ -1015,5 +1017,3 @@
 14.225.2.67          # HIGH     | Score: 59 | Vietnam Posts and Telecommunic | VN
 146.70.160.220       # HIGH     | Score: 59 | M247 LTD Frankfurt Infrastruct | DE
 91.239.157.185       # HIGH     | Score: 59 | Clouvider Limited | DE
-138.68.171.246       # HIGH     | Score: 59 | DigitalOcean, LLC | GB
-85.204.70.92         # HIGH     | Score: 58 | Hydra Communications Ltd | FR
