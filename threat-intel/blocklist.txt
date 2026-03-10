@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-10 00:27:06 UTC
+# Updated: 2026-03-10 01:27:07 UTC
 # Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -15,6 +15,7 @@
 #
 
 # ── CRITICAL THREATS ─────────────────────────────────
+161.97.67.38         # CRITICAL | Score:100 | Contabo GmbH | FR
 170.39.216.152       # CRITICAL | Score:100 | REDHEBERG SAS | FR
 45.91.64.7           # CRITICAL | Score:100 | F6 | RU
 8.220.192.64         # CRITICAL | Score:100 | Alibaba Cloud (Singapore) Priv | KR
@@ -268,6 +269,7 @@
 45.153.34.187        # CRITICAL | Score: 92 | VMHeaven.io | NL
 49.88.156.34         # CRITICAL | Score: 92 | CHINANET jiangsu province netw | CN
 204.76.203.18        # CRITICAL | Score: 92 | Intelligence Hosting LLC | NL
+134.199.156.138      # CRITICAL | Score: 91 | DigitalOcean, LLC | AU
 3.129.187.38         # CRITICAL | Score: 91 | Amazon Technologies Inc. | US
 180.232.31.146       # CRITICAL | Score: 91 | Eastern Telecom's DSL-Client | PH
 212.0.217.26         # CRITICAL | Score: 91 | JSC Moldtelecom S.A. | MD
@@ -1015,5 +1017,3 @@
 20.65.195.19         # HIGH     | Score: 52 | Microsoft Corporation | US
 198.235.24.212       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 205.210.31.79        # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
-167.94.146.55        # HIGH     | Score: 52 | Censys, Inc. | US
-205.210.31.215       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
