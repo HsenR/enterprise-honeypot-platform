@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-11 03:26:42 UTC
+# Updated: 2026-03-11 04:26:43 UTC
 # Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -36,6 +36,12 @@
 207.244.239.45       # CRITICAL | Score:100 | Contabo Inc. | US
 45.91.64.7           # CRITICAL | Score:100 | F6 | RU
 161.97.67.38         # CRITICAL | Score:100 | Contabo GmbH | FR
+185.196.8.233        # CRITICAL | Score: 98 | Global-Data System IT Corporat | CH
+115.191.65.47        # CRITICAL | Score: 98 | Beijing Volcano Engine Technol | CN
+45.202.102.17        # CRITICAL | Score: 98 | Hasan Bulduk | SC
+18.116.101.220       # CRITICAL | Score: 98 | Amazon Technologies Inc. | US
+16.58.56.214         # CRITICAL | Score: 98 | Amazon.com, Inc. | US
+187.191.2.214        # CRITICAL | Score: 98 | TOTAL PLAY TELECOMUNICACIONES  | MX
 87.121.84.67         # CRITICAL | Score: 98 | Dedicated Servers and VPS Host | US
 154.81.14.244        # CRITICAL | Score: 98 | UCLOUD INFORMATION TECHNOLOGY  | SC
 187.191.2.214        # CRITICAL | Score: 98 | TOTAL PLAY TELECOMUNICACIONES  | MX
@@ -80,6 +86,10 @@
 185.196.8.233        # CRITICAL | Score: 98 | Global-Data System IT Corporat | CH
 16.58.56.214         # CRITICAL | Score: 98 | Amazon.com, Inc. | US
 45.202.102.17        # CRITICAL | Score: 98 | Hasan Bulduk | SC
+34.158.79.105        # CRITICAL | Score: 96 | Google LLC | NL
+130.12.180.80        # CRITICAL | Score: 96 | Virtualine Technologies | US
+130.12.180.72        # CRITICAL | Score: 96 | Virtualine Technologies | US
+130.12.180.55        # CRITICAL | Score: 96 | Virtualine Technologies | US
 207.231.108.199      # CRITICAL | Score: 96 | HostRush | US
 5.61.209.96          # CRITICAL | Score: 96 | Amarutu Technology Ltd | SC
 45.227.254.170       # CRITICAL | Score: 96 | XWIN UNIVERSAL LTD | PA
@@ -143,6 +153,7 @@
 130.12.180.72        # CRITICAL | Score: 96 | Virtualine Technologies | US
 18.116.101.220       # CRITICAL | Score: 96 | Amazon Technologies Inc. | US
 3.129.187.38         # CRITICAL | Score: 96 | Amazon Technologies Inc. | US
+3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
@@ -213,6 +224,7 @@
 85.11.167.106        # CRITICAL | Score: 94 | SOFCOMPANY Ltd | BG
 152.32.159.180       # CRITICAL | Score: 94 | UCLOUD INFORMATION TECHNOLOGY  | IN
 185.224.128.251      # CRITICAL | Score: 94 | Alsycon B.V. | NL
+130.12.180.19        # CRITICAL | Score: 93 | Virtualine Technologies | US
 94.231.206.11        # CRITICAL | Score: 93 | FR ONYPHE | CN
 87.121.84.67         # CRITICAL | Score: 93 | Dedicated Servers and VPS Host | US
 89.42.231.179        # CRITICAL | Score: 93 | Amarutu Technology Ltd | NL
@@ -225,6 +237,9 @@
 130.12.180.19        # CRITICAL | Score: 93 | Virtualine Technologies | US
 45.33.65.239         # CRITICAL | Score: 93 | Linode | US
 130.12.180.19        # CRITICAL | Score: 93 | Virtualine Technologies | US
+184.105.247.194      # CRITICAL | Score: 92 | The Shadowserver Foundation, I | US
+142.93.3.113         # CRITICAL | Score: 92 | DigitalOcean, LLC | US
+49.88.156.34         # CRITICAL | Score: 92 | CHINANET jiangsu province netw | CN
 204.76.203.18        # CRITICAL | Score: 92 | Intelligence Hosting LLC | NL
 45.153.34.187        # CRITICAL | Score: 92 | VMHeaven.io | NL
 204.76.203.18        # CRITICAL | Score: 92 | Intelligence Hosting LLC | NL
@@ -308,6 +323,7 @@
 184.105.247.194      # CRITICAL | Score: 92 | The Shadowserver Foundation, I | US
 45.153.34.187        # CRITICAL | Score: 92 | VMHeaven.io | NL
 142.93.3.113         # CRITICAL | Score: 92 | DigitalOcean, LLC | US
+3.129.187.38         # CRITICAL | Score: 91 | Amazon Technologies Inc. | US
 180.232.31.146       # CRITICAL | Score: 91 | Eastern Telecom's DSL-Client | PH
 212.0.217.26         # CRITICAL | Score: 91 | JSC Moldtelecom S.A. | MD
 119.18.55.118        # CRITICAL | Score: 91 | Hostgator Asian Operations Div | IN
@@ -346,6 +362,8 @@
 34.158.79.105        # CRITICAL | Score: 91 | Google LLC | NL
 134.199.156.138      # CRITICAL | Score: 91 | DigitalOcean, LLC | AU
 34.158.79.105        # CRITICAL | Score: 91 | Google LLC | NL
+178.16.54.139        # CRITICAL | Score: 90 | OMEGATECH | NL
+130.12.180.74        # CRITICAL | Score: 90 | Virtualine Technologies | US
 93.123.109.246       # CRITICAL | Score: 90 | TECHOFF_SRV_LIMITED | BG
 54.161.134.131       # CRITICAL | Score: 90 | Amazon Technologies Inc. | US
 60.165.238.170       # CRITICAL | Score: 90 | CHINANET Gansu province networ | CN
@@ -424,6 +442,7 @@
 130.12.180.74        # CRITICAL | Score: 89 | Virtualine Technologies | US
 178.16.54.139        # CRITICAL | Score: 89 | OMEGATECH | NL
 77.83.39.74          # CRITICAL | Score: 89 | Pitline Ltd | UA
+130.12.180.71        # CRITICAL | Score: 88 | Virtualine Technologies | US
 167.235.25.150       # CRITICAL | Score: 88 | Hetzner Online GmbH | DE
 167.235.25.150       # CRITICAL | Score: 88 | Hetzner Online GmbH | DE
 45.194.92.9          # CRITICAL | Score: 88 | VPSVAULT.HOST LTD | US
@@ -443,6 +462,7 @@
 152.32.206.181       # CRITICAL | Score: 88 | UCLOUD INFORMATION TECHNOLOGY  | US
 130.12.180.71        # CRITICAL | Score: 88 | Virtualine Technologies | US
 152.32.206.181       # CRITICAL | Score: 88 | UCLOUD INFORMATION TECHNOLOGY  | US
+167.86.107.35        # CRITICAL | Score: 87 | Contabo GmbH | FR
 195.178.110.246      # CRITICAL | Score: 87 | TECHOFF SRV LIMITED | BG
 195.178.110.246      # CRITICAL | Score: 87 | TECHOFF SRV LIMITED | BG
 65.49.1.132          # CRITICAL | Score: 87 | The Shadowserver Foundation, I | US
@@ -455,6 +475,7 @@
 152.32.132.189       # CRITICAL | Score: 87 | UCLOUD INFORMATION TECHNOLOGY  | HK
 152.32.132.189       # CRITICAL | Score: 87 | UCLOUD INFORMATION TECHNOLOGY  | HK
 152.32.132.189       # CRITICAL | Score: 87 | UCLOUD INFORMATION TECHNOLOGY  | HK
+18.218.118.203       # CRITICAL | Score: 86 | Amazon Technologies Inc. | US
 95.85.234.50         # CRITICAL | Score: 86 | WAIcore Ltd | DE
 71.6.232.30          # CRITICAL | Score: 86 | CariNet, Inc. | US
 74.50.81.220         # CRITICAL | Score: 86 | Host Department NJ, LLC | US
@@ -483,6 +504,8 @@
 18.218.118.203       # CRITICAL | Score: 86 | Amazon Technologies Inc. | US
 18.218.118.203       # CRITICAL | Score: 86 | Amazon Technologies Inc. | US
 18.218.118.203       # CRITICAL | Score: 86 | Amazon Technologies Inc. | US
+130.12.180.77        # CRITICAL | Score: 85 | Virtualine Technologies | US
+130.12.180.37        # CRITICAL | Score: 85 | Virtualine Technologies | US
 78.128.114.38        # CRITICAL | Score: 85 | Tamatiya EOOD | BG
 185.156.73.181       # CRITICAL | Score: 85 | TOV E-RISHENNYA | UA
 167.71.0.189         # CRITICAL | Score: 85 | DigitalOcean, LLC | NL
@@ -576,6 +599,8 @@
 139.162.113.212      # CRITICAL | Score: 81 | 139.162.0.0/16 | JP
 185.242.246.36       # CRITICAL | Score: 81 | SOLDATOV ALEXEY VALEREVICH | SC
 3.143.162.210        # CRITICAL | Score: 81 | Amazon Technologies Inc. | US
+130.12.180.82        # CRITICAL | Score: 80 | Virtualine Technologies | US
+130.12.180.89        # CRITICAL | Score: 80 | Virtualine Technologies | US
 46.151.182.181       # CRITICAL | Score: 80 | DEMENIN B.V. | NL
 107.172.7.140        # CRITICAL | Score: 80 | HostPapa | US
 3.134.216.108        # CRITICAL | Score: 80 | Amazon Technologies Inc. | US
@@ -618,6 +643,7 @@
 130.12.180.89        # CRITICAL | Score: 79 | Virtualine Technologies | US
 130.12.180.89        # CRITICAL | Score: 79 | Virtualine Technologies | US
 207.154.211.129      # CRITICAL | Score: 79 | DigitalOcean, LLC | DE
+178.16.54.35         # CRITICAL | Score: 78 | OMEGATECH | NL
 34.130.69.154        # CRITICAL | Score: 78 | Google LLC | CA
 34.47.182.97         # CRITICAL | Score: 78 | Google LLC | IN
 34.47.182.97         # CRITICAL | Score: 78 | Google LLC | IN
@@ -626,6 +652,7 @@
 35.216.144.195       # CRITICAL | Score: 78 | Google LLC | CH
 89.117.104.16        # CRITICAL | Score: 78 | SC Lithuanian Radio and TV Cen | DE
 35.216.144.195       # CRITICAL | Score: 78 | Google LLC | CH
+178.16.54.134        # CRITICAL | Score: 77 | OMEGATECH | NL
 185.247.137.214      # CRITICAL | Score: 77 | Driftnet Ltd | GB
 65.49.1.194          # CRITICAL | Score: 77 | The Shadowserver Foundation, I | US
 64.62.197.14         # CRITICAL | Score: 77 | The Shadowserver Foundation, I | US
@@ -687,6 +714,9 @@
 3.132.26.232         # CRITICAL | Score: 76 | Amazon Technologies Inc. | US
 3.132.26.232         # CRITICAL | Score: 76 | Amazon Technologies Inc. | US
 104.248.198.91       # CRITICAL | Score: 76 | DigitalOcean, LLC | NL
+91.92.243.197        # CRITICAL | Score: 75 | OMEGATECH | US
+130.12.180.117       # CRITICAL | Score: 75 | Virtualine Technologies | US
+130.12.180.101       # CRITICAL | Score: 75 | Virtualine Technologies | US
 109.105.210.95       # CRITICAL | Score: 75 | ICG-ZEN-DFW | PT
 34.193.119.44        # CRITICAL | Score: 75 | Amazon Technologies Inc. | US
 138.68.133.32        # CRITICAL | Score: 75 | DigitalOcean, LLC | GB
@@ -742,6 +772,8 @@
 164.92.138.14        # HIGH     | Score: 74 | DigitalOcean, LLC | DE
 159.89.160.76        # HIGH     | Score: 74 | DigitalOcean, LLC | IN
 139.59.44.184        # HIGH     | Score: 74 | DigitalOcean, LLC | IN
+91.92.243.27         # HIGH     | Score: 73 | OMEGATECH | US
+130.12.180.57        # HIGH     | Score: 73 | Virtualine Technologies | US
 160.119.69.2         # HIGH     | Score: 73 | HostMem | US
 160.119.69.2         # HIGH     | Score: 73 | HostMem | US
 178.62.196.32        # HIGH     | Score: 73 | DigitalOcean Amsterdam | NL
@@ -783,6 +815,7 @@
 130.12.180.117       # HIGH     | Score: 72 | Virtualine Technologies | US
 178.16.54.134        # HIGH     | Score: 72 | OMEGATECH | NL
 178.16.54.134        # HIGH     | Score: 72 | OMEGATECH | NL
+161.35.212.221       # HIGH     | Score: 71 | DigitalOcean, LLC | DE
 98.81.195.81         # HIGH     | Score: 71 | Amazon Data Services Northern  | US
 185.253.241.146      # HIGH     | Score: 71 | Fidro Sp. z o.o. | PL
 98.81.195.81         # HIGH     | Score: 71 | Amazon Data Services Northern  | US
@@ -800,6 +833,7 @@
 91.92.243.27         # HIGH     | Score: 71 | OMEGATECH | US
 159.65.152.30        # HIGH     | Score: 71 | DigitalOcean, LLC | IN
 161.35.212.221       # HIGH     | Score: 71 | DigitalOcean, LLC | DE
+178.16.54.89         # HIGH     | Score: 70 | OMEGATECH | NL
 34.230.221.101       # HIGH     | Score: 70 | Amazon Technologies Inc. | US
 20.64.105.82         # HIGH     | Score: 70 | Microsoft Corporation | US
 94.231.206.35        # HIGH     | Score: 70 | FR ONYPHE | CN
@@ -843,6 +877,7 @@
 64.227.132.35        # HIGH     | Score: 69 | DigitalOcean, LLC | IN
 130.12.180.82        # HIGH     | Score: 69 | Virtualine Technologies | US
 159.89.160.76        # HIGH     | Score: 69 | DigitalOcean, LLC | IN
+130.12.180.92        # HIGH     | Score: 68 | Virtualine Technologies | US
 119.237.27.185       # HIGH     | Score: 68 | Hong Kong Telecommunications ( | HK
 65.21.61.209         # HIGH     | Score: 68 | Hetzner Online GmbH | FI
 100.28.191.174       # HIGH     | Score: 68 | Amazon Data Services Northern  | US
@@ -865,6 +900,7 @@
 130.12.180.57        # HIGH     | Score: 68 | Virtualine Technologies | US
 130.12.180.92        # HIGH     | Score: 68 | Virtualine Technologies | US
 130.12.180.92        # HIGH     | Score: 68 | Virtualine Technologies | US
+130.12.180.116       # HIGH     | Score: 67 | Virtualine Technologies | US
 167.172.134.198      # HIGH     | Score: 67 | DigitalOcean, LLC | US
 161.35.135.113       # HIGH     | Score: 67 | DigitalOcean, LLC | US
 45.142.154.98        # HIGH     | Score: 67 | HDTIDC LIMITED | HK
@@ -885,6 +921,7 @@
 139.59.31.132        # HIGH     | Score: 67 | DigitalOcean, LLC | IN
 130.12.180.116       # HIGH     | Score: 67 | Virtualine Technologies | US
 139.59.31.132        # HIGH     | Score: 67 | DigitalOcean, LLC | IN
+143.244.57.120       # HIGH     | Score: 66 | Datacamp Limited | FR
 167.172.100.176      # HIGH     | Score: 66 | DigitalOcean, LLC | DE
 3.239.13.6           # HIGH     | Score: 66 | Amazon Data Services Northern  | US
 52.36.5.236          # HIGH     | Score: 66 | Amazon Technologies Inc. | US
@@ -980,40 +1017,3 @@
 54.86.228.47         # HIGH     | Score: 61 | Amazon Technologies Inc. | US
 15.157.122.50        # HIGH     | Score: 61 | Amazon Data Services Canada | CA
 175.183.10.183       # HIGH     | Score: 61 | New Century InfoComm Tech. Co. | TW
-15.157.122.50        # HIGH     | Score: 61 | Amazon Data Services Canada | CA
-15.157.122.50        # HIGH     | Score: 61 | Amazon Data Services Canada | CA
-20.65.195.41         # HIGH     | Score: 60 | Microsoft Corporation | US
-34.79.87.162         # HIGH     | Score: 60 | Google LLC | BE
-13.89.125.21         # HIGH     | Score: 60 | Microsoft Corporation | US
-20.65.194.56         # HIGH     | Score: 60 | Microsoft Corporation | US
-74.235.100.195       # HIGH     | Score: 60 | Microsoft Corporation | US
-40.76.117.18         # HIGH     | Score: 60 | Microsoft Corporation | US
-20.65.193.83         # HIGH     | Score: 60 | Microsoft Corporation | US
-185.226.197.74       # HIGH     | Score: 60 | ICG-4-ZEN-AMS | PT
-20.64.105.221        # HIGH     | Score: 60 | Microsoft Corporation | US
-20.64.105.221        # HIGH     | Score: 60 | Microsoft Corporation | US
-13.89.125.21         # HIGH     | Score: 60 | Microsoft Corporation | US
-20.65.194.56         # HIGH     | Score: 60 | Microsoft Corporation | US
-64.227.109.89        # HIGH     | Score: 60 | DigitalOcean, LLC | US
-20.65.193.199        # HIGH     | Score: 60 | Microsoft Corporation | US
-48.217.64.148        # HIGH     | Score: 60 | Microsoft Limited | US
-4.227.178.208        # HIGH     | Score: 60 | Microsoft Corporation | US
-147.182.172.160      # HIGH     | Score: 59 | DigitalOcean, LLC | US
-20.64.105.53         # HIGH     | Score: 59 | Microsoft Corporation | US
-161.35.126.43        # HIGH     | Score: 59 | DigitalOcean, LLC | US
-139.162.70.53        # HIGH     | Score: 59 | 139.162.0.0/16 | JP
-111.170.34.175       # HIGH     | Score: 59 | CHINANET HUBEI PROVINCE NETWOR | CN
-35.187.72.100        # HIGH     | Score: 59 | Google LLC | BE
-168.144.29.167       # HIGH     | Score: 59 | DigitalOcean, LLC | IN
-20.98.128.249        # HIGH     | Score: 59 | Microsoft Corporation | US
-47.251.93.227        # HIGH     | Score: 59 | Alibaba Cloud - US | US
-188.166.120.208      # HIGH     | Score: 59 | Digital Ocean, Inc. | NL
-168.144.29.167       # HIGH     | Score: 59 | DigitalOcean, LLC | IN
-192.241.244.23       # HIGH     | Score: 59 | DigitalOcean, LLC | US
-64.23.165.151        # HIGH     | Score: 59 | DigitalOcean, LLC | US
-20.127.157.56        # HIGH     | Score: 59 | Microsoft Corporation | US
-130.131.161.76       # HIGH     | Score: 59 | Microsoft Limited | US
-14.225.2.67          # HIGH     | Score: 59 | Vietnam Posts and Telecommunic | VN
-146.70.160.220       # HIGH     | Score: 59 | M247 LTD Frankfurt Infrastruct | DE
-91.239.157.185       # HIGH     | Score: 59 | Clouvider Limited | DE
-138.68.171.246       # HIGH     | Score: 59 | DigitalOcean, LLC | GB
