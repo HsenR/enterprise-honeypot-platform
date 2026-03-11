@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-11 19:27:01 UTC
+# Updated: 2026-03-11 20:27:03 UTC
 # Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -835,6 +835,7 @@
 183.232.212.193      # HIGH     | Score: 70 | China Mobile Communications Co | CN
 130.12.180.101       # HIGH     | Score: 70 | Virtualine Technologies | US
 178.16.54.89         # HIGH     | Score: 70 | OMEGATECH | NL
+163.7.12.49          # HIGH     | Score: 69 | BYTEPLUS | ID
 194.180.48.63        # HIGH     | Score: 69 | Neterra Ltd. | DE
 3.85.184.110         # HIGH     | Score: 69 | Amazon Data Services Northern  | US
 47.115.150.82        # HIGH     | Score: 69 | Aliyun Computing Co., LTD | CN
@@ -951,6 +952,7 @@
 18.188.57.88         # HIGH     | Score: 65 | Amazon Technologies Inc. | US
 47.243.177.131       # HIGH     | Score: 65 | ALIBABA CLOUD - HK | HK
 20.118.202.145       # HIGH     | Score: 65 | Microsoft Corporation | US
+121.173.173.48       # HIGH     | Score: 64 | Korea Telecom | KR
 147.182.172.160      # HIGH     | Score: 64 | DigitalOcean, LLC | US
 45.33.41.118         # HIGH     | Score: 64 | Linode | US
 167.71.136.156       # HIGH     | Score: 64 | DigitalOcean, LLC | GB
@@ -1015,5 +1017,3 @@
 13.89.125.21         # HIGH     | Score: 60 | Microsoft Corporation | US
 20.65.194.56         # HIGH     | Score: 60 | Microsoft Corporation | US
 64.227.109.89        # HIGH     | Score: 60 | DigitalOcean, LLC | US
-20.65.193.199        # HIGH     | Score: 60 | Microsoft Corporation | US
-48.217.64.148        # HIGH     | Score: 60 | Microsoft Limited | US
