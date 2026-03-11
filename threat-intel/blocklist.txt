@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-11 05:26:44 UTC
+# Updated: 2026-03-11 06:26:45 UTC
 # Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -36,6 +36,7 @@
 207.244.239.45       # CRITICAL | Score:100 | Contabo Inc. | US
 45.91.64.7           # CRITICAL | Score:100 | F6 | RU
 161.97.67.38         # CRITICAL | Score:100 | Contabo GmbH | FR
+130.12.180.108       # CRITICAL | Score: 98 | Virtualine Technologies | US
 185.196.8.233        # CRITICAL | Score: 98 | Global-Data System IT Corporat | CH
 115.191.65.47        # CRITICAL | Score: 98 | Beijing Volcano Engine Technol | CN
 45.202.102.17        # CRITICAL | Score: 98 | Hasan Bulduk | SC
@@ -362,6 +363,7 @@
 34.158.79.105        # CRITICAL | Score: 91 | Google LLC | NL
 134.199.156.138      # CRITICAL | Score: 91 | DigitalOcean, LLC | AU
 34.158.79.105        # CRITICAL | Score: 91 | Google LLC | NL
+130.12.180.49        # CRITICAL | Score: 90 | Virtualine Technologies | US
 178.16.54.139        # CRITICAL | Score: 90 | OMEGATECH | NL
 130.12.180.74        # CRITICAL | Score: 90 | Virtualine Technologies | US
 93.123.109.246       # CRITICAL | Score: 90 | TECHOFF_SRV_LIMITED | BG
@@ -1015,5 +1017,3 @@
 175.183.10.183       # HIGH     | Score: 61 | New Century InfoComm Tech. Co. | TW
 175.183.10.183       # HIGH     | Score: 61 | New Century InfoComm Tech. Co. | TW
 54.86.228.47         # HIGH     | Score: 61 | Amazon Technologies Inc. | US
-15.157.122.50        # HIGH     | Score: 61 | Amazon Data Services Canada | CA
-175.183.10.183       # HIGH     | Score: 61 | New Century InfoComm Tech. Co. | TW
