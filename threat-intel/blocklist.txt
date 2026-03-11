@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-11 08:26:47 UTC
+# Updated: 2026-03-11 09:26:48 UTC
 # Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -36,6 +36,7 @@
 207.244.239.45       # CRITICAL | Score:100 | Contabo Inc. | US
 45.91.64.7           # CRITICAL | Score:100 | F6 | RU
 161.97.67.38         # CRITICAL | Score:100 | Contabo GmbH | FR
+167.71.66.127        # CRITICAL | Score: 98 | DigitalOcean, LLC | NL
 87.121.84.67         # CRITICAL | Score: 98 | Dedicated Servers and VPS Host | US
 154.81.14.244        # CRITICAL | Score: 98 | UCLOUD INFORMATION TECHNOLOGY  | SC
 187.191.2.214        # CRITICAL | Score: 98 | TOTAL PLAY TELECOMUNICACIONES  | MX
@@ -1016,4 +1017,3 @@
 20.116.232.29        # HIGH     | Score: 61 | Microsoft Corporation | CA
 175.183.10.183       # HIGH     | Score: 61 | New Century InfoComm Tech. Co. | TW
 175.183.10.183       # HIGH     | Score: 61 | New Century InfoComm Tech. Co. | TW
-54.86.228.47         # HIGH     | Score: 61 | Amazon Technologies Inc. | US
