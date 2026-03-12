@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-12 05:26:43 UTC
+# Updated: 2026-03-12 06:26:44 UTC
 # Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -951,6 +951,7 @@
 130.12.180.116       # HIGH     | Score: 67 | Virtualine Technologies | US
 139.59.31.132        # HIGH     | Score: 67 | DigitalOcean, LLC | IN
 130.12.180.116       # HIGH     | Score: 67 | Virtualine Technologies | US
+143.110.252.191      # HIGH     | Score: 66 | DigitalOcean, LLC | IN
 143.244.57.120       # HIGH     | Score: 66 | Datacamp Limited | FR
 167.172.100.176      # HIGH     | Score: 66 | DigitalOcean, LLC | DE
 3.239.13.6           # HIGH     | Score: 66 | Amazon Data Services Northern  | US
@@ -1016,4 +1017,3 @@
 178.16.54.89         # HIGH     | Score: 64 | OMEGATECH | NL
 121.173.173.48       # HIGH     | Score: 64 | Korea Telecom | KR
 140.246.124.160      # HIGH     | Score: 63 | CHINANET SHANDONG PROVINCE NET | CN
-162.243.37.46        # HIGH     | Score: 63 | DigitalOcean, LLC | US
