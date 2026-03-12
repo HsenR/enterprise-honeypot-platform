@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-12 10:26:48 UTC
+# Updated: 2026-03-12 11:26:50 UTC
 # Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -310,7 +310,6 @@
 184.105.247.194      # CRITICAL | Score: 92 | The Shadowserver Foundation, I | US
 118.193.44.169       # CRITICAL | Score: 92 | UCLOUD INFORMATION TECHNOLOGY  | HK
 3.129.187.38         # CRITICAL | Score: 91 | Amazon Technologies Inc. | US
-212.0.217.26         # CRITICAL | Score: 91 | JSC Moldtelecom S.A. | MD
 119.18.55.118        # CRITICAL | Score: 91 | Hostgator Asian Operations Div | IN
 176.65.139.41        # CRITICAL | Score: 91 | Storm Industries | DE
 85.11.183.6          # CRITICAL | Score: 91 | SOFCOMPANY Ltd | GB
@@ -351,7 +350,6 @@
 206.168.34.63        # CRITICAL | Score: 90 | Censys, Inc. | US
 178.16.54.139        # CRITICAL | Score: 90 | OMEGATECH | NL
 130.12.180.49        # CRITICAL | Score: 90 | Virtualine Technologies | US
-47.245.63.168        # CRITICAL | Score: 90 | Alibaba Cloud - JP | JP
 206.168.34.37        # CRITICAL | Score: 90 | Censys, Inc. | US
 45.156.87.238        # CRITICAL | Score: 90 | VMHeaven.io | NL
 206.168.34.44        # CRITICAL | Score: 90 | Censys, Inc. | US
@@ -600,7 +598,6 @@
 207.154.211.129      # CRITICAL | Score: 79 | DigitalOcean, LLC | DE
 178.16.54.35         # CRITICAL | Score: 78 | OMEGATECH | NL
 178.16.54.134        # CRITICAL | Score: 78 | OMEGATECH | NL
-34.130.69.154        # CRITICAL | Score: 78 | Google LLC | CA
 34.47.182.97         # CRITICAL | Score: 78 | Google LLC | IN
 34.47.182.97         # CRITICAL | Score: 78 | Google LLC | IN
 130.12.180.174       # CRITICAL | Score: 78 | Virtualine Technologies | US
@@ -628,7 +625,6 @@
 178.16.54.134        # CRITICAL | Score: 77 | OMEGATECH | NL
 130.12.180.101       # CRITICAL | Score: 76 | Virtualine Technologies | US
 91.92.243.27         # CRITICAL | Score: 76 | OMEGATECH | US
-93.123.109.191       # CRITICAL | Score: 76 | TECHOFF_SRV_LIMITED | BG
 45.156.128.202       # CRITICAL | Score: 76 | INAP-AMS-1 | PT
 34.158.79.105        # CRITICAL | Score: 76 | Google LLC | NL
 94.231.206.15        # CRITICAL | Score: 76 | FR ONYPHE | CN
@@ -677,7 +673,6 @@
 
 # ── HIGH THREATS ─────────────────────────────────────
 64.23.173.115        # HIGH     | Score: 74 | DigitalOcean, LLC | US
-185.247.137.140      # HIGH     | Score: 74 | Driftnet Ltd | GB
 24.107.209.210       # HIGH     | Score: 74 | Charter Communications LLC | US
 66.132.153.155       # HIGH     | Score: 74 | Censys, Inc. | US
 3.80.31.4            # HIGH     | Score: 74 | Amazon Data Services Northern  | US
@@ -792,7 +787,6 @@
 159.89.160.76        # HIGH     | Score: 69 | DigitalOcean, LLC | IN
 163.7.12.49          # HIGH     | Score: 69 | BYTEPLUS | ID
 121.173.173.48       # HIGH     | Score: 69 | Korea Telecom | KR
-193.163.125.236      # HIGH     | Score: 68 | Driftnet Ltd | GB
 134.199.169.173      # HIGH     | Score: 68 | DigitalOcean, LLC | AU
 45.151.139.200       # HIGH     | Score: 68 | TIME-HOST-NET | RU
 94.231.206.105       # HIGH     | Score: 68 | FR ONYPHE | CN
@@ -855,7 +849,6 @@
 13.58.84.198         # HIGH     | Score: 66 | Amazon Technologies Inc. | US
 143.244.57.120       # HIGH     | Score: 66 | Datacamp Limited | FR
 206.189.129.245      # HIGH     | Score: 65 | DigitalOcean, LLC | IN
-20.80.105.86         # HIGH     | Score: 65 | Microsoft Corporation | US
 40.76.117.18         # HIGH     | Score: 65 | Microsoft Corporation | US
 34.197.70.90         # HIGH     | Score: 65 | Amazon Technologies Inc. | US
 20.65.194.56         # HIGH     | Score: 65 | Microsoft Corporation | US
@@ -1017,3 +1010,10 @@
 20.119.86.70         # HIGH     | Score: 54 | Microsoft Corporation | US
 14.225.2.67          # HIGH     | Score: 54 | Vietnam Posts and Telecommunic | VN
 209.38.31.99         # HIGH     | Score: 54 | DigitalOcean, LLC | AU
+170.64.168.136       # HIGH     | Score: 54 | DigitalOcean, LLC | AU
+20.64.105.81         # HIGH     | Score: 54 | Microsoft Corporation | US
+130.12.180.174       # HIGH     | Score: 54 | Virtualine Technologies | US
+14.225.2.67          # HIGH     | Score: 54 | Vietnam Posts and Telecommunic | VN
+64.227.141.50        # HIGH     | Score: 54 | DigitalOcean, LLC | IN
+104.248.160.105      # HIGH     | Score: 54 | DigitalOcean, LLC | GB
+18.133.212.170       # HIGH     | Score: 54 | Amazon Data Services UK | GB
