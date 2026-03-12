@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-12 22:27:02 UTC
-# Total IPs: 950
+# Updated: 2026-03-12 23:27:02 UTC
+# Total IPs: 954
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -36,6 +36,8 @@
 103.215.201.34       # CRITICAL | Score:100 | A2j Data Services Pvt. Ltd. | IN
 94.26.106.200        # CRITICAL | Score:100 | Telco power Ltd | DE
 192.109.200.219      # CRITICAL | Score:100 | Telco power Ltd | SE
+134.209.17.179       # CRITICAL | Score: 98 | DigitalOcean, LLC | GB
+116.99.171.221       # CRITICAL | Score: 98 | Viettel Group | VN
 3.131.220.121        # CRITICAL | Score: 98 | Amazon Technologies Inc. | US
 181.176.14.90        # CRITICAL | Score: 98 | VIETTEL PERÚ S.A.C. | PE
 16.58.56.214         # CRITICAL | Score: 98 | Amazon.com, Inc. | US
@@ -89,6 +91,7 @@
 18.116.101.220       # CRITICAL | Score: 98 | Amazon Technologies Inc. | US
 94.26.106.201        # CRITICAL | Score: 98 | Telco power Ltd | DE
 45.202.102.17        # CRITICAL | Score: 98 | Hasan Bulduk | SC
+34.158.79.105        # CRITICAL | Score: 96 | Google LLC | NL
 74.82.47.24          # CRITICAL | Score: 96 | The Shadowserver Foundation, I | US
 101.206.107.245      # CRITICAL | Score: 96 | UNICOM Sichuan province networ | CN
 176.65.139.38        # CRITICAL | Score: 96 | Storm Industries | DE
@@ -208,6 +211,7 @@
 130.12.180.19        # CRITICAL | Score: 93 | Virtualine Technologies | US
 130.12.180.19        # CRITICAL | Score: 93 | Virtualine Technologies | US
 130.12.180.19        # CRITICAL | Score: 93 | Virtualine Technologies | US
+150.107.36.236       # CRITICAL | Score: 92 | UCLOUD INFORMATION TECHNOLOGY  | HK
 45.153.34.187        # CRITICAL | Score: 92 | VMHeaven.io | NL
 74.82.47.4           # CRITICAL | Score: 92 | The Shadowserver Foundation, I | US
 91.196.152.151       # CRITICAL | Score: 92 | FR ONYPHE | FR
