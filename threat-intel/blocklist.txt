@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-12 17:26:56 UTC
+# Updated: 2026-03-12 18:26:57 UTC
 # Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -153,7 +153,6 @@
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
-89.248.168.239       # CRITICAL | Score: 94 | FiberXpress BV | NL
 185.242.226.36       # CRITICAL | Score: 94 | HostUS Solutions LLC | US
 204.76.203.73        # CRITICAL | Score: 94 | Intelligence Hosting LLC | NL
 45.148.10.121        # CRITICAL | Score: 94 | TECHOFF SRV LIMITED | NL
@@ -675,6 +674,7 @@
 178.16.54.134        # HIGH     | Score: 72 | OMEGATECH | NL
 178.16.54.134        # HIGH     | Score: 72 | OMEGATECH | NL
 130.12.180.57        # HIGH     | Score: 72 | Virtualine Technologies | US
+3.132.26.232         # HIGH     | Score: 71 | Amazon Technologies Inc. | US
 161.35.212.221       # HIGH     | Score: 71 | DigitalOcean, LLC | DE
 3.85.160.111         # HIGH     | Score: 71 | Amazon Data Services Northern  | US
 167.172.51.219       # HIGH     | Score: 71 | DigitalOcean, LLC | GB
@@ -817,6 +817,7 @@
 130.12.180.116       # HIGH     | Score: 63 | Virtualine Technologies | US
 121.173.173.48       # HIGH     | Score: 63 | Korea Telecom | KR
 121.173.173.48       # HIGH     | Score: 63 | Korea Telecom | KR
+137.184.188.165      # HIGH     | Score: 62 | DigitalOcean, LLC | US
 20.163.15.34         # HIGH     | Score: 62 | Microsoft Corporation | US
 40.124.173.2         # HIGH     | Score: 62 | Microsoft Corporation | US
 40.124.173.2         # HIGH     | Score: 62 | Microsoft Corporation | US
@@ -1016,4 +1017,3 @@
 167.94.146.63        # HIGH     | Score: 52 | Censys, Inc. | US
 167.94.146.61        # HIGH     | Score: 52 | Censys, Inc. | US
 162.142.125.210      # HIGH     | Score: 52 | Censys, Inc. | US
-18.143.235.216       # HIGH     | Score: 52 | Amazon Data Services Singapore | SG
