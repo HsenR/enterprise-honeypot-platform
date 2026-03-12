@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-12 19:26:58 UTC
-# Total IPs: 943
+# Updated: 2026-03-12 20:26:59 UTC
+# Total IPs: 946
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -36,6 +36,7 @@
 103.215.201.34       # CRITICAL | Score:100 | A2j Data Services Pvt. Ltd. | IN
 94.26.106.200        # CRITICAL | Score:100 | Telco power Ltd | DE
 192.109.200.219      # CRITICAL | Score:100 | Telco power Ltd | SE
+3.131.220.121        # CRITICAL | Score: 98 | Amazon Technologies Inc. | US
 181.176.14.90        # CRITICAL | Score: 98 | VIETTEL PERÚ S.A.C. | PE
 16.58.56.214         # CRITICAL | Score: 98 | Amazon.com, Inc. | US
 3.131.220.121        # CRITICAL | Score: 98 | Amazon Technologies Inc. | US
@@ -379,6 +380,7 @@
 130.12.180.71        # CRITICAL | Score: 88 | Virtualine Technologies | US
 130.12.180.74        # CRITICAL | Score: 88 | Virtualine Technologies | US
 130.12.180.71        # CRITICAL | Score: 88 | Virtualine Technologies | US
+45.156.128.154       # CRITICAL | Score: 87 | INAP-AMS-1 | PT
 91.196.152.151       # CRITICAL | Score: 87 | FR ONYPHE | FR
 20.169.105.52        # CRITICAL | Score: 87 | Microsoft Corporation | US
 20.169.105.52        # CRITICAL | Score: 87 | Microsoft Corporation | US
@@ -541,6 +543,7 @@
 104.248.198.91       # CRITICAL | Score: 76 | DigitalOcean, LLC | NL
 91.92.243.27         # CRITICAL | Score: 76 | OMEGATECH | US
 130.12.180.101       # CRITICAL | Score: 76 | Virtualine Technologies | US
+20.169.105.44        # CRITICAL | Score: 75 | Microsoft Corporation | US
 20.65.194.73         # CRITICAL | Score: 75 | Microsoft Corporation | US
 20.38.35.154         # CRITICAL | Score: 75 | Microsoft Corporation | US
 93.123.109.191       # CRITICAL | Score: 75 | TECHOFF_SRV_LIMITED | BG
