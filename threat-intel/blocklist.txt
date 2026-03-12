@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-12 06:26:44 UTC
+# Updated: 2026-03-12 07:26:45 UTC
 # Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -41,6 +41,8 @@
 94.26.106.200        # CRITICAL | Score:100 | Telco power Ltd | DE
 192.109.200.219      # CRITICAL | Score:100 | Telco power Ltd | SE
 103.215.201.34       # CRITICAL | Score:100 | A2j Data Services Pvt. Ltd. | IN
+45.202.102.17        # CRITICAL | Score: 98 | Hasan Bulduk | SC
+94.26.106.201        # CRITICAL | Score: 98 | Telco power Ltd | DE
 18.116.101.220       # CRITICAL | Score: 98 | Amazon Technologies Inc. | US
 130.12.180.108       # CRITICAL | Score: 98 | Virtualine Technologies | US
 16.58.56.214         # CRITICAL | Score: 98 | Amazon.com, Inc. | US
@@ -379,6 +381,7 @@
 134.199.156.138      # CRITICAL | Score: 91 | DigitalOcean, LLC | AU
 34.158.79.105        # CRITICAL | Score: 91 | Google LLC | NL
 3.129.187.38         # CRITICAL | Score: 91 | Amazon Technologies Inc. | US
+206.168.34.63        # CRITICAL | Score: 90 | Censys, Inc. | US
 178.16.54.139        # CRITICAL | Score: 90 | OMEGATECH | NL
 130.12.180.49        # CRITICAL | Score: 90 | Virtualine Technologies | US
 54.161.134.131       # CRITICAL | Score: 90 | Amazon Technologies Inc. | US
@@ -1014,6 +1017,3 @@
 185.242.226.18       # HIGH     | Score: 64 | HostUS Solutions LLC | US
 130.12.180.116       # HIGH     | Score: 64 | Virtualine Technologies | US
 178.16.54.89         # HIGH     | Score: 64 | OMEGATECH | NL
-178.16.54.89         # HIGH     | Score: 64 | OMEGATECH | NL
-121.173.173.48       # HIGH     | Score: 64 | Korea Telecom | KR
-140.246.124.160      # HIGH     | Score: 63 | CHINANET SHANDONG PROVINCE NET | CN
