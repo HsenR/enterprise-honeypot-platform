@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-12 20:26:59 UTC
-# Total IPs: 946
+# Updated: 2026-03-12 21:27:01 UTC
+# Total IPs: 949
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -208,6 +208,7 @@
 130.12.180.19        # CRITICAL | Score: 93 | Virtualine Technologies | US
 130.12.180.19        # CRITICAL | Score: 93 | Virtualine Technologies | US
 130.12.180.19        # CRITICAL | Score: 93 | Virtualine Technologies | US
+45.153.34.187        # CRITICAL | Score: 92 | VMHeaven.io | NL
 74.82.47.4           # CRITICAL | Score: 92 | The Shadowserver Foundation, I | US
 91.196.152.151       # CRITICAL | Score: 92 | FR ONYPHE | FR
 204.76.203.8         # CRITICAL | Score: 92 | Intelligence Hosting LLC | NL
@@ -459,6 +460,7 @@
 167.86.107.35        # CRITICAL | Score: 82 | Contabo GmbH | FR
 167.86.107.35        # CRITICAL | Score: 82 | Contabo GmbH | FR
 3.143.162.210        # CRITICAL | Score: 81 | Amazon Technologies Inc. | US
+3.143.162.210        # CRITICAL | Score: 81 | Amazon Technologies Inc. | US
 185.242.246.36       # CRITICAL | Score: 81 | SOLDATOV ALEXEY VALEREVICH | SC
 89.248.168.227       # CRITICAL | Score: 81 | FiberXpress BV | NL
 34.158.79.105        # CRITICAL | Score: 81 | Google LLC | NL
@@ -469,6 +471,7 @@
 185.242.246.36       # CRITICAL | Score: 81 | SOLDATOV ALEXEY VALEREVICH | SC
 3.143.162.210        # CRITICAL | Score: 81 | Amazon Technologies Inc. | US
 130.12.180.89        # CRITICAL | Score: 81 | Virtualine Technologies | US
+3.134.216.108        # CRITICAL | Score: 80 | Amazon Technologies Inc. | US
 138.68.133.32        # CRITICAL | Score: 80 | DigitalOcean, LLC | GB
 107.172.7.140        # CRITICAL | Score: 80 | HostPapa | US
 20.119.74.72         # CRITICAL | Score: 80 | Microsoft Corporation | US
