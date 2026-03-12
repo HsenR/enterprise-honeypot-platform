@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-12 14:26:53 UTC
+# Updated: 2026-03-12 15:26:54 UTC
 # Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -94,8 +94,6 @@
 130.12.180.72        # CRITICAL | Score: 96 | Virtualine Technologies | US
 130.12.180.80        # CRITICAL | Score: 96 | Virtualine Technologies | US
 130.12.180.55        # CRITICAL | Score: 96 | Virtualine Technologies | US
-176.65.139.38        # CRITICAL | Score: 96 | Storm Industries | DE
-77.90.185.16         # CRITICAL | Score: 96 | Inside Network LTD | IR
 81.168.83.103        # CRITICAL | Score: 96 | Sapphire Web Services Limited | GB
 101.206.107.245      # CRITICAL | Score: 96 | UNICOM Sichuan province networ | CN
 176.65.139.38        # CRITICAL | Score: 96 | Storm Industries | DE
@@ -225,8 +223,6 @@
 130.12.180.19        # CRITICAL | Score: 93 | Virtualine Technologies | US
 49.88.156.34         # CRITICAL | Score: 92 | CHINANET jiangsu province netw | CN
 118.193.44.169       # CRITICAL | Score: 92 | UCLOUD INFORMATION TECHNOLOGY  | HK
-92.118.39.74         # CRITICAL | Score: 92 | DMZHOST | US
-176.65.132.39        # CRITICAL | Score: 92 | VMHeaven.io | DE
 165.154.163.10       # CRITICAL | Score: 92 | UCLOUD INFORMATION TECHNOLOGY  | US
 204.76.203.215       # CRITICAL | Score: 92 | Intelligence Hosting LLC | NL
 49.88.156.34         # CRITICAL | Score: 92 | CHINANET jiangsu province netw | CN
@@ -300,7 +296,6 @@
 184.105.247.194      # CRITICAL | Score: 92 | The Shadowserver Foundation, I | US
 118.193.44.169       # CRITICAL | Score: 92 | UCLOUD INFORMATION TECHNOLOGY  | HK
 3.129.187.38         # CRITICAL | Score: 91 | Amazon Technologies Inc. | US
-176.65.139.41        # CRITICAL | Score: 91 | Storm Industries | DE
 85.11.183.6          # CRITICAL | Score: 91 | SOFCOMPANY Ltd | GB
 18.218.118.203       # CRITICAL | Score: 91 | Amazon Technologies Inc. | US
 176.65.139.41        # CRITICAL | Score: 91 | Storm Industries | DE
@@ -339,7 +334,6 @@
 206.168.34.63        # CRITICAL | Score: 90 | Censys, Inc. | US
 178.16.54.139        # CRITICAL | Score: 90 | OMEGATECH | NL
 130.12.180.49        # CRITICAL | Score: 90 | Virtualine Technologies | US
-206.168.34.126       # CRITICAL | Score: 90 | Censys, Inc. | US
 206.168.34.44        # CRITICAL | Score: 90 | Censys, Inc. | US
 206.168.34.126       # CRITICAL | Score: 90 | Censys, Inc. | US
 206.168.34.37        # CRITICAL | Score: 90 | Censys, Inc. | US
@@ -408,7 +402,6 @@
 66.132.153.117       # CRITICAL | Score: 89 | Censys, Inc. | US
 130.12.180.74        # CRITICAL | Score: 88 | Virtualine Technologies | US
 130.12.180.71        # CRITICAL | Score: 88 | Virtualine Technologies | US
-178.83.200.2         # CRITICAL | Score: 88 | Internet Utilities Europe and  | GB
 45.194.92.9          # CRITICAL | Score: 88 | VPSVAULT.HOST LTD | US
 178.83.200.2         # CRITICAL | Score: 88 | Internet Utilities Europe and  | GB
 165.101.154.85       # CRITICAL | Score: 88 | Sierra.Net Network & Data Solu | PH
@@ -437,8 +430,6 @@
 152.32.132.189       # CRITICAL | Score: 87 | UCLOUD INFORMATION TECHNOLOGY  | HK
 167.86.107.35        # CRITICAL | Score: 87 | Contabo GmbH | FR
 18.218.118.203       # CRITICAL | Score: 86 | Amazon Technologies Inc. | US
-176.65.134.20        # CRITICAL | Score: 86 | Pfcloud UG | SI
-45.156.87.91         # CRITICAL | Score: 86 | VMHeaven.io | NL
 176.65.134.20        # CRITICAL | Score: 86 | Pfcloud UG | SI
 94.231.206.34        # CRITICAL | Score: 86 | FR ONYPHE | CN
 45.156.87.91         # CRITICAL | Score: 86 | VMHeaven.io | NL
@@ -474,7 +465,6 @@
 130.12.180.77        # CRITICAL | Score: 85 | Virtualine Technologies | US
 130.12.180.37        # CRITICAL | Score: 85 | Virtualine Technologies | US
 130.12.180.77        # CRITICAL | Score: 85 | Virtualine Technologies | US
-20.163.60.205        # CRITICAL | Score: 84 | Microsoft Corporation | US
 178.20.210.151       # CRITICAL | Score: 84 | Shereverov Marat Ahmedovich | DE
 20.163.60.205        # CRITICAL | Score: 84 | Microsoft Corporation | US
 185.242.246.38       # CRITICAL | Score: 84 | SOLDATOV ALEXEY VALEREVICH | SC
@@ -517,7 +507,6 @@
 167.86.107.35        # CRITICAL | Score: 82 | Contabo GmbH | FR
 167.86.107.35        # CRITICAL | Score: 82 | Contabo GmbH | FR
 130.12.180.89        # CRITICAL | Score: 81 | Virtualine Technologies | US
-101.200.243.197      # CRITICAL | Score: 81 | Aliyun Computing Co., LTD | CN
 54.91.92.82          # CRITICAL | Score: 81 | Amazon Data Services Northern  | US
 3.143.162.210        # CRITICAL | Score: 81 | Amazon Technologies Inc. | US
 101.200.243.197      # CRITICAL | Score: 81 | Aliyun Computing Co., LTD | CN
@@ -561,7 +550,6 @@
 130.12.180.82        # CRITICAL | Score: 80 | Virtualine Technologies | US
 130.12.180.89        # CRITICAL | Score: 80 | Virtualine Technologies | US
 130.12.180.82        # CRITICAL | Score: 79 | Virtualine Technologies | US
-3.143.162.210        # CRITICAL | Score: 79 | Amazon Technologies Inc. | US
 51.38.90.52          # CRITICAL | Score: 79 | GalaxyShell Internet Teknolojl | FR
 185.247.137.226      # CRITICAL | Score: 79 | Driftnet Ltd | GB
 51.38.90.52          # CRITICAL | Score: 79 | GalaxyShell Internet Teknolojl | FR
@@ -644,8 +632,6 @@
 
 # ── HIGH THREATS ─────────────────────────────────────
 64.23.173.115        # HIGH     | Score: 74 | DigitalOcean, LLC | US
-24.107.209.210       # HIGH     | Score: 74 | Charter Communications LLC | US
-66.132.153.155       # HIGH     | Score: 74 | Censys, Inc. | US
 3.80.31.4            # HIGH     | Score: 74 | Amazon Data Services Northern  | US
 3.90.111.248         # HIGH     | Score: 74 | Amazon Data Services Northern  | US
 157.245.245.246      # HIGH     | Score: 74 | DigitalOcean, LLC | US
@@ -826,7 +812,6 @@
 18.188.57.88         # HIGH     | Score: 65 | Amazon Technologies Inc. | US
 47.243.177.131       # HIGH     | Score: 65 | ALIBABA CLOUD - HK | HK
 20.118.202.145       # HIGH     | Score: 65 | Microsoft Corporation | US
-47.251.93.227        # HIGH     | Score: 64 | Alibaba Cloud - US | US
 20.106.57.180        # HIGH     | Score: 64 | Microsoft Corporation | US
 47.251.93.227        # HIGH     | Score: 64 | Alibaba Cloud - US | US
 139.162.70.53        # HIGH     | Score: 64 | 139.162.0.0/16 | JP
@@ -989,8 +974,6 @@
 34.143.131.162       # HIGH     | Score: 52 | Google LLC | SG
 91.92.243.52         # HIGH     | Score: 52 | OMEGATECH | US
 178.16.54.194        # HIGH     | Score: 52 | OMEGATECH | NL
-162.142.125.117      # HIGH     | Score: 52 | Censys, Inc. | US
-205.210.31.219       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 198.235.24.127       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 205.210.31.243       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 34.79.87.162         # HIGH     | Score: 52 | Google LLC | BE
@@ -1017,3 +1000,20 @@
 20.169.106.110       # HIGH     | Score: 52 | Microsoft Corporation | US
 205.210.31.210       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 205.210.31.8         # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
+112.74.242.167       # HIGH     | Score: 52 | Aliyun Computing Co., LTD | CN
+147.185.132.87       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
+167.94.146.51        # HIGH     | Score: 52 | Censys, Inc. | US
+198.235.24.28        # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
+198.235.24.111       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
+20.51.245.30         # HIGH     | Score: 52 | Microsoft Corporation | US
+205.210.31.234       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
+139.162.119.61       # HIGH     | Score: 52 | 139.162.0.0/16 | JP
+167.94.138.171       # HIGH     | Score: 52 | Censys, Inc. | US
+159.65.26.71         # HIGH     | Score: 52 | DigitalOcean, LLC | GB
+198.235.24.97        # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
+167.94.146.61        # HIGH     | Score: 52 | Censys, Inc. | US
+147.185.132.21       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
+162.142.125.117      # HIGH     | Score: 52 | Censys, Inc. | US
+167.94.138.125       # HIGH     | Score: 52 | Censys, Inc. | US
+167.94.146.51        # HIGH     | Score: 52 | Censys, Inc. | US
+4.240.39.201         # HIGH     | Score: 52 | Microsoft Corporation | IN
