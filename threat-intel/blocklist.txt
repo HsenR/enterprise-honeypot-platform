@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-13 09:26:48 UTC
-# Total IPs: 853
+# Updated: 2026-03-13 10:26:49 UTC
+# Total IPs: 856
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -95,6 +95,7 @@
 3.131.220.121        # CRITICAL | Score: 98 | Amazon Technologies Inc. | US
 134.209.17.179       # CRITICAL | Score: 98 | DigitalOcean, LLC | GB
 116.99.171.221       # CRITICAL | Score: 98 | Viettel Group | VN
+185.180.141.2        # CRITICAL | Score: 96 | ICG-1-ZEN-DFW | PT
 45.156.128.122       # CRITICAL | Score: 96 | INAP-AMS-1 | PT
 34.158.79.105        # CRITICAL | Score: 96 | Google LLC | NL
 3.129.187.38         # CRITICAL | Score: 96 | Amazon Technologies Inc. | US
@@ -157,7 +158,6 @@
 45.205.1.8           # CRITICAL | Score: 94 | VPSVAULT.HOST LTD | US
 95.215.0.144         # CRITICAL | Score: 94 | Petersburg Internet Network lt | RU
 103.40.61.98         # CRITICAL | Score: 94 | Gleam Worldwide Services Pvt L | IN
-5.101.64.6           # CRITICAL | Score: 94 | public vlans of DC | RU
 89.248.168.239       # CRITICAL | Score: 94 | FiberXpress BV | NL
 185.226.197.12       # CRITICAL | Score: 94 | ICG-4-ZEN-AMS | PT
 5.101.64.6           # CRITICAL | Score: 94 | public vlans of DC | RU
@@ -208,7 +208,6 @@
 45.153.34.187        # CRITICAL | Score: 92 | VMHeaven.io | NL
 49.88.156.34         # CRITICAL | Score: 92 | CHINANET jiangsu province netw | CN
 150.107.36.236       # CRITICAL | Score: 92 | UCLOUD INFORMATION TECHNOLOGY  | HK
-176.32.195.85        # CRITICAL | Score: 92 | Interactive TV LLC | AM
 204.76.203.8         # CRITICAL | Score: 92 | Intelligence Hosting LLC | NL
 74.82.47.4           # CRITICAL | Score: 92 | The Shadowserver Foundation, I | US
 49.88.156.34         # CRITICAL | Score: 92 | CHINANET jiangsu province netw | CN
@@ -257,6 +256,7 @@
 118.193.44.169       # CRITICAL | Score: 92 | UCLOUD INFORMATION TECHNOLOGY  | HK
 45.153.34.187        # CRITICAL | Score: 92 | VMHeaven.io | NL
 150.107.36.236       # CRITICAL | Score: 92 | UCLOUD INFORMATION TECHNOLOGY  | HK
+149.86.227.60        # CRITICAL | Score: 91 | MEVSPACE sp. z o.o. | PL
 18.218.118.203       # CRITICAL | Score: 91 | Amazon Technologies Inc. | US
 18.116.101.220       # CRITICAL | Score: 91 | Amazon Technologies Inc. | US
 3.129.187.38         # CRITICAL | Score: 91 | Amazon Technologies Inc. | US
@@ -425,6 +425,7 @@
 167.86.107.35        # CRITICAL | Score: 82 | Contabo GmbH | FR
 167.86.107.35        # CRITICAL | Score: 82 | Contabo GmbH | FR
 45.156.128.152       # CRITICAL | Score: 82 | INAP-AMS-1 | PT
+178.20.210.137       # CRITICAL | Score: 81 | Shereverov Marat Ahmedovich | DE
 45.156.128.123       # CRITICAL | Score: 81 | INAP-AMS-1 | PT
 3.132.26.232         # CRITICAL | Score: 81 | Amazon Technologies Inc. | US
 3.143.162.210        # CRITICAL | Score: 81 | Amazon Technologies Inc. | US
@@ -560,6 +561,7 @@
 178.16.54.134        # HIGH     | Score: 72 | OMEGATECH | NL
 178.16.54.134        # HIGH     | Score: 72 | OMEGATECH | NL
 130.12.180.57        # HIGH     | Score: 72 | Virtualine Technologies | US
+5.129.194.118        # HIGH     | Score: 71 | TimeWeb Ltd. | RU
 47.236.248.96        # HIGH     | Score: 71 | Alibaba Cloud LLC | SG
 161.35.212.221       # HIGH     | Score: 71 | DigitalOcean, LLC | DE
 167.172.51.219       # HIGH     | Score: 71 | DigitalOcean, LLC | GB
@@ -783,6 +785,7 @@
 87.106.3.40          # HIGH     | Score: 53 | IONOS SE | FR
 8.222.153.157        # HIGH     | Score: 53 | Alibaba Cloud (Singapore) Priv | SG
 3.134.93.22          # HIGH     | Score: 53 | Amazon Technologies Inc. | US
+198.235.24.252       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 91.92.243.52         # HIGH     | Score: 52 | OMEGATECH | US
 178.16.54.193        # HIGH     | Score: 52 | OMEGATECH | NL
 159.65.26.71         # HIGH     | Score: 52 | DigitalOcean, LLC | GB
