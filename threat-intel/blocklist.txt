@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-13 11:26:50 UTC
-# Total IPs: 861
+# Updated: 2026-03-13 12:26:51 UTC
+# Total IPs: 864
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -36,6 +36,7 @@
 103.215.201.34       # CRITICAL | Score:100 | A2j Data Services Pvt. Ltd. | IN
 94.26.106.200        # CRITICAL | Score:100 | Telco power Ltd | DE
 192.109.200.219      # CRITICAL | Score:100 | Telco power Ltd | SE
+187.191.2.214        # CRITICAL | Score: 98 | TOTAL PLAY TELECOMUNICACIONES  | MX
 16.58.56.214         # CRITICAL | Score: 98 | Amazon.com, Inc. | US
 116.99.171.221       # CRITICAL | Score: 98 | Viettel Group | VN
 134.209.17.179       # CRITICAL | Score: 98 | DigitalOcean, LLC | GB
@@ -153,6 +154,7 @@
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
+5.61.209.96          # CRITICAL | Score: 94 | Amarutu Technology Ltd | SC
 185.224.128.251      # CRITICAL | Score: 94 | Alsycon B.V. | NL
 118.193.64.188       # CRITICAL | Score: 94 | UCLOUD INFORMATION TECHNOLOGY  | GB
 45.205.1.8           # CRITICAL | Score: 94 | VPSVAULT.HOST LTD | US
@@ -645,6 +647,7 @@
 143.244.57.120       # HIGH     | Score: 66 | Datacamp Limited | FR
 143.110.252.191      # HIGH     | Score: 66 | DigitalOcean, LLC | IN
 185.255.131.32       # HIGH     | Score: 66 | Contabo GmbH | FR
+44.215.219.236       # HIGH     | Score: 65 | Amazon Data Services Northern  | US
 20.64.105.82         # HIGH     | Score: 65 | Microsoft Corporation | US
 20.65.194.90         # HIGH     | Score: 65 | Microsoft Corporation | US
 20.64.105.221        # HIGH     | Score: 65 | Microsoft Corporation | US
