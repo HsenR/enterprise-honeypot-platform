@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-13 18:26:58 UTC
-# Total IPs: 752
+# Updated: 2026-03-13 19:26:59 UTC
+# Total IPs: 754
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -191,6 +191,7 @@
 167.71.66.127        # CRITICAL | Score: 93 | DigitalOcean, LLC | NL
 130.12.180.19        # CRITICAL | Score: 93 | Virtualine Technologies | US
 3.151.241.153        # CRITICAL | Score: 93 | Amazon Technologies Inc. | US
+66.240.192.138       # CRITICAL | Score: 92 | CariNet, Inc. | US
 49.88.156.34         # CRITICAL | Score: 92 | CHINANET jiangsu province netw | CN
 204.76.203.8         # CRITICAL | Score: 92 | Intelligence Hosting LLC | NL
 204.76.203.18        # CRITICAL | Score: 92 | Intelligence Hosting LLC | NL
@@ -330,6 +331,7 @@
 45.156.128.154       # CRITICAL | Score: 87 | INAP-AMS-1 | PT
 167.86.107.35        # CRITICAL | Score: 87 | Contabo GmbH | FR
 45.156.128.91        # CRITICAL | Score: 87 | INAP-AMS-1 | PT
+193.29.13.164        # CRITICAL | Score: 86 | Bunea TELECOM SRL | RO
 18.218.118.203       # CRITICAL | Score: 86 | Amazon Technologies Inc. | US
 103.203.57.18        # CRITICAL | Score: 86 | Beijing Tiantexin Tech. Co., L | CN
 45.205.1.8           # CRITICAL | Score: 86 | VPSVAULT.HOST LTD | US
