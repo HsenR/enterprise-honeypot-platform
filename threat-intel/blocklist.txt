@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-13 16:26:56 UTC
+# Updated: 2026-03-13 17:26:57 UTC
 # Total IPs: 751
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -145,6 +145,7 @@
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
+185.93.89.95         # CRITICAL | Score: 94 | Limited Network LTD | IR
 66.132.153.112       # CRITICAL | Score: 94 | Censys, Inc. | US
 95.215.0.144         # CRITICAL | Score: 94 | Petersburg Internet Network lt | RU
 66.132.153.112       # CRITICAL | Score: 94 | Censys, Inc. | US
@@ -251,7 +252,6 @@
 3.129.187.38         # CRITICAL | Score: 91 | Amazon Technologies Inc. | US
 18.218.118.203       # CRITICAL | Score: 91 | Amazon Technologies Inc. | US
 149.86.227.60        # CRITICAL | Score: 91 | MEVSPACE sp. z o.o. | PL
-199.45.154.153       # CRITICAL | Score: 90 | Censys, Inc. | US
 111.119.234.232      # CRITICAL | Score: 90 | Huawei-Cloud-SG | SG
 199.45.154.153       # CRITICAL | Score: 90 | Censys, Inc. | US
 193.34.212.9         # CRITICAL | Score: 90 | MEVSPACE sp. z o.o. | PL
