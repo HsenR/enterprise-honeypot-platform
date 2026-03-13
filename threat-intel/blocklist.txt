@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-13 01:27:04 UTC
-# Total IPs: 941
+# Updated: 2026-03-13 03:26:41 UTC
+# Total IPs: 939
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -150,7 +150,6 @@
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
-87.236.176.246       # CRITICAL | Score: 94 | Driftnet Ltd | GB
 89.248.168.239       # CRITICAL | Score: 94 | FiberXpress BV | NL
 45.148.10.121        # CRITICAL | Score: 94 | TECHOFF SRV LIMITED | NL
 60.191.125.35        # CRITICAL | Score: 94 | Hangzhou Shentong Investment C | CN
@@ -486,7 +485,6 @@
 130.12.180.89        # CRITICAL | Score: 80 | Virtualine Technologies | US
 130.12.180.82        # CRITICAL | Score: 80 | Virtualine Technologies | US
 130.12.180.89        # CRITICAL | Score: 80 | Virtualine Technologies | US
-185.247.137.226      # CRITICAL | Score: 79 | Driftnet Ltd | GB
 51.38.90.52          # CRITICAL | Score: 79 | GalaxyShell Internet Teknolojl | FR
 157.245.245.246      # CRITICAL | Score: 79 | DigitalOcean, LLC | US
 185.247.137.226      # CRITICAL | Score: 79 | Driftnet Ltd | GB
@@ -518,7 +516,6 @@
 130.12.180.82        # CRITICAL | Score: 77 | Virtualine Technologies | US
 178.16.54.134        # CRITICAL | Score: 77 | OMEGATECH | NL
 91.92.243.197        # CRITICAL | Score: 77 | OMEGATECH | US
-3.132.26.232         # CRITICAL | Score: 76 | Amazon Technologies Inc. | US
 93.123.109.191       # CRITICAL | Score: 76 | TECHOFF_SRV_LIMITED | BG
 3.132.26.232         # CRITICAL | Score: 76 | Amazon Technologies Inc. | US
 101.200.243.197      # CRITICAL | Score: 76 | Aliyun Computing Co., LTD | CN
@@ -778,6 +775,7 @@
 85.204.70.92         # HIGH     | Score: 58 | Hydra Communications Ltd | FR
 159.223.216.117      # HIGH     | Score: 58 | DigitalOcean, LLC | NL
 85.204.70.92         # HIGH     | Score: 58 | Hydra Communications Ltd | FR
+167.172.55.154       # HIGH     | Score: 57 | DigitalOcean, LLC | GB
 134.199.201.185      # HIGH     | Score: 57 | DigitalOcean, LLC | US
 20.65.144.90         # HIGH     | Score: 57 | Microsoft Corporation | US
 137.184.25.194       # HIGH     | Score: 57 | DigitalOcean, LLC | US
