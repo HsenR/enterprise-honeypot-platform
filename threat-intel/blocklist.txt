@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-13 20:27:00 UTC
-# Total IPs: 760
+# Updated: 2026-03-13 21:27:01 UTC
+# Total IPs: 762
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -193,6 +193,7 @@
 167.71.66.127        # CRITICAL | Score: 93 | DigitalOcean, LLC | NL
 130.12.180.19        # CRITICAL | Score: 93 | Virtualine Technologies | US
 3.151.241.153        # CRITICAL | Score: 93 | Amazon Technologies Inc. | US
+193.142.146.230      # CRITICAL | Score: 92 | ColocaTel Datacenter | DE
 66.240.192.138       # CRITICAL | Score: 92 | CariNet, Inc. | US
 49.88.156.34         # CRITICAL | Score: 92 | CHINANET jiangsu province netw | CN
 204.76.203.8         # CRITICAL | Score: 92 | Intelligence Hosting LLC | NL
@@ -324,6 +325,7 @@
 3.151.241.153        # CRITICAL | Score: 88 | Amazon Technologies Inc. | US
 130.12.180.71        # CRITICAL | Score: 88 | Virtualine Technologies | US
 185.255.131.32       # CRITICAL | Score: 88 | Contabo GmbH | FR
+185.177.72.46        # CRITICAL | Score: 87 | FBW NETWORKS SAS | FR
 143.198.73.240       # CRITICAL | Score: 87 | DigitalOcean, LLC | US
 20.84.153.185        # CRITICAL | Score: 87 | Microsoft Corporation | US
 152.32.132.189       # CRITICAL | Score: 87 | UCLOUD INFORMATION TECHNOLOGY  | HK
