@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-13 17:26:57 UTC
-# Total IPs: 751
+# Updated: 2026-03-13 18:26:58 UTC
+# Total IPs: 752
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -358,6 +358,7 @@
 130.12.180.37        # CRITICAL | Score: 85 | Virtualine Technologies | US
 130.12.180.77        # CRITICAL | Score: 85 | Virtualine Technologies | US
 3.134.216.108        # CRITICAL | Score: 85 | Amazon Technologies Inc. | US
+64.227.106.112       # CRITICAL | Score: 84 | DigitalOcean, LLC | US
 66.132.153.143       # CRITICAL | Score: 84 | Censys, Inc. | US
 51.38.90.52          # CRITICAL | Score: 84 | GalaxyShell Internet Teknolojl | FR
 141.98.11.230        # CRITICAL | Score: 84 | UAB Host Baltic | LT
