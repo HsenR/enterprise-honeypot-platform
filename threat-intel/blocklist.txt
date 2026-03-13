@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-13 10:26:49 UTC
-# Total IPs: 856
+# Updated: 2026-03-13 11:26:50 UTC
+# Total IPs: 861
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -204,6 +204,7 @@
 130.12.180.19        # CRITICAL | Score: 93 | Virtualine Technologies | US
 130.12.180.19        # CRITICAL | Score: 93 | Virtualine Technologies | US
 167.71.66.127        # CRITICAL | Score: 93 | DigitalOcean, LLC | NL
+204.76.203.18        # CRITICAL | Score: 92 | Intelligence Hosting LLC | NL
 82.147.85.136        # CRITICAL | Score: 92 | Siberian Telecommunications Lt | RU
 45.153.34.187        # CRITICAL | Score: 92 | VMHeaven.io | NL
 49.88.156.34         # CRITICAL | Score: 92 | CHINANET jiangsu province netw | CN
@@ -425,6 +426,7 @@
 167.86.107.35        # CRITICAL | Score: 82 | Contabo GmbH | FR
 167.86.107.35        # CRITICAL | Score: 82 | Contabo GmbH | FR
 45.156.128.152       # CRITICAL | Score: 82 | INAP-AMS-1 | PT
+75.119.131.254       # CRITICAL | Score: 81 | Wavetech Systems, LLC | FR
 178.20.210.137       # CRITICAL | Score: 81 | Shereverov Marat Ahmedovich | DE
 45.156.128.123       # CRITICAL | Score: 81 | INAP-AMS-1 | PT
 3.132.26.232         # CRITICAL | Score: 81 | Amazon Technologies Inc. | US
@@ -458,6 +460,7 @@
 130.12.180.82        # CRITICAL | Score: 80 | Virtualine Technologies | US
 130.12.180.89        # CRITICAL | Score: 80 | Virtualine Technologies | US
 3.134.216.108        # CRITICAL | Score: 80 | Amazon Technologies Inc. | US
+206.189.24.243       # CRITICAL | Score: 79 | DigitalOcean, LLC | GB
 51.38.90.52          # CRITICAL | Score: 79 | GalaxyShell Internet Teknolojl | FR
 130.12.180.89        # CRITICAL | Score: 79 | Virtualine Technologies | US
 130.12.180.89        # CRITICAL | Score: 79 | Virtualine Technologies | US
@@ -594,6 +597,7 @@
 163.7.12.49          # HIGH     | Score: 69 | BYTEPLUS | ID
 121.173.173.48       # HIGH     | Score: 69 | Korea Telecom | KR
 130.12.180.92        # HIGH     | Score: 69 | Virtualine Technologies | US
+98.90.43.197         # HIGH     | Score: 68 | Amazon Data Services Northern  | US
 47.251.53.147        # HIGH     | Score: 68 | Alibaba Cloud - US | US
 130.12.180.116       # HIGH     | Score: 68 | Virtualine Technologies | US
 162.243.37.46        # HIGH     | Score: 68 | DigitalOcean, LLC | US
@@ -705,6 +709,7 @@
 34.66.133.48         # HIGH     | Score: 59 | Google LLC | US
 34.66.133.48         # HIGH     | Score: 59 | Google LLC | US
 188.166.25.251       # HIGH     | Score: 59 | Digital Ocean, Inc. | NL
+18.133.199.181       # HIGH     | Score: 58 | Amazon Data Services UK | GB
 35.167.108.113       # HIGH     | Score: 58 | Amazon.com, Inc. | US
 35.167.108.113       # HIGH     | Score: 58 | Amazon.com, Inc. | US
 16.176.125.201       # HIGH     | Score: 58 | Amazon Corporate Services Pty  | AU
