@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-13 14:26:54 UTC
-# Total IPs: 753
+# Updated: 2026-03-13 15:26:55 UTC
+# Total IPs: 755
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -36,6 +36,7 @@
 103.215.201.34       # CRITICAL | Score:100 | A2j Data Services Pvt. Ltd. | IN
 94.26.106.200        # CRITICAL | Score:100 | Telco power Ltd | DE
 192.109.200.219      # CRITICAL | Score:100 | Telco power Ltd | SE
+45.156.87.91         # CRITICAL | Score: 98 | VMHeaven.io | NL
 187.191.2.214        # CRITICAL | Score: 98 | TOTAL PLAY TELECOMUNICACIONES  | MX
 16.58.56.214         # CRITICAL | Score: 98 | Amazon.com, Inc. | US
 116.99.171.221       # CRITICAL | Score: 98 | Viettel Group | VN
@@ -500,6 +501,7 @@
 178.16.54.134        # HIGH     | Score: 72 | OMEGATECH | NL
 178.16.54.134        # HIGH     | Score: 72 | OMEGATECH | NL
 130.12.180.57        # HIGH     | Score: 72 | Virtualine Technologies | US
+87.121.84.76         # HIGH     | Score: 71 | Dedicated Servers and VPS Host | US
 5.129.194.118        # HIGH     | Score: 71 | TimeWeb Ltd. | RU
 47.236.248.96        # HIGH     | Score: 71 | Alibaba Cloud LLC | SG
 161.35.212.221       # HIGH     | Score: 71 | DigitalOcean, LLC | DE
@@ -630,7 +632,6 @@
 188.166.25.251       # HIGH     | Score: 59 | Digital Ocean, Inc. | NL
 18.133.199.181       # HIGH     | Score: 58 | Amazon Data Services UK | GB
 35.167.108.113       # HIGH     | Score: 58 | Amazon.com, Inc. | US
-35.167.108.113       # HIGH     | Score: 58 | Amazon.com, Inc. | US
 16.176.125.201       # HIGH     | Score: 58 | Amazon Corporate Services Pty  | AU
 178.16.54.134        # HIGH     | Score: 58 | OMEGATECH | NL
 91.92.243.197        # HIGH     | Score: 58 | OMEGATECH | US
@@ -703,6 +704,7 @@
 87.106.3.40          # HIGH     | Score: 53 | IONOS SE | FR
 8.222.153.157        # HIGH     | Score: 53 | Alibaba Cloud (Singapore) Priv | SG
 3.134.93.22          # HIGH     | Score: 53 | Amazon Technologies Inc. | US
+20.203.71.174        # HIGH     | Score: 52 | Microsoft Corporation | AE
 162.142.125.204      # HIGH     | Score: 52 | Censys, Inc. | US
 198.235.24.252       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 91.92.243.52         # HIGH     | Score: 52 | OMEGATECH | US
