@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-13 22:27:02 UTC
-# Total IPs: 762
+# Updated: 2026-03-13 23:27:04 UTC
+# Total IPs: 766
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -147,6 +147,8 @@
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
+81.168.83.103        # CRITICAL | Score: 94 | Sapphire Web Services Limited | GB
+45.156.129.75        # CRITICAL | Score: 94 | INAP-CHI-1 | PT
 185.93.89.95         # CRITICAL | Score: 94 | Limited Network LTD | IR
 66.132.153.112       # CRITICAL | Score: 94 | Censys, Inc. | US
 95.215.0.144         # CRITICAL | Score: 94 | Petersburg Internet Network lt | RU
@@ -257,6 +259,7 @@
 3.129.187.38         # CRITICAL | Score: 91 | Amazon Technologies Inc. | US
 18.218.118.203       # CRITICAL | Score: 91 | Amazon Technologies Inc. | US
 149.86.227.60        # CRITICAL | Score: 91 | MEVSPACE sp. z o.o. | PL
+206.168.34.43        # CRITICAL | Score: 90 | Censys, Inc. | US
 111.119.234.232      # CRITICAL | Score: 90 | Huawei-Cloud-SG | SG
 199.45.154.153       # CRITICAL | Score: 90 | Censys, Inc. | US
 193.34.212.9         # CRITICAL | Score: 90 | MEVSPACE sp. z o.o. | PL
@@ -540,6 +543,7 @@
 121.173.173.48       # HIGH     | Score: 69 | Korea Telecom | KR
 130.12.180.92        # HIGH     | Score: 69 | Virtualine Technologies | US
 130.12.180.92        # HIGH     | Score: 69 | Virtualine Technologies | US
+184.32.16.105        # HIGH     | Score: 68 | Amazon.com, Inc. | US
 45.151.139.200       # HIGH     | Score: 68 | TIME-HOST-NET | RU
 130.12.180.174       # HIGH     | Score: 68 | Virtualine Technologies | US
 198.12.115.30        # HIGH     | Score: 68 | HostPapa | US
