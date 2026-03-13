@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-13 08:26:47 UTC
-# Total IPs: 854
+# Updated: 2026-03-13 09:26:48 UTC
+# Total IPs: 853
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -152,6 +152,8 @@
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
+185.224.128.251      # CRITICAL | Score: 94 | Alsycon B.V. | NL
+118.193.64.188       # CRITICAL | Score: 94 | UCLOUD INFORMATION TECHNOLOGY  | GB
 45.205.1.8           # CRITICAL | Score: 94 | VPSVAULT.HOST LTD | US
 95.215.0.144         # CRITICAL | Score: 94 | Petersburg Internet Network lt | RU
 103.40.61.98         # CRITICAL | Score: 94 | Gleam Worldwide Services Pvt L | IN
@@ -398,7 +400,6 @@
 130.12.180.77        # CRITICAL | Score: 85 | Virtualine Technologies | US
 130.12.180.77        # CRITICAL | Score: 85 | Virtualine Technologies | US
 130.12.180.37        # CRITICAL | Score: 85 | Virtualine Technologies | US
-47.251.13.59         # CRITICAL | Score: 84 | Alibaba Cloud - US | US
 47.251.13.59         # CRITICAL | Score: 84 | Alibaba Cloud - US | US
 66.132.153.143       # CRITICAL | Score: 84 | Censys, Inc. | US
 51.38.90.52          # CRITICAL | Score: 84 | GalaxyShell Internet Teknolojl | FR
@@ -659,7 +660,6 @@
 178.16.54.89         # HIGH     | Score: 64 | OMEGATECH | NL
 178.16.54.89         # HIGH     | Score: 64 | OMEGATECH | NL
 121.173.173.48       # HIGH     | Score: 64 | Korea Telecom | KR
-161.35.40.156        # HIGH     | Score: 63 | DigitalOcean, LLC | GB
 100.28.191.174       # HIGH     | Score: 63 | Amazon Data Services Northern  | US
 130.12.180.57        # HIGH     | Score: 63 | Virtualine Technologies | US
 130.12.180.116       # HIGH     | Score: 63 | Virtualine Technologies | US
@@ -682,7 +682,6 @@
 15.157.122.50        # HIGH     | Score: 61 | Amazon Data Services Canada | CA
 15.157.122.50        # HIGH     | Score: 61 | Amazon Data Services Canada | CA
 139.59.47.187        # HIGH     | Score: 60 | DigitalOcean, LLC | IN
-20.64.105.221        # HIGH     | Score: 60 | Microsoft Corporation | US
 20.64.105.221        # HIGH     | Score: 60 | Microsoft Corporation | US
 13.89.125.21         # HIGH     | Score: 60 | Microsoft Corporation | US
 20.65.194.56         # HIGH     | Score: 60 | Microsoft Corporation | US
