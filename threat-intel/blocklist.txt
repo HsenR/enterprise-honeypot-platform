@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-13 05:26:43 UTC
-# Total IPs: 865
+# Updated: 2026-03-13 06:26:44 UTC
+# Total IPs: 858
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -412,7 +412,6 @@
 164.92.146.87        # CRITICAL | Score: 83 | DigitalOcean, LLC | NL
 130.12.180.71        # CRITICAL | Score: 83 | Virtualine Technologies | US
 45.156.128.154       # CRITICAL | Score: 82 | INAP-AMS-1 | PT
-20.163.39.86         # CRITICAL | Score: 82 | Microsoft Corporation | US
 144.202.82.88        # CRITICAL | Score: 82 | Vultr Holdings, LLC | US
 89.248.163.200       # CRITICAL | Score: 82 | RECYBER PROJECT NETBLOCK | NL
 20.163.39.86         # CRITICAL | Score: 82 | Microsoft Corporation | US
@@ -428,7 +427,6 @@
 3.132.26.232         # CRITICAL | Score: 81 | Amazon Technologies Inc. | US
 3.143.162.210        # CRITICAL | Score: 81 | Amazon Technologies Inc. | US
 130.12.180.89        # CRITICAL | Score: 81 | Virtualine Technologies | US
-34.158.79.105        # CRITICAL | Score: 81 | Google LLC | NL
 3.143.162.210        # CRITICAL | Score: 81 | Amazon Technologies Inc. | US
 185.242.246.36       # CRITICAL | Score: 81 | SOLDATOV ALEXEY VALEREVICH | SC
 3.143.162.210        # CRITICAL | Score: 81 | Amazon Technologies Inc. | US
@@ -548,7 +546,6 @@
 130.12.180.57        # HIGH     | Score: 73 | Virtualine Technologies | US
 91.92.243.27         # HIGH     | Score: 73 | OMEGATECH | US
 178.16.54.89         # HIGH     | Score: 72 | OMEGATECH | NL
-20.29.24.90          # HIGH     | Score: 72 | Microsoft Corporation | US
 185.226.197.75       # HIGH     | Score: 72 | ICG-4-ZEN-AMS | PT
 74.249.178.165       # HIGH     | Score: 72 | Microsoft Corporation | US
 164.92.138.14        # HIGH     | Score: 72 | DigitalOcean, LLC | DE
@@ -598,7 +595,6 @@
 121.173.173.48       # HIGH     | Score: 69 | Korea Telecom | KR
 130.12.180.92        # HIGH     | Score: 69 | Virtualine Technologies | US
 130.12.180.116       # HIGH     | Score: 68 | Virtualine Technologies | US
-193.163.125.236      # HIGH     | Score: 68 | Driftnet Ltd | GB
 162.243.37.46        # HIGH     | Score: 68 | DigitalOcean, LLC | US
 45.151.139.200       # HIGH     | Score: 68 | TIME-HOST-NET | RU
 45.151.139.200       # HIGH     | Score: 68 | TIME-HOST-NET | RU
@@ -609,7 +605,6 @@
 130.12.180.92        # HIGH     | Score: 68 | Virtualine Technologies | US
 130.12.180.92        # HIGH     | Score: 68 | Virtualine Technologies | US
 167.172.55.154       # HIGH     | Score: 67 | DigitalOcean, LLC | GB
-128.199.8.140        # HIGH     | Score: 67 | DigitalOcean, LLC | US
 206.189.107.18       # HIGH     | Score: 67 | DigitalOcean, LLC | NL
 135.237.126.148      # HIGH     | Score: 67 | Microsoft Limited | US
 45.142.154.98        # HIGH     | Score: 67 | HDTIDC LIMITED | HK
@@ -626,6 +621,7 @@
 139.59.31.132        # HIGH     | Score: 67 | DigitalOcean, LLC | IN
 130.12.180.116       # HIGH     | Score: 67 | Virtualine Technologies | US
 130.12.180.116       # HIGH     | Score: 67 | Virtualine Technologies | US
+206.189.190.47       # HIGH     | Score: 66 | DigitalOcean, LLC | US
 52.36.5.236          # HIGH     | Score: 66 | Amazon Technologies Inc. | US
 183.232.212.193      # HIGH     | Score: 66 | China Mobile Communications Co | CN
 143.244.57.120       # HIGH     | Score: 66 | Datacamp Limited | FR
@@ -671,8 +667,6 @@
 121.173.173.48       # HIGH     | Score: 63 | Korea Telecom | KR
 121.173.173.48       # HIGH     | Score: 63 | Korea Telecom | KR
 137.184.188.165      # HIGH     | Score: 62 | DigitalOcean, LLC | US
-20.163.15.34         # HIGH     | Score: 62 | Microsoft Corporation | US
-40.124.173.2         # HIGH     | Score: 62 | Microsoft Corporation | US
 40.124.173.2         # HIGH     | Score: 62 | Microsoft Corporation | US
 20.163.15.34         # HIGH     | Score: 62 | Microsoft Corporation | US
 62.60.130.7          # HIGH     | Score: 62 | CIPHER OPERATIONS DOO BEOGRAD  | IR
@@ -861,7 +855,6 @@
 178.16.54.89         # HIGH     | Score: 51 | OMEGATECH | NL
 178.16.54.193        # HIGH     | Score: 51 | OMEGATECH | NL
 178.16.54.247        # HIGH     | Score: 51 | OMEGATECH | NL
-162.142.125.213      # HIGH     | Score: 50 | Censys, Inc. | US
 137.184.25.194       # HIGH     | Score: 50 | DigitalOcean, LLC | US
 198.235.24.22        # HIGH     | Score: 50 | Palo Alto Networks, Inc | US
 138.68.179.236       # HIGH     | Score: 50 | DigitalOcean, LLC | GB
