@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-13 19:26:59 UTC
-# Total IPs: 754
+# Updated: 2026-03-13 20:27:00 UTC
+# Total IPs: 760
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -93,6 +93,8 @@
 16.58.56.214         # CRITICAL | Score: 98 | Amazon.com, Inc. | US
 187.191.2.214        # CRITICAL | Score: 98 | TOTAL PLAY TELECOMUNICACIONES  | MX
 45.156.87.91         # CRITICAL | Score: 98 | VMHeaven.io | NL
+185.180.141.69       # CRITICAL | Score: 96 | ICG-1-ZEN-DFW | PT
+185.180.141.68       # CRITICAL | Score: 96 | ICG-1-ZEN-DFW | PT
 185.36.81.23         # CRITICAL | Score: 96 | Cloud hosting | LT
 45.138.16.145        # CRITICAL | Score: 96 | 1337 Services GmbH | PL
 81.168.83.103        # CRITICAL | Score: 96 | Sapphire Web Services Limited | GB
@@ -231,6 +233,7 @@
 45.153.34.187        # CRITICAL | Score: 92 | VMHeaven.io | NL
 82.147.85.136        # CRITICAL | Score: 92 | Siberian Telecommunications Lt | RU
 204.76.203.18        # CRITICAL | Score: 92 | Intelligence Hosting LLC | NL
+167.99.33.127        # CRITICAL | Score: 91 | DigitalOcean, LLC | NL
 112.163.119.199      # CRITICAL | Score: 91 | Korea Telecom | KR
 18.116.101.220       # CRITICAL | Score: 91 | Amazon Technologies Inc. | US
 3.129.187.38         # CRITICAL | Score: 91 | Amazon Technologies Inc. | US
@@ -331,6 +334,7 @@
 45.156.128.154       # CRITICAL | Score: 87 | INAP-AMS-1 | PT
 167.86.107.35        # CRITICAL | Score: 87 | Contabo GmbH | FR
 45.156.128.91        # CRITICAL | Score: 87 | INAP-AMS-1 | PT
+185.180.141.70       # CRITICAL | Score: 86 | ICG-1-ZEN-DFW | PT
 193.29.13.164        # CRITICAL | Score: 86 | Bunea TELECOM SRL | RO
 18.218.118.203       # CRITICAL | Score: 86 | Amazon Technologies Inc. | US
 103.203.57.18        # CRITICAL | Score: 86 | Beijing Tiantexin Tech. Co., L | CN
@@ -360,6 +364,7 @@
 130.12.180.37        # CRITICAL | Score: 85 | Virtualine Technologies | US
 130.12.180.77        # CRITICAL | Score: 85 | Virtualine Technologies | US
 3.134.216.108        # CRITICAL | Score: 85 | Amazon Technologies Inc. | US
+81.29.142.50         # CRITICAL | Score: 84 | Data-center IMAQLIQ Ltd. | RU
 64.227.106.112       # CRITICAL | Score: 84 | DigitalOcean, LLC | US
 66.132.153.143       # CRITICAL | Score: 84 | Censys, Inc. | US
 51.38.90.52          # CRITICAL | Score: 84 | GalaxyShell Internet Teknolojl | FR
@@ -416,6 +421,7 @@
 207.154.211.129      # CRITICAL | Score: 79 | DigitalOcean, LLC | DE
 130.12.180.82        # CRITICAL | Score: 79 | Virtualine Technologies | US
 206.189.24.243       # CRITICAL | Score: 79 | DigitalOcean, LLC | GB
+185.180.141.67       # CRITICAL | Score: 78 | ICG-1-ZEN-DFW | PT
 34.47.182.97         # CRITICAL | Score: 78 | Google LLC | IN
 34.47.182.97         # CRITICAL | Score: 78 | Google LLC | IN
 130.12.180.174       # CRITICAL | Score: 78 | Virtualine Technologies | US
