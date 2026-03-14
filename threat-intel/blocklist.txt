@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-13 23:27:04 UTC
-# Total IPs: 766
+# Updated: 2026-03-14 00:27:05 UTC
+# Total IPs: 764
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -15,7 +15,6 @@
 #
 
 # ── CRITICAL THREATS ─────────────────────────────────
-45.91.64.7           # CRITICAL | Score:100 | F6 | RU
 144.91.93.174        # CRITICAL | Score:100 | Contabo GmbH | FR
 45.91.64.7           # CRITICAL | Score:100 | F6 | RU
 103.215.201.34       # CRITICAL | Score:100 | A2j Data Services Pvt. Ltd. | IN
@@ -95,7 +94,6 @@
 45.156.87.91         # CRITICAL | Score: 98 | VMHeaven.io | NL
 185.180.141.69       # CRITICAL | Score: 96 | ICG-1-ZEN-DFW | PT
 185.180.141.68       # CRITICAL | Score: 96 | ICG-1-ZEN-DFW | PT
-185.36.81.23         # CRITICAL | Score: 96 | Cloud hosting | LT
 45.138.16.145        # CRITICAL | Score: 96 | 1337 Services GmbH | PL
 81.168.83.103        # CRITICAL | Score: 96 | Sapphire Web Services Limited | GB
 176.65.139.38        # CRITICAL | Score: 96 | Storm Industries | DE
@@ -380,7 +378,6 @@
 47.103.36.53         # CRITICAL | Score: 83 | Aliyun Computing Co., LTD | CN
 164.92.146.87        # CRITICAL | Score: 83 | DigitalOcean, LLC | NL
 130.12.180.71        # CRITICAL | Score: 83 | Virtualine Technologies | US
-176.65.149.245       # CRITICAL | Score: 82 | Pfcloud UG | NL
 144.202.82.88        # CRITICAL | Score: 82 | Vultr Holdings, LLC | US
 89.248.163.200       # CRITICAL | Score: 82 | RECYBER PROJECT NETBLOCK | NL
 20.169.105.52        # CRITICAL | Score: 82 | Microsoft Corporation | US
@@ -622,6 +619,7 @@
 178.16.54.111        # HIGH     | Score: 62 | OMEGATECH | NL
 137.184.188.165      # HIGH     | Score: 62 | DigitalOcean, LLC | US
 137.184.188.165      # HIGH     | Score: 62 | DigitalOcean, LLC | US
+47.89.195.183        # HIGH     | Score: 61 | Alibaba Cloud - US | US
 15.157.122.50        # HIGH     | Score: 61 | Amazon Data Services Canada | CA
 64.227.109.89        # HIGH     | Score: 60 | DigitalOcean, LLC | US
 20.65.193.199        # HIGH     | Score: 60 | Microsoft Corporation | US
