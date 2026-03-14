@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-14 19:26:57 UTC
-# Total IPs: 808
+# Updated: 2026-03-14 20:26:58 UTC
+# Total IPs: 811
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -300,6 +300,7 @@
 206.168.34.36        # CRITICAL | Score: 90 | Censys, Inc. | US
 206.168.34.63        # CRITICAL | Score: 90 | Censys, Inc. | US
 206.168.34.197       # CRITICAL | Score: 90 | Censys, Inc. | US
+176.65.148.214       # CRITICAL | Score: 89 | Pfcloud UG | NL
 66.132.153.113       # CRITICAL | Score: 89 | Censys, Inc. | US
 159.223.203.97       # CRITICAL | Score: 89 | DigitalOcean, LLC | US
 66.132.153.140       # CRITICAL | Score: 89 | Censys, Inc. | US
@@ -326,7 +327,6 @@
 66.132.153.131       # CRITICAL | Score: 89 | Censys, Inc. | US
 66.132.153.128       # CRITICAL | Score: 89 | Censys, Inc. | US
 45.156.129.66        # CRITICAL | Score: 89 | INAP-CHI-1 | PT
-3.151.241.153        # CRITICAL | Score: 88 | Amazon Technologies Inc. | US
 161.35.21.188        # CRITICAL | Score: 88 | DigitalOcean, LLC | DE
 130.12.180.74        # CRITICAL | Score: 88 | Virtualine Technologies | US
 130.12.180.71        # CRITICAL | Score: 88 | Virtualine Technologies | US
@@ -394,7 +394,6 @@
 130.12.180.37        # CRITICAL | Score: 85 | Virtualine Technologies | US
 3.134.216.108        # CRITICAL | Score: 85 | Amazon Technologies Inc. | US
 78.128.114.38        # CRITICAL | Score: 85 | Tamatiya EOOD | BG
-159.223.203.97       # CRITICAL | Score: 84 | DigitalOcean, LLC | US
 64.227.106.112       # CRITICAL | Score: 84 | DigitalOcean, LLC | US
 81.29.142.50         # CRITICAL | Score: 84 | Data-center IMAQLIQ Ltd. | RU
 64.227.106.112       # CRITICAL | Score: 84 | DigitalOcean, LLC | US
@@ -508,6 +507,7 @@
 20.64.104.27         # CRITICAL | Score: 75 | Microsoft Corporation | US
 
 # ── HIGH THREATS ─────────────────────────────────────
+167.172.116.219      # HIGH     | Score: 74 | DigitalOcean, LLC | US
 100.28.153.226       # HIGH     | Score: 74 | Amazon Data Services Northern  | US
 207.154.211.129      # HIGH     | Score: 74 | DigitalOcean, LLC | DE
 185.242.226.18       # HIGH     | Score: 74 | HostUS Solutions LLC | US
@@ -724,6 +724,7 @@
 188.166.25.251       # HIGH     | Score: 56 | Digital Ocean, Inc. | NL
 178.16.54.170        # HIGH     | Score: 56 | OMEGATECH | NL
 188.166.25.251       # HIGH     | Score: 56 | Digital Ocean, Inc. | NL
+165.22.221.128       # HIGH     | Score: 55 | DigitalOcean, LLC | IN
 45.86.211.26         # HIGH     | Score: 55 | Clouvider Limited | US
 68.183.200.51        # HIGH     | Score: 55 | DigitalOcean, LLC | CA
 217.216.48.180       # HIGH     | Score: 55 | Contabo GmbH | US
@@ -756,6 +757,8 @@
 40.124.174.247       # HIGH     | Score: 54 | Microsoft Corporation | US
 3.134.93.22          # HIGH     | Score: 53 | Amazon Technologies Inc. | US
 178.16.54.193        # HIGH     | Score: 53 | OMEGATECH | NL
+167.94.146.50        # HIGH     | Score: 52 | Censys, Inc. | US
+209.97.161.164       # HIGH     | Score: 52 | DigitalOcean, LLC | SG
 162.142.125.202      # HIGH     | Score: 52 | Censys, Inc. | US
 167.94.146.59        # HIGH     | Score: 52 | Censys, Inc. | US
 162.142.125.122      # HIGH     | Score: 52 | Censys, Inc. | US
@@ -810,9 +813,9 @@
 91.92.243.154        # HIGH     | Score: 51 | OMEGATECH | US
 178.16.54.247        # HIGH     | Score: 51 | OMEGATECH | NL
 178.16.54.123        # HIGH     | Score: 51 | OMEGATECH | NL
+162.142.125.213      # HIGH     | Score: 50 | Censys, Inc. | US
 167.94.138.115       # HIGH     | Score: 50 | Censys, Inc. | US
 147.185.132.111      # HIGH     | Score: 50 | Palo Alto Networks, Inc | US
-162.142.125.221      # HIGH     | Score: 50 | Censys, Inc. | US
 167.94.146.53        # HIGH     | Score: 50 | Censys, Inc. | US
 193.19.205.119       # HIGH     | Score: 50 | IP Resources Trading SRL | BR
 167.94.138.36        # HIGH     | Score: 50 | Censys, Inc. | US
