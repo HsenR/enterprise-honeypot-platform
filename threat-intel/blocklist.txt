@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-14 01:27:06 UTC
-# Total IPs: 761
+# Updated: 2026-03-14 03:26:41 UTC
+# Total IPs: 757
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -147,7 +147,6 @@
 81.168.83.103        # CRITICAL | Score: 94 | Sapphire Web Services Limited | GB
 45.156.129.75        # CRITICAL | Score: 94 | INAP-CHI-1 | PT
 185.93.89.95         # CRITICAL | Score: 94 | Limited Network LTD | IR
-66.132.153.112       # CRITICAL | Score: 94 | Censys, Inc. | US
 95.215.0.144         # CRITICAL | Score: 94 | Petersburg Internet Network lt | RU
 66.132.153.112       # CRITICAL | Score: 94 | Censys, Inc. | US
 66.132.153.134       # CRITICAL | Score: 94 | Censys, Inc. | US
@@ -235,7 +234,6 @@
 82.147.85.136        # CRITICAL | Score: 92 | Siberian Telecommunications Lt | RU
 204.76.203.18        # CRITICAL | Score: 92 | Intelligence Hosting LLC | NL
 167.99.33.127        # CRITICAL | Score: 91 | DigitalOcean, LLC | NL
-112.163.119.199      # CRITICAL | Score: 91 | Korea Telecom | KR
 18.116.101.220       # CRITICAL | Score: 91 | Amazon Technologies Inc. | US
 3.129.187.38         # CRITICAL | Score: 91 | Amazon Technologies Inc. | US
 85.11.183.6          # CRITICAL | Score: 91 | SOFCOMPANY Ltd | GB
@@ -551,7 +549,6 @@
 130.12.180.116       # HIGH     | Score: 68 | Virtualine Technologies | US
 47.251.53.147        # HIGH     | Score: 68 | Alibaba Cloud - US | US
 98.90.43.197         # HIGH     | Score: 68 | Amazon Data Services Northern  | US
-20.119.75.60         # HIGH     | Score: 67 | Microsoft Corporation | US
 192.241.179.235      # HIGH     | Score: 67 | DigitalOcean, LLC | US
 45.142.154.10        # HIGH     | Score: 67 | HDTIDC LIMITED | HK
 187.110.175.205      # HIGH     | Score: 67 | EVEO S.A. | BR
@@ -712,7 +709,6 @@
 87.106.3.40          # HIGH     | Score: 53 | IONOS SE | FR
 8.222.153.157        # HIGH     | Score: 53 | Alibaba Cloud (Singapore) Priv | SG
 3.134.93.22          # HIGH     | Score: 53 | Amazon Technologies Inc. | US
-162.142.125.218      # HIGH     | Score: 52 | Censys, Inc. | US
 205.210.31.67        # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 167.94.146.59        # HIGH     | Score: 52 | Censys, Inc. | US
 20.80.88.167         # HIGH     | Score: 52 | Microsoft Corporation | US
