@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-14 09:26:47 UTC
-# Total IPs: 792
+# Updated: 2026-03-14 10:26:48 UTC
+# Total IPs: 795
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -36,6 +36,7 @@
 192.109.200.219      # CRITICAL | Score:100 | Telco power Ltd | SE
 207.166.168.14       # CRITICAL | Score:100 | BYTEPLUS | SG
 187.191.2.214        # CRITICAL | Score:100 | TOTAL PLAY TELECOMUNICACIONES  | MX
+117.164.191.217      # CRITICAL | Score: 98 | China Mobile Communications Co | CN
 59.23.3.146          # CRITICAL | Score: 98 | Korea Telecom | KR
 45.156.87.91         # CRITICAL | Score: 98 | VMHeaven.io | NL
 16.58.56.214         # CRITICAL | Score: 98 | Amazon.com, Inc. | US
@@ -148,6 +149,8 @@
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
+220.76.68.23         # CRITICAL | Score: 94 | Korea Telecom | KR
+82.165.66.87         # CRITICAL | Score: 94 | IONOS SE | DE
 5.61.209.96          # CRITICAL | Score: 94 | Amarutu Technology Ltd | SC
 93.174.93.12         # CRITICAL | Score: 94 | FiberXpress BV | NL
 74.82.47.5           # CRITICAL | Score: 94 | The Shadowserver Foundation, I | US
@@ -273,7 +276,6 @@
 206.168.34.36        # CRITICAL | Score: 90 | Censys, Inc. | US
 206.168.34.43        # CRITICAL | Score: 90 | Censys, Inc. | US
 130.12.180.49        # CRITICAL | Score: 90 | Virtualine Technologies | US
-71.6.135.131         # CRITICAL | Score: 90 | CariNet, Inc. | US
 78.128.114.38        # CRITICAL | Score: 90 | Tamatiya EOOD | BG
 199.45.155.90        # CRITICAL | Score: 90 | Censys, Inc. | US
 199.45.155.102       # CRITICAL | Score: 90 | Censys, Inc. | US
@@ -672,6 +674,7 @@
 34.66.133.48         # HIGH     | Score: 59 | Google LLC | US
 188.166.25.251       # HIGH     | Score: 59 | Digital Ocean, Inc. | NL
 116.99.174.155       # HIGH     | Score: 59 | Viettel Group | VN
+35.167.108.113       # HIGH     | Score: 58 | Amazon.com, Inc. | US
 178.16.54.134        # HIGH     | Score: 58 | OMEGATECH | NL
 91.92.243.197        # HIGH     | Score: 58 | OMEGATECH | US
 91.92.243.197        # HIGH     | Score: 58 | OMEGATECH | US
