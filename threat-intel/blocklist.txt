@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-14 17:26:56 UTC
-# Total IPs: 812
+# Updated: 2026-03-14 18:26:56 UTC
+# Total IPs: 806
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -153,7 +153,6 @@
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 60.191.125.35        # CRITICAL | Score: 94 | Hangzhou Shentong Investment C | CN
-93.174.93.12         # CRITICAL | Score: 94 | FiberXpress BV | NL
 204.76.203.73        # CRITICAL | Score: 94 | Intelligence Hosting LLC | NL
 95.215.0.144         # CRITICAL | Score: 94 | Petersburg Internet Network lt | RU
 185.224.128.251      # CRITICAL | Score: 94 | Alsycon B.V. | NL
@@ -214,7 +213,6 @@
 3.151.241.153        # CRITICAL | Score: 93 | Amazon Technologies Inc. | US
 3.151.241.153        # CRITICAL | Score: 93 | Amazon Technologies Inc. | US
 176.65.132.45        # CRITICAL | Score: 93 | VMHeaven.io | DE
-185.224.128.251      # CRITICAL | Score: 92 | Alsycon B.V. | NL
 49.88.156.34         # CRITICAL | Score: 92 | CHINANET jiangsu province netw | CN
 204.76.203.18        # CRITICAL | Score: 92 | Intelligence Hosting LLC | NL
 193.142.146.230      # CRITICAL | Score: 92 | ColocaTel Datacenter | DE
@@ -259,7 +257,6 @@
 80.94.95.115         # CRITICAL | Score: 92 | UNMANAGED LTD | RO
 204.76.203.30        # CRITICAL | Score: 92 | Intelligence Hosting LLC | NL
 45.142.193.221       # CRITICAL | Score: 92 | Limited Network LTD | RO
-167.172.43.192       # CRITICAL | Score: 91 | DigitalOcean, LLC | NL
 18.116.101.220       # CRITICAL | Score: 91 | Amazon Technologies Inc. | US
 3.129.187.38         # CRITICAL | Score: 91 | Amazon Technologies Inc. | US
 18.116.101.220       # CRITICAL | Score: 91 | Amazon Technologies Inc. | US
@@ -303,7 +300,6 @@
 206.168.34.63        # CRITICAL | Score: 90 | Censys, Inc. | US
 206.168.34.197       # CRITICAL | Score: 90 | Censys, Inc. | US
 66.132.153.113       # CRITICAL | Score: 89 | Censys, Inc. | US
-66.132.153.128       # CRITICAL | Score: 89 | Censys, Inc. | US
 159.223.203.97       # CRITICAL | Score: 89 | DigitalOcean, LLC | US
 66.132.153.140       # CRITICAL | Score: 89 | Censys, Inc. | US
 176.65.134.20        # CRITICAL | Score: 89 | Pfcloud UG | SI
@@ -362,7 +358,6 @@
 89.248.163.200       # CRITICAL | Score: 87 | RECYBER PROJECT NETBLOCK | NL
 167.86.107.35        # CRITICAL | Score: 87 | Contabo GmbH | FR
 89.248.163.200       # CRITICAL | Score: 87 | RECYBER PROJECT NETBLOCK | NL
-102.22.20.125        # CRITICAL | Score: 86 | Dimension Data Ltd | GH
 34.158.79.105        # CRITICAL | Score: 86 | Google LLC | NL
 18.218.118.203       # CRITICAL | Score: 86 | Amazon Technologies Inc. | US
 85.11.183.6          # CRITICAL | Score: 86 | SOFCOMPANY Ltd | GB
@@ -409,7 +404,6 @@
 164.92.146.87        # CRITICAL | Score: 83 | DigitalOcean, LLC | NL
 130.12.180.71        # CRITICAL | Score: 83 | Virtualine Technologies | US
 185.180.141.67       # CRITICAL | Score: 83 | ICG-1-ZEN-DFW | PT
-13.89.124.211        # CRITICAL | Score: 82 | Microsoft Corporation | US
 89.248.163.200       # CRITICAL | Score: 82 | RECYBER PROJECT NETBLOCK | NL
 167.86.107.35        # CRITICAL | Score: 82 | Contabo GmbH | FR
 167.86.107.35        # CRITICAL | Score: 82 | Contabo GmbH | FR
@@ -512,7 +506,6 @@
 
 # ── HIGH THREATS ─────────────────────────────────────
 100.28.153.226       # HIGH     | Score: 74 | Amazon Data Services Northern  | US
-178.20.210.151       # HIGH     | Score: 74 | Shereverov Marat Ahmedovich | DE
 207.154.211.129      # HIGH     | Score: 74 | DigitalOcean, LLC | DE
 185.242.226.18       # HIGH     | Score: 74 | HostUS Solutions LLC | US
 164.92.138.14        # HIGH     | Score: 74 | DigitalOcean, LLC | DE
@@ -609,7 +602,6 @@
 27.79.41.94          # HIGH     | Score: 67 | Viettel Group | VN
 185.247.137.63       # HIGH     | Score: 67 | Driftnet Ltd | GB
 45.142.154.10        # HIGH     | Score: 67 | HDTIDC LIMITED | HK
-183.232.212.193      # HIGH     | Score: 66 | China Mobile Communications Co | CN
 143.244.57.120       # HIGH     | Score: 66 | Datacamp Limited | FR
 156.146.33.76        # HIGH     | Score: 66 | Datacamp Limited | DE
 178.62.211.204       # HIGH     | Score: 66 | DigitalOcean Amsterdam | NL
@@ -684,6 +676,7 @@
 116.99.174.155       # HIGH     | Score: 59 | Viettel Group | VN
 64.227.155.10        # HIGH     | Score: 59 | DigitalOcean, LLC | IN
 34.66.133.48         # HIGH     | Score: 59 | Google LLC | US
+18.133.199.181       # HIGH     | Score: 58 | Amazon Data Services UK | GB
 178.16.54.134        # HIGH     | Score: 58 | OMEGATECH | NL
 91.92.243.197        # HIGH     | Score: 58 | OMEGATECH | US
 91.92.243.197        # HIGH     | Score: 58 | OMEGATECH | US
@@ -814,6 +807,7 @@
 91.92.243.154        # HIGH     | Score: 51 | OMEGATECH | US
 178.16.54.247        # HIGH     | Score: 51 | OMEGATECH | NL
 178.16.54.123        # HIGH     | Score: 51 | OMEGATECH | NL
+167.94.138.115       # HIGH     | Score: 50 | Censys, Inc. | US
 147.185.132.111      # HIGH     | Score: 50 | Palo Alto Networks, Inc | US
 167.94.138.36        # HIGH     | Score: 50 | Censys, Inc. | US
 162.142.125.221      # HIGH     | Score: 50 | Censys, Inc. | US
