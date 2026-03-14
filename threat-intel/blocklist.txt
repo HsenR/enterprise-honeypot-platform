@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-14 21:27:00 UTC
-# Total IPs: 811
+# Updated: 2026-03-14 22:27:01 UTC
+# Total IPs: 808
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -276,7 +276,6 @@
 193.29.13.164        # CRITICAL | Score: 91 | Bunea TELECOM SRL | RO
 46.151.182.190       # CRITICAL | Score: 91 | DEMENIN B.V. | NL
 206.168.34.116       # CRITICAL | Score: 90 | Censys, Inc. | US
-199.45.155.102       # CRITICAL | Score: 90 | Censys, Inc. | US
 71.6.135.131         # CRITICAL | Score: 90 | CariNet, Inc. | US
 199.45.155.102       # CRITICAL | Score: 90 | Censys, Inc. | US
 199.45.155.67        # CRITICAL | Score: 90 | Censys, Inc. | US
@@ -361,6 +360,7 @@
 89.248.163.200       # CRITICAL | Score: 87 | RECYBER PROJECT NETBLOCK | NL
 167.86.107.35        # CRITICAL | Score: 87 | Contabo GmbH | FR
 89.248.163.200       # CRITICAL | Score: 87 | RECYBER PROJECT NETBLOCK | NL
+185.242.226.40       # CRITICAL | Score: 86 | HostUS Solutions LLC | US
 34.158.79.105        # CRITICAL | Score: 86 | Google LLC | NL
 18.218.118.203       # CRITICAL | Score: 86 | Amazon Technologies Inc. | US
 85.11.183.6          # CRITICAL | Score: 86 | SOFCOMPANY Ltd | GB
@@ -593,7 +593,6 @@
 184.32.16.105        # HIGH     | Score: 68 | Amazon.com, Inc. | US
 47.251.53.147        # HIGH     | Score: 68 | Alibaba Cloud - US | US
 45.142.154.98        # HIGH     | Score: 67 | HDTIDC LIMITED | HK
-187.110.175.205      # HIGH     | Score: 67 | EVEO S.A. | BR
 89.117.104.6         # HIGH     | Score: 67 | SC Lithuanian Radio and TV Cen | DE
 185.104.184.196      # HIGH     | Score: 67 | M247 LTD Frankfurt Infrastruct | DE
 139.59.31.132        # HIGH     | Score: 67 | DigitalOcean, LLC | IN
@@ -629,7 +628,6 @@
 209.38.24.134        # HIGH     | Score: 66 | DigitalOcean, LLC | AU
 185.242.226.23       # HIGH     | Score: 66 | HostUS Solutions LLC | US
 121.173.173.48       # HIGH     | Score: 66 | Korea Telecom | KR
-20.118.202.145       # HIGH     | Score: 65 | Microsoft Corporation | US
 18.188.57.88         # HIGH     | Score: 65 | Amazon Technologies Inc. | US
 47.243.177.131       # HIGH     | Score: 65 | ALIBABA CLOUD - HK | HK
 20.118.202.145       # HIGH     | Score: 65 | Microsoft Corporation | US
@@ -816,7 +814,6 @@
 162.142.125.213      # HIGH     | Score: 50 | Censys, Inc. | US
 167.94.138.115       # HIGH     | Score: 50 | Censys, Inc. | US
 147.185.132.111      # HIGH     | Score: 50 | Palo Alto Networks, Inc | US
-167.94.146.53        # HIGH     | Score: 50 | Censys, Inc. | US
 193.19.205.119       # HIGH     | Score: 50 | IP Resources Trading SRL | BR
 167.94.138.36        # HIGH     | Score: 50 | Censys, Inc. | US
 146.70.36.140        # HIGH     | Score: 50 | M247 LTD Frankfurt Infrastruct | DE
