@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-14 18:26:56 UTC
-# Total IPs: 806
+# Updated: 2026-03-14 19:26:57 UTC
+# Total IPs: 808
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -152,6 +152,7 @@
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
+176.65.149.235       # CRITICAL | Score: 94 | Pfcloud UG | NL
 60.191.125.35        # CRITICAL | Score: 94 | Hangzhou Shentong Investment C | CN
 204.76.203.73        # CRITICAL | Score: 94 | Intelligence Hosting LLC | NL
 95.215.0.144         # CRITICAL | Score: 94 | Petersburg Internet Network lt | RU
@@ -346,6 +347,8 @@
 130.12.180.71        # CRITICAL | Score: 88 | Virtualine Technologies | US
 103.199.16.79        # CRITICAL | Score: 88 | GREENCLOUD LIMITED LIABILITY C | VN
 134.122.93.145       # CRITICAL | Score: 88 | DigitalOcean, LLC | DE
+45.156.129.93        # CRITICAL | Score: 87 | INAP-CHI-1 | PT
+185.242.226.43       # CRITICAL | Score: 87 | HostUS Solutions LLC | US
 152.32.132.189       # CRITICAL | Score: 87 | UCLOUD INFORMATION TECHNOLOGY  | HK
 152.32.132.189       # CRITICAL | Score: 87 | UCLOUD INFORMATION TECHNOLOGY  | HK
 152.32.132.189       # CRITICAL | Score: 87 | UCLOUD INFORMATION TECHNOLOGY  | HK
@@ -426,7 +429,6 @@
 142.93.110.241       # CRITICAL | Score: 81 | DigitalOcean, LLC | DE
 110.4.13.252         # CRITICAL | Score: 81 | Asia Pacific Network Informati | HK
 48.216.244.43        # CRITICAL | Score: 81 | Microsoft Limited | US
-52.188.189.7         # CRITICAL | Score: 80 | Microsoft Corporation | US
 3.134.216.108        # CRITICAL | Score: 80 | Amazon Technologies Inc. | US
 107.172.7.140        # CRITICAL | Score: 80 | HostPapa | US
 130.12.180.37        # CRITICAL | Score: 80 | Virtualine Technologies | US
@@ -444,6 +446,7 @@
 130.12.180.82        # CRITICAL | Score: 80 | Virtualine Technologies | US
 178.16.54.134        # CRITICAL | Score: 80 | OMEGATECH | NL
 178.16.54.35         # CRITICAL | Score: 80 | OMEGATECH | NL
+45.156.129.90        # CRITICAL | Score: 79 | INAP-CHI-1 | PT
 130.12.180.89        # CRITICAL | Score: 79 | Virtualine Technologies | US
 130.12.180.89        # CRITICAL | Score: 79 | Virtualine Technologies | US
 207.154.211.129      # CRITICAL | Score: 79 | DigitalOcean, LLC | DE
@@ -540,7 +543,6 @@
 178.16.54.89         # HIGH     | Score: 72 | OMEGATECH | NL
 178.16.54.89         # HIGH     | Score: 72 | OMEGATECH | NL
 20.64.104.5          # HIGH     | Score: 72 | Microsoft Corporation | US
-167.172.51.219       # HIGH     | Score: 71 | DigitalOcean, LLC | GB
 45.194.92.56         # HIGH     | Score: 71 | VPSVAULT.HOST LTD | US
 138.199.19.180       # HIGH     | Score: 71 | Datacamp Limited | DE
 104.248.198.91       # HIGH     | Score: 71 | DigitalOcean, LLC | NL
@@ -590,6 +592,7 @@
 130.12.180.116       # HIGH     | Score: 68 | Virtualine Technologies | US
 184.32.16.105        # HIGH     | Score: 68 | Amazon.com, Inc. | US
 47.251.53.147        # HIGH     | Score: 68 | Alibaba Cloud - US | US
+45.142.154.98        # HIGH     | Score: 67 | HDTIDC LIMITED | HK
 187.110.175.205      # HIGH     | Score: 67 | EVEO S.A. | BR
 89.117.104.6         # HIGH     | Score: 67 | SC Lithuanian Radio and TV Cen | DE
 185.104.184.196      # HIGH     | Score: 67 | M247 LTD Frankfurt Infrastruct | DE
@@ -665,6 +668,7 @@
 139.59.47.187        # HIGH     | Score: 60 | DigitalOcean, LLC | IN
 20.15.162.238        # HIGH     | Score: 60 | Microsoft Corporation | US
 20.118.32.242        # HIGH     | Score: 60 | Microsoft Corporation | US
+92.4.93.72           # HIGH     | Score: 59 | Oracle Svenska AB | IN
 14.225.2.67          # HIGH     | Score: 59 | Vietnam Posts and Telecommunic | VN
 146.70.160.220       # HIGH     | Score: 59 | M247 LTD Frankfurt Infrastruct | DE
 91.239.157.185       # HIGH     | Score: 59 | Clouvider Limited | DE
@@ -756,7 +760,6 @@
 167.94.146.59        # HIGH     | Score: 52 | Censys, Inc. | US
 162.142.125.122      # HIGH     | Score: 52 | Censys, Inc. | US
 167.94.138.190       # HIGH     | Score: 52 | Censys, Inc. | US
-162.142.125.219      # HIGH     | Score: 52 | Censys, Inc. | US
 167.94.146.55        # HIGH     | Score: 52 | Censys, Inc. | US
 167.94.146.63        # HIGH     | Score: 52 | Censys, Inc. | US
 18.143.235.216       # HIGH     | Score: 52 | Amazon Data Services Singapore | SG
@@ -809,7 +812,6 @@
 178.16.54.123        # HIGH     | Score: 51 | OMEGATECH | NL
 167.94.138.115       # HIGH     | Score: 50 | Censys, Inc. | US
 147.185.132.111      # HIGH     | Score: 50 | Palo Alto Networks, Inc | US
-167.94.138.36        # HIGH     | Score: 50 | Censys, Inc. | US
 162.142.125.221      # HIGH     | Score: 50 | Censys, Inc. | US
 167.94.146.53        # HIGH     | Score: 50 | Censys, Inc. | US
 193.19.205.119       # HIGH     | Score: 50 | IP Resources Trading SRL | BR
