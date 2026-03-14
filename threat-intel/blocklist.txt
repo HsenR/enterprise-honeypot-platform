@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-14 08:26:46 UTC
-# Total IPs: 794
+# Updated: 2026-03-14 09:26:47 UTC
+# Total IPs: 792
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -164,7 +164,6 @@
 81.168.83.103        # CRITICAL | Score: 94 | Sapphire Web Services Limited | GB
 185.224.128.251      # CRITICAL | Score: 94 | Alsycon B.V. | NL
 185.93.89.95         # CRITICAL | Score: 94 | Limited Network LTD | IR
-47.91.125.252        # CRITICAL | Score: 94 | Alibaba Cloud - AE(Dubai) | AE
 185.12.59.118        # CRITICAL | Score: 94 | Blix Group AS | NO
 93.174.93.12         # CRITICAL | Score: 94 | FiberXpress BV | NL
 204.76.203.73        # CRITICAL | Score: 94 | Intelligence Hosting LLC | NL
@@ -206,6 +205,7 @@
 167.71.66.127        # CRITICAL | Score: 93 | DigitalOcean, LLC | NL
 130.12.180.19        # CRITICAL | Score: 93 | Virtualine Technologies | US
 3.151.241.153        # CRITICAL | Score: 93 | Amazon Technologies Inc. | US
+45.142.193.221       # CRITICAL | Score: 92 | Limited Network LTD | RO
 204.76.203.30        # CRITICAL | Score: 92 | Intelligence Hosting LLC | NL
 80.94.95.115         # CRITICAL | Score: 92 | UNMANAGED LTD | RO
 45.148.10.121        # CRITICAL | Score: 92 | TECHOFF SRV LIMITED | NL
@@ -445,9 +445,9 @@
 207.154.211.129      # CRITICAL | Score: 79 | DigitalOcean, LLC | DE
 130.12.180.82        # CRITICAL | Score: 79 | Virtualine Technologies | US
 206.189.24.243       # CRITICAL | Score: 79 | DigitalOcean, LLC | GB
+35.216.144.195       # CRITICAL | Score: 78 | Google LLC | CH
 31.56.208.208        # CRITICAL | Score: 78 | GOLD IP L.L.C-FZ | AE
 130.12.180.174       # CRITICAL | Score: 78 | Virtualine Technologies | US
-34.47.182.97         # CRITICAL | Score: 78 | Google LLC | IN
 34.47.182.97         # CRITICAL | Score: 78 | Google LLC | IN
 130.12.180.174       # CRITICAL | Score: 78 | Virtualine Technologies | US
 198.12.115.30        # CRITICAL | Score: 78 | HostPapa | US
@@ -460,7 +460,6 @@
 130.12.180.174       # CRITICAL | Score: 78 | Virtualine Technologies | US
 185.180.141.67       # CRITICAL | Score: 78 | ICG-1-ZEN-DFW | PT
 144.202.82.88        # CRITICAL | Score: 77 | Vultr Holdings, LLC | US
-112.87.155.120       # CRITICAL | Score: 77 | China Unicom Jiangsu province  | CN
 167.86.107.35        # CRITICAL | Score: 77 | Contabo GmbH | FR
 112.87.155.120       # CRITICAL | Score: 77 | China Unicom Jiangsu province  | CN
 167.86.107.35        # CRITICAL | Score: 77 | Contabo GmbH | FR
@@ -504,7 +503,6 @@
 
 # ── HIGH THREATS ─────────────────────────────────────
 187.110.175.205      # HIGH     | Score: 74 | EVEO S.A. | BR
-157.230.183.183      # HIGH     | Score: 74 | DigitalOcean, LLC | US
 178.20.210.151       # HIGH     | Score: 74 | Shereverov Marat Ahmedovich | DE
 207.154.211.129      # HIGH     | Score: 74 | DigitalOcean, LLC | DE
 185.242.226.18       # HIGH     | Score: 74 | HostUS Solutions LLC | US
@@ -746,6 +744,7 @@
 13.250.241.209       # HIGH     | Score: 54 | Amazon Data Services Singapore | SG
 178.16.54.193        # HIGH     | Score: 53 | OMEGATECH | NL
 3.134.93.22          # HIGH     | Score: 53 | Amazon Technologies Inc. | US
+162.142.125.210      # HIGH     | Score: 52 | Censys, Inc. | US
 167.94.146.51        # HIGH     | Score: 52 | Censys, Inc. | US
 205.210.31.177       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 167.94.138.59        # HIGH     | Score: 52 | Censys, Inc. | US
@@ -756,7 +755,6 @@
 162.142.125.204      # HIGH     | Score: 52 | Censys, Inc. | US
 20.203.71.174        # HIGH     | Score: 52 | Microsoft Corporation | AE
 91.92.243.52         # HIGH     | Score: 52 | OMEGATECH | US
-18.143.235.216       # HIGH     | Score: 52 | Amazon Data Services Singapore | SG
 167.94.138.60        # HIGH     | Score: 52 | Censys, Inc. | US
 205.210.31.20        # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 198.235.24.29        # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
