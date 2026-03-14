@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-14 16:26:55 UTC
-# Total IPs: 811
+# Updated: 2026-03-14 17:26:56 UTC
+# Total IPs: 812
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -36,6 +36,7 @@
 187.191.2.214        # CRITICAL | Score:100 | TOTAL PLAY TELECOMUNICACIONES  | MX
 3.130.168.2          # CRITICAL | Score:100 | Amazon Technologies Inc. | US
 207.166.168.14       # CRITICAL | Score:100 | BYTEPLUS | SG
+62.171.160.177       # CRITICAL | Score: 98 | Contabo GmbH | FR
 87.121.84.67         # CRITICAL | Score: 98 | Dedicated Servers and VPS Host | US
 16.58.56.214         # CRITICAL | Score: 98 | Amazon.com, Inc. | US
 3.131.220.121        # CRITICAL | Score: 98 | Amazon Technologies Inc. | US
@@ -301,6 +302,7 @@
 206.168.34.36        # CRITICAL | Score: 90 | Censys, Inc. | US
 206.168.34.63        # CRITICAL | Score: 90 | Censys, Inc. | US
 206.168.34.197       # CRITICAL | Score: 90 | Censys, Inc. | US
+66.132.153.113       # CRITICAL | Score: 89 | Censys, Inc. | US
 66.132.153.128       # CRITICAL | Score: 89 | Censys, Inc. | US
 159.223.203.97       # CRITICAL | Score: 89 | DigitalOcean, LLC | US
 66.132.153.140       # CRITICAL | Score: 89 | Censys, Inc. | US
@@ -632,7 +634,6 @@
 209.38.24.134        # HIGH     | Score: 66 | DigitalOcean, LLC | AU
 185.242.226.23       # HIGH     | Score: 66 | HostUS Solutions LLC | US
 121.173.173.48       # HIGH     | Score: 66 | Korea Telecom | KR
-34.197.70.90         # HIGH     | Score: 65 | Amazon Technologies Inc. | US
 20.118.202.145       # HIGH     | Score: 65 | Microsoft Corporation | US
 18.188.57.88         # HIGH     | Score: 65 | Amazon Technologies Inc. | US
 47.243.177.131       # HIGH     | Score: 65 | ALIBABA CLOUD - HK | HK
@@ -657,6 +658,7 @@
 130.12.180.116       # HIGH     | Score: 63 | Virtualine Technologies | US
 121.173.173.48       # HIGH     | Score: 63 | Korea Telecom | KR
 121.173.173.48       # HIGH     | Score: 63 | Korea Telecom | KR
+20.48.138.88         # HIGH     | Score: 62 | Microsoft Corporation | CA
 91.92.243.27         # HIGH     | Score: 62 | OMEGATECH | US
 130.12.180.92        # HIGH     | Score: 62 | Virtualine Technologies | US
 178.16.54.89         # HIGH     | Score: 62 | OMEGATECH | NL
@@ -665,8 +667,8 @@
 178.16.54.111        # HIGH     | Score: 62 | OMEGATECH | NL
 137.184.188.165      # HIGH     | Score: 62 | DigitalOcean, LLC | US
 137.184.188.165      # HIGH     | Score: 62 | DigitalOcean, LLC | US
+134.199.148.75       # HIGH     | Score: 61 | DigitalOcean, LLC | AU
 47.89.195.183        # HIGH     | Score: 61 | Alibaba Cloud - US | US
-48.217.64.148        # HIGH     | Score: 60 | Microsoft Limited | US
 4.227.178.208        # HIGH     | Score: 60 | Microsoft Corporation | US
 139.59.47.187        # HIGH     | Score: 60 | DigitalOcean, LLC | IN
 20.15.162.238        # HIGH     | Score: 60 | Microsoft Corporation | US
@@ -761,7 +763,6 @@
 167.94.146.59        # HIGH     | Score: 52 | Censys, Inc. | US
 162.142.125.122      # HIGH     | Score: 52 | Censys, Inc. | US
 167.94.138.190       # HIGH     | Score: 52 | Censys, Inc. | US
-162.142.125.211      # HIGH     | Score: 52 | Censys, Inc. | US
 162.142.125.219      # HIGH     | Score: 52 | Censys, Inc. | US
 167.94.146.55        # HIGH     | Score: 52 | Censys, Inc. | US
 167.94.146.63        # HIGH     | Score: 52 | Censys, Inc. | US
