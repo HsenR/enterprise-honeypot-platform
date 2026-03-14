@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-14 12:26:51 UTC
-# Total IPs: 799
+# Updated: 2026-03-14 13:26:52 UTC
+# Total IPs: 804
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -150,6 +150,7 @@
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
+66.132.153.127       # CRITICAL | Score: 94 | Censys, Inc. | US
 185.226.197.12       # CRITICAL | Score: 94 | ICG-4-ZEN-AMS | PT
 220.76.68.23         # CRITICAL | Score: 94 | Korea Telecom | KR
 82.165.66.87         # CRITICAL | Score: 94 | IONOS SE | DE
@@ -169,7 +170,6 @@
 81.168.83.103        # CRITICAL | Score: 94 | Sapphire Web Services Limited | GB
 185.224.128.251      # CRITICAL | Score: 94 | Alsycon B.V. | NL
 185.93.89.95         # CRITICAL | Score: 94 | Limited Network LTD | IR
-185.12.59.118        # CRITICAL | Score: 94 | Blix Group AS | NO
 93.174.93.12         # CRITICAL | Score: 94 | FiberXpress BV | NL
 204.76.203.73        # CRITICAL | Score: 94 | Intelligence Hosting LLC | NL
 95.215.0.144         # CRITICAL | Score: 94 | Petersburg Internet Network lt | RU
@@ -521,6 +521,7 @@
 159.89.160.76        # HIGH     | Score: 74 | DigitalOcean, LLC | IN
 139.59.44.184        # HIGH     | Score: 74 | DigitalOcean, LLC | IN
 64.23.173.115        # HIGH     | Score: 74 | DigitalOcean, LLC | US
+185.226.196.12       # HIGH     | Score: 73 | ICG-3-ZEN-LAX | PT
 45.151.139.200       # HIGH     | Score: 73 | TIME-HOST-NET | RU
 98.90.43.197         # HIGH     | Score: 73 | Amazon Data Services Northern  | US
 130.12.180.57        # HIGH     | Score: 73 | Virtualine Technologies | US
@@ -543,6 +544,7 @@
 178.16.54.134        # HIGH     | Score: 72 | OMEGATECH | NL
 130.12.180.57        # HIGH     | Score: 72 | Virtualine Technologies | US
 178.16.54.89         # HIGH     | Score: 72 | OMEGATECH | NL
+185.226.196.15       # HIGH     | Score: 71 | ICG-3-ZEN-LAX | PT
 168.144.38.249       # HIGH     | Score: 71 | DigitalOcean, LLC | SG
 87.121.84.76         # HIGH     | Score: 71 | Dedicated Servers and VPS Host | US
 167.172.51.219       # HIGH     | Score: 71 | DigitalOcean, LLC | GB
@@ -582,7 +584,6 @@
 130.12.180.92        # HIGH     | Score: 69 | Virtualine Technologies | US
 47.251.53.147        # HIGH     | Score: 68 | Alibaba Cloud - US | US
 184.32.16.105        # HIGH     | Score: 68 | Amazon.com, Inc. | US
-198.12.115.30        # HIGH     | Score: 68 | HostPapa | US
 130.12.180.57        # HIGH     | Score: 68 | Virtualine Technologies | US
 130.12.180.92        # HIGH     | Score: 68 | Virtualine Technologies | US
 130.12.180.92        # HIGH     | Score: 68 | Virtualine Technologies | US
@@ -604,6 +605,7 @@
 130.12.180.116       # HIGH     | Score: 67 | Virtualine Technologies | US
 130.12.180.116       # HIGH     | Score: 67 | Virtualine Technologies | US
 167.172.55.154       # HIGH     | Score: 67 | DigitalOcean, LLC | GB
+121.173.173.48       # HIGH     | Score: 66 | Korea Telecom | KR
 185.242.226.23       # HIGH     | Score: 66 | HostUS Solutions LLC | US
 209.38.24.134        # HIGH     | Score: 66 | DigitalOcean, LLC | AU
 116.99.174.155       # HIGH     | Score: 66 | Viettel Group | VN
@@ -637,6 +639,7 @@
 20.118.202.145       # HIGH     | Score: 65 | Microsoft Corporation | US
 206.189.129.245      # HIGH     | Score: 65 | DigitalOcean, LLC | IN
 44.215.219.236       # HIGH     | Score: 65 | Amazon Data Services Northern  | US
+18.221.18.194        # HIGH     | Score: 64 | Amazon Technologies Inc. | US
 185.242.226.39       # HIGH     | Score: 64 | HostUS Solutions LLC | US
 194.180.48.63        # HIGH     | Score: 64 | Neterra Ltd. | DE
 178.16.54.111        # HIGH     | Score: 64 | OMEGATECH | NL
@@ -751,6 +754,8 @@
 13.250.241.209       # HIGH     | Score: 54 | Amazon Data Services Singapore | SG
 178.16.54.193        # HIGH     | Score: 53 | OMEGATECH | NL
 3.134.93.22          # HIGH     | Score: 53 | Amazon Technologies Inc. | US
+167.94.138.44        # HIGH     | Score: 52 | Censys, Inc. | US
+18.143.235.216       # HIGH     | Score: 52 | Amazon Data Services Singapore | SG
 167.99.194.237       # HIGH     | Score: 52 | DigitalOcean, LLC | GB
 162.142.125.210      # HIGH     | Score: 52 | Censys, Inc. | US
 167.94.146.51        # HIGH     | Score: 52 | Censys, Inc. | US
