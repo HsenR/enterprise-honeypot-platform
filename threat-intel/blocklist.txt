@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-14 07:26:45 UTC
+# Updated: 2026-03-14 08:26:46 UTC
 # Total IPs: 794
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -148,6 +148,7 @@
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
+5.61.209.96          # CRITICAL | Score: 94 | Amarutu Technology Ltd | SC
 93.174.93.12         # CRITICAL | Score: 94 | FiberXpress BV | NL
 74.82.47.5           # CRITICAL | Score: 94 | The Shadowserver Foundation, I | US
 45.156.129.77        # CRITICAL | Score: 94 | INAP-CHI-1 | PT
@@ -267,6 +268,7 @@
 18.218.118.203       # CRITICAL | Score: 91 | Amazon Technologies Inc. | US
 149.86.227.60        # CRITICAL | Score: 91 | MEVSPACE sp. z o.o. | PL
 167.99.33.127        # CRITICAL | Score: 91 | DigitalOcean, LLC | NL
+206.168.34.63        # CRITICAL | Score: 90 | Censys, Inc. | US
 206.168.34.57        # CRITICAL | Score: 90 | Censys, Inc. | US
 206.168.34.36        # CRITICAL | Score: 90 | Censys, Inc. | US
 206.168.34.43        # CRITICAL | Score: 90 | Censys, Inc. | US
@@ -291,6 +293,7 @@
 206.168.34.63        # CRITICAL | Score: 90 | Censys, Inc. | US
 206.168.34.210       # CRITICAL | Score: 90 | Censys, Inc. | US
 206.168.34.43        # CRITICAL | Score: 90 | Censys, Inc. | US
+45.156.129.66        # CRITICAL | Score: 89 | INAP-CHI-1 | PT
 66.132.153.128       # CRITICAL | Score: 89 | Censys, Inc. | US
 66.132.153.131       # CRITICAL | Score: 89 | Censys, Inc. | US
 45.156.128.45        # CRITICAL | Score: 89 | INAP-AMS-1 | PT
@@ -473,7 +476,6 @@
 91.92.243.197        # CRITICAL | Score: 76 | OMEGATECH | US
 130.12.180.101       # CRITICAL | Score: 76 | Virtualine Technologies | US
 91.92.243.27         # CRITICAL | Score: 76 | OMEGATECH | US
-100.50.17.159        # CRITICAL | Score: 76 | Amazon Data Services Northern  | US
 48.216.244.43        # CRITICAL | Score: 76 | Microsoft Limited | US
 3.132.26.232         # CRITICAL | Score: 76 | Amazon Technologies Inc. | US
 3.132.26.232         # CRITICAL | Score: 76 | Amazon Technologies Inc. | US
@@ -643,7 +645,6 @@
 121.173.173.48       # HIGH     | Score: 64 | Korea Telecom | KR
 178.16.54.111        # HIGH     | Score: 64 | OMEGATECH | NL
 194.180.48.63        # HIGH     | Score: 64 | Neterra Ltd. | DE
-100.28.191.174       # HIGH     | Score: 63 | Amazon Data Services Northern  | US
 130.12.180.57        # HIGH     | Score: 63 | Virtualine Technologies | US
 130.12.180.116       # HIGH     | Score: 63 | Virtualine Technologies | US
 121.173.173.48       # HIGH     | Score: 63 | Korea Telecom | KR
@@ -659,13 +660,11 @@
 47.89.195.183        # HIGH     | Score: 61 | Alibaba Cloud - US | US
 20.15.162.238        # HIGH     | Score: 60 | Microsoft Corporation | US
 20.118.32.242        # HIGH     | Score: 60 | Microsoft Corporation | US
-20.65.193.199        # HIGH     | Score: 60 | Microsoft Corporation | US
 48.217.64.148        # HIGH     | Score: 60 | Microsoft Limited | US
 4.227.178.208        # HIGH     | Score: 60 | Microsoft Corporation | US
 139.59.47.187        # HIGH     | Score: 60 | DigitalOcean, LLC | IN
 34.66.133.48         # HIGH     | Score: 59 | Google LLC | US
 64.227.155.10        # HIGH     | Score: 59 | DigitalOcean, LLC | IN
-130.131.161.76       # HIGH     | Score: 59 | Microsoft Limited | US
 14.225.2.67          # HIGH     | Score: 59 | Vietnam Posts and Telecommunic | VN
 146.70.160.220       # HIGH     | Score: 59 | M247 LTD Frankfurt Infrastruct | DE
 91.239.157.185       # HIGH     | Score: 59 | Clouvider Limited | DE
@@ -685,6 +684,7 @@
 159.223.216.117      # HIGH     | Score: 58 | DigitalOcean, LLC | NL
 85.204.70.92         # HIGH     | Score: 58 | Hydra Communications Ltd | FR
 18.133.199.181       # HIGH     | Score: 58 | Amazon Data Services UK | GB
+139.59.182.237       # HIGH     | Score: 57 | DigitalOcean, LLC | GB
 20.15.225.33         # HIGH     | Score: 57 | Microsoft Corporation | US
 188.166.127.204      # HIGH     | Score: 57 | Digital Ocean, Inc. | NL
 82.102.18.220        # HIGH     | Score: 57 | M247 LTD Paris Infrastructure | FR
