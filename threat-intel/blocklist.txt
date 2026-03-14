@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-14 00:27:05 UTC
-# Total IPs: 764
+# Updated: 2026-03-14 01:27:06 UTC
+# Total IPs: 761
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -35,7 +35,6 @@
 94.26.106.200        # CRITICAL | Score:100 | Telco power Ltd | DE
 192.109.200.219      # CRITICAL | Score:100 | Telco power Ltd | SE
 207.166.168.14       # CRITICAL | Score:100 | BYTEPLUS | SG
-89.42.231.182        # CRITICAL | Score: 98 | Amarutu Technology Ltd | NL
 16.58.56.214         # CRITICAL | Score: 98 | Amazon.com, Inc. | US
 3.131.220.121        # CRITICAL | Score: 98 | Amazon Technologies Inc. | US
 176.65.139.44        # CRITICAL | Score: 98 | Storm Industries | DE
@@ -193,6 +192,7 @@
 167.71.66.127        # CRITICAL | Score: 93 | DigitalOcean, LLC | NL
 130.12.180.19        # CRITICAL | Score: 93 | Virtualine Technologies | US
 3.151.241.153        # CRITICAL | Score: 93 | Amazon Technologies Inc. | US
+45.156.129.96        # CRITICAL | Score: 92 | INAP-CHI-1 | PT
 193.142.146.230      # CRITICAL | Score: 92 | ColocaTel Datacenter | DE
 66.240.192.138       # CRITICAL | Score: 92 | CariNet, Inc. | US
 49.88.156.34         # CRITICAL | Score: 92 | CHINANET jiangsu province netw | CN
@@ -326,6 +326,7 @@
 3.151.241.153        # CRITICAL | Score: 88 | Amazon Technologies Inc. | US
 130.12.180.71        # CRITICAL | Score: 88 | Virtualine Technologies | US
 185.255.131.32       # CRITICAL | Score: 88 | Contabo GmbH | FR
+89.248.163.200       # CRITICAL | Score: 87 | RECYBER PROJECT NETBLOCK | NL
 185.177.72.46        # CRITICAL | Score: 87 | FBW NETWORKS SAS | FR
 143.198.73.240       # CRITICAL | Score: 87 | DigitalOcean, LLC | US
 20.84.153.185        # CRITICAL | Score: 87 | Microsoft Corporation | US
@@ -369,7 +370,6 @@
 3.134.216.108        # CRITICAL | Score: 85 | Amazon Technologies Inc. | US
 81.29.142.50         # CRITICAL | Score: 84 | Data-center IMAQLIQ Ltd. | RU
 64.227.106.112       # CRITICAL | Score: 84 | DigitalOcean, LLC | US
-66.132.153.143       # CRITICAL | Score: 84 | Censys, Inc. | US
 51.38.90.52          # CRITICAL | Score: 84 | GalaxyShell Internet Teknolojl | FR
 141.98.11.230        # CRITICAL | Score: 84 | UAB Host Baltic | LT
 47.251.13.59         # CRITICAL | Score: 84 | Alibaba Cloud - US | US
@@ -652,7 +652,6 @@
 85.204.70.92         # HIGH     | Score: 58 | Hydra Communications Ltd | FR
 18.133.199.181       # HIGH     | Score: 58 | Amazon Data Services UK | GB
 20.65.193.198        # HIGH     | Score: 57 | Microsoft Corporation | US
-20.65.193.198        # HIGH     | Score: 57 | Microsoft Corporation | US
 40.124.173.2         # HIGH     | Score: 57 | Microsoft Corporation | US
 4.240.39.201         # HIGH     | Score: 57 | Microsoft Corporation | IN
 157.245.243.118      # HIGH     | Score: 57 | DigitalOcean, LLC | US
@@ -713,7 +712,6 @@
 87.106.3.40          # HIGH     | Score: 53 | IONOS SE | FR
 8.222.153.157        # HIGH     | Score: 53 | Alibaba Cloud (Singapore) Priv | SG
 3.134.93.22          # HIGH     | Score: 53 | Amazon Technologies Inc. | US
-162.142.125.124      # HIGH     | Score: 52 | Censys, Inc. | US
 162.142.125.218      # HIGH     | Score: 52 | Censys, Inc. | US
 205.210.31.67        # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 167.94.146.59        # HIGH     | Score: 52 | Censys, Inc. | US
@@ -757,7 +755,6 @@
 198.235.24.252       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 162.142.125.204      # HIGH     | Score: 52 | Censys, Inc. | US
 20.203.71.174        # HIGH     | Score: 52 | Microsoft Corporation | AE
-18.221.132.46        # HIGH     | Score: 51 | Amazon Technologies Inc. | US
 18.221.132.46        # HIGH     | Score: 51 | Amazon Technologies Inc. | US
 44.246.78.181        # HIGH     | Score: 51 | Amazon.com, Inc. | US
 44.246.78.181        # HIGH     | Score: 51 | Amazon.com, Inc. | US
