@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-14 22:27:01 UTC
-# Total IPs: 808
+# Updated: 2026-03-14 23:27:02 UTC
+# Total IPs: 811
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -37,7 +37,6 @@
 3.130.168.2          # CRITICAL | Score:100 | Amazon Technologies Inc. | US
 207.166.168.14       # CRITICAL | Score:100 | BYTEPLUS | SG
 62.171.160.177       # CRITICAL | Score: 98 | Contabo GmbH | FR
-87.121.84.67         # CRITICAL | Score: 98 | Dedicated Servers and VPS Host | US
 16.58.56.214         # CRITICAL | Score: 98 | Amazon.com, Inc. | US
 3.131.220.121        # CRITICAL | Score: 98 | Amazon Technologies Inc. | US
 167.172.43.192       # CRITICAL | Score: 98 | DigitalOcean, LLC | NL
@@ -152,6 +151,7 @@
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
+80.82.70.133         # CRITICAL | Score: 94 | FiberXpress BV | NL
 176.65.149.235       # CRITICAL | Score: 94 | Pfcloud UG | NL
 60.191.125.35        # CRITICAL | Score: 94 | Hangzhou Shentong Investment C | CN
 95.215.0.144         # CRITICAL | Score: 94 | Petersburg Internet Network lt | RU
@@ -213,6 +213,7 @@
 3.151.241.153        # CRITICAL | Score: 93 | Amazon Technologies Inc. | US
 3.151.241.153        # CRITICAL | Score: 93 | Amazon Technologies Inc. | US
 176.65.132.45        # CRITICAL | Score: 93 | VMHeaven.io | DE
+80.82.77.202         # CRITICAL | Score: 92 | FiberXpress BV | NL
 49.88.156.34         # CRITICAL | Score: 92 | CHINANET jiangsu province netw | CN
 204.76.203.18        # CRITICAL | Score: 92 | Intelligence Hosting LLC | NL
 193.142.146.230      # CRITICAL | Score: 92 | ColocaTel Datacenter | DE
@@ -592,6 +593,7 @@
 130.12.180.116       # HIGH     | Score: 68 | Virtualine Technologies | US
 184.32.16.105        # HIGH     | Score: 68 | Amazon.com, Inc. | US
 47.251.53.147        # HIGH     | Score: 68 | Alibaba Cloud - US | US
+178.20.210.151       # HIGH     | Score: 67 | Shereverov Marat Ahmedovich | DE
 45.142.154.98        # HIGH     | Score: 67 | HDTIDC LIMITED | HK
 89.117.104.6         # HIGH     | Score: 67 | SC Lithuanian Radio and TV Cen | DE
 185.104.184.196      # HIGH     | Score: 67 | M247 LTD Frankfurt Infrastruct | DE
@@ -635,6 +637,7 @@
 44.215.219.236       # HIGH     | Score: 65 | Amazon Data Services Northern  | US
 206.189.190.47       # HIGH     | Score: 65 | DigitalOcean, LLC | US
 188.166.164.48       # HIGH     | Score: 65 | DigitalOcean, LLC | DE
+185.242.226.70       # HIGH     | Score: 64 | HostUS Solutions LLC | US
 194.180.48.63        # HIGH     | Score: 64 | Neterra Ltd. | DE
 185.242.226.18       # HIGH     | Score: 64 | HostUS Solutions LLC | US
 130.12.180.116       # HIGH     | Score: 64 | Virtualine Technologies | US
@@ -662,6 +665,7 @@
 137.184.188.165      # HIGH     | Score: 62 | DigitalOcean, LLC | US
 134.199.148.75       # HIGH     | Score: 61 | DigitalOcean, LLC | AU
 47.89.195.183        # HIGH     | Score: 61 | Alibaba Cloud - US | US
+159.65.89.9          # HIGH     | Score: 60 | DigitalOcean, LLC | GB
 4.227.178.208        # HIGH     | Score: 60 | Microsoft Corporation | US
 139.59.47.187        # HIGH     | Score: 60 | DigitalOcean, LLC | IN
 20.15.162.238        # HIGH     | Score: 60 | Microsoft Corporation | US
@@ -761,7 +765,6 @@
 167.94.146.59        # HIGH     | Score: 52 | Censys, Inc. | US
 162.142.125.122      # HIGH     | Score: 52 | Censys, Inc. | US
 167.94.138.190       # HIGH     | Score: 52 | Censys, Inc. | US
-167.94.146.55        # HIGH     | Score: 52 | Censys, Inc. | US
 167.94.146.63        # HIGH     | Score: 52 | Censys, Inc. | US
 18.143.235.216       # HIGH     | Score: 52 | Amazon Data Services Singapore | SG
 167.94.138.60        # HIGH     | Score: 52 | Censys, Inc. | US
