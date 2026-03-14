@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-14 15:26:54 UTC
-# Total IPs: 812
+# Updated: 2026-03-14 16:26:55 UTC
+# Total IPs: 811
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -278,8 +278,6 @@
 193.29.13.164        # CRITICAL | Score: 91 | Bunea TELECOM SRL | RO
 46.151.182.190       # CRITICAL | Score: 91 | DEMENIN B.V. | NL
 206.168.34.116       # CRITICAL | Score: 90 | Censys, Inc. | US
-78.128.114.38        # CRITICAL | Score: 90 | Tamatiya EOOD | BG
-199.45.155.90        # CRITICAL | Score: 90 | Censys, Inc. | US
 199.45.155.102       # CRITICAL | Score: 90 | Censys, Inc. | US
 71.6.135.131         # CRITICAL | Score: 90 | CariNet, Inc. | US
 199.45.155.102       # CRITICAL | Score: 90 | Censys, Inc. | US
@@ -350,7 +348,6 @@
 130.12.180.71        # CRITICAL | Score: 88 | Virtualine Technologies | US
 103.199.16.79        # CRITICAL | Score: 88 | GREENCLOUD LIMITED LIABILITY C | VN
 134.122.93.145       # CRITICAL | Score: 88 | DigitalOcean, LLC | DE
-20.84.153.185        # CRITICAL | Score: 87 | Microsoft Corporation | US
 152.32.132.189       # CRITICAL | Score: 87 | UCLOUD INFORMATION TECHNOLOGY  | HK
 152.32.132.189       # CRITICAL | Score: 87 | UCLOUD INFORMATION TECHNOLOGY  | HK
 152.32.132.189       # CRITICAL | Score: 87 | UCLOUD INFORMATION TECHNOLOGY  | HK
@@ -483,7 +480,6 @@
 45.156.128.152       # CRITICAL | Score: 77 | INAP-AMS-1 | PT
 144.202.82.88        # CRITICAL | Score: 77 | Vultr Holdings, LLC | US
 144.202.82.88        # CRITICAL | Score: 77 | Vultr Holdings, LLC | US
-48.216.244.43        # CRITICAL | Score: 76 | Microsoft Limited | US
 3.132.26.232         # CRITICAL | Score: 76 | Amazon Technologies Inc. | US
 3.132.26.232         # CRITICAL | Score: 76 | Amazon Technologies Inc. | US
 104.248.198.91       # CRITICAL | Score: 76 | DigitalOcean, LLC | NL
@@ -513,6 +509,7 @@
 20.64.104.27         # CRITICAL | Score: 75 | Microsoft Corporation | US
 
 # ── HIGH THREATS ─────────────────────────────────────
+100.28.153.226       # HIGH     | Score: 74 | Amazon Data Services Northern  | US
 178.20.210.151       # HIGH     | Score: 74 | Shereverov Marat Ahmedovich | DE
 207.154.211.129      # HIGH     | Score: 74 | DigitalOcean, LLC | DE
 185.242.226.18       # HIGH     | Score: 74 | HostUS Solutions LLC | US
@@ -760,9 +757,10 @@
 40.124.174.247       # HIGH     | Score: 54 | Microsoft Corporation | US
 3.134.93.22          # HIGH     | Score: 53 | Amazon Technologies Inc. | US
 178.16.54.193        # HIGH     | Score: 53 | OMEGATECH | NL
+162.142.125.202      # HIGH     | Score: 52 | Censys, Inc. | US
+167.94.146.59        # HIGH     | Score: 52 | Censys, Inc. | US
 162.142.125.122      # HIGH     | Score: 52 | Censys, Inc. | US
 167.94.138.190       # HIGH     | Score: 52 | Censys, Inc. | US
-198.235.24.29        # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 162.142.125.211      # HIGH     | Score: 52 | Censys, Inc. | US
 162.142.125.219      # HIGH     | Score: 52 | Censys, Inc. | US
 167.94.146.55        # HIGH     | Score: 52 | Censys, Inc. | US
@@ -815,6 +813,7 @@
 91.92.243.154        # HIGH     | Score: 51 | OMEGATECH | US
 178.16.54.247        # HIGH     | Score: 51 | OMEGATECH | NL
 178.16.54.123        # HIGH     | Score: 51 | OMEGATECH | NL
+147.185.132.111      # HIGH     | Score: 50 | Palo Alto Networks, Inc | US
 167.94.138.36        # HIGH     | Score: 50 | Censys, Inc. | US
 162.142.125.221      # HIGH     | Score: 50 | Censys, Inc. | US
 167.94.146.53        # HIGH     | Score: 50 | Censys, Inc. | US
