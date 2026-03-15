@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-15 20:26:56 UTC
+# Updated: 2026-03-15 21:26:57 UTC
 # Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -164,6 +164,7 @@
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
+66.132.153.135       # CRITICAL | Score: 94 | Censys, Inc. | US
 185.12.59.118        # CRITICAL | Score: 94 | Blix Group AS | NO
 204.76.203.73        # CRITICAL | Score: 94 | Intelligence Hosting LLC | NL
 152.32.159.180       # CRITICAL | Score: 94 | UCLOUD INFORMATION TECHNOLOGY  | IN
@@ -485,6 +486,7 @@
 130.12.180.37        # CRITICAL | Score: 85 | Virtualine Technologies | US
 130.12.180.77        # CRITICAL | Score: 85 | Virtualine Technologies | US
 20.163.27.102        # CRITICAL | Score: 85 | Microsoft Corporation | US
+191.232.182.106      # CRITICAL | Score: 84 | Microsoft do Brasil Imp. e Com | BR
 64.227.106.112       # CRITICAL | Score: 84 | DigitalOcean, LLC | US
 81.29.142.50         # CRITICAL | Score: 84 | Data-center IMAQLIQ Ltd. | RU
 64.227.106.112       # CRITICAL | Score: 84 | DigitalOcean, LLC | US
@@ -634,6 +636,7 @@
 100.28.153.226       # HIGH     | Score: 74 | Amazon Data Services Northern  | US
 143.198.190.148      # HIGH     | Score: 74 | DigitalOcean, LLC | US
 178.62.208.162       # HIGH     | Score: 74 | DigitalOcean Amsterdam | NL
+45.151.139.200       # HIGH     | Score: 73 | TIME-HOST-NET | RU
 178.20.208.185       # HIGH     | Score: 73 | NetCrafters OU | RU
 130.12.180.82        # HIGH     | Score: 73 | Virtualine Technologies | US
 130.12.180.57        # HIGH     | Score: 73 | Virtualine Technologies | US
@@ -663,7 +666,6 @@
 20.64.104.5          # HIGH     | Score: 72 | Microsoft Corporation | US
 185.247.137.63       # HIGH     | Score: 72 | Driftnet Ltd | GB
 40.124.175.131       # HIGH     | Score: 72 | Microsoft Corporation | US
-104.248.198.91       # HIGH     | Score: 71 | DigitalOcean, LLC | NL
 178.16.54.35         # HIGH     | Score: 71 | OMEGATECH | NL
 91.92.243.27         # HIGH     | Score: 71 | OMEGATECH | US
 91.92.243.27         # HIGH     | Score: 71 | OMEGATECH | US
@@ -1015,5 +1017,3 @@
 162.142.125.213      # HIGH     | Score: 50 | Censys, Inc. | US
 167.94.138.115       # HIGH     | Score: 50 | Censys, Inc. | US
 162.142.125.115      # HIGH     | Score: 50 | Censys, Inc. | US
-167.94.146.52        # HIGH     | Score: 50 | Censys, Inc. | US
-167.94.138.52        # HIGH     | Score: 50 | Censys, Inc. | US
