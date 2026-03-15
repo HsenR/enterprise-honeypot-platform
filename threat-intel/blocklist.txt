@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-15 21:26:57 UTC
+# Updated: 2026-03-15 22:26:59 UTC
 # Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -102,6 +102,7 @@
 117.164.191.217      # CRITICAL | Score: 98 | China Mobile Communications Co | CN
 45.156.87.91         # CRITICAL | Score: 98 | VMHeaven.io | NL
 87.121.84.67         # CRITICAL | Score: 98 | Dedicated Servers and VPS Host | US
+45.153.34.213        # CRITICAL | Score: 96 | VMHeaven.io | NL
 185.180.141.43       # CRITICAL | Score: 96 | ICG-1-ZEN-DFW | PT
 130.12.180.55        # CRITICAL | Score: 96 | Virtualine Technologies | US
 130.12.180.80        # CRITICAL | Score: 96 | Virtualine Technologies | US
@@ -338,7 +339,6 @@
 206.168.34.34        # CRITICAL | Score: 90 | Censys, Inc. | US
 206.168.34.45        # CRITICAL | Score: 90 | Censys, Inc. | US
 206.168.34.221       # CRITICAL | Score: 90 | Censys, Inc. | US
-206.168.34.112       # CRITICAL | Score: 90 | Censys, Inc. | US
 130.12.180.49        # CRITICAL | Score: 90 | Virtualine Technologies | US
 130.12.180.49        # CRITICAL | Score: 90 | Virtualine Technologies | US
 130.12.180.74        # CRITICAL | Score: 90 | Virtualine Technologies | US
@@ -486,6 +486,7 @@
 130.12.180.37        # CRITICAL | Score: 85 | Virtualine Technologies | US
 130.12.180.77        # CRITICAL | Score: 85 | Virtualine Technologies | US
 20.163.27.102        # CRITICAL | Score: 85 | Microsoft Corporation | US
+185.242.226.3        # CRITICAL | Score: 84 | HostUS Solutions LLC | US
 191.232.182.106      # CRITICAL | Score: 84 | Microsoft do Brasil Imp. e Com | BR
 64.227.106.112       # CRITICAL | Score: 84 | DigitalOcean, LLC | US
 81.29.142.50         # CRITICAL | Score: 84 | Data-center IMAQLIQ Ltd. | RU
@@ -512,6 +513,7 @@
 178.16.54.35         # CRITICAL | Score: 82 | OMEGATECH | NL
 178.16.54.134        # CRITICAL | Score: 82 | OMEGATECH | NL
 47.251.85.121        # CRITICAL | Score: 82 | Alibaba Cloud - US | US
+143.110.223.17       # CRITICAL | Score: 81 | DigitalOcean, LLC | CA
 130.12.180.89        # CRITICAL | Score: 81 | Virtualine Technologies | US
 3.143.162.210        # CRITICAL | Score: 81 | Amazon Technologies Inc. | US
 130.12.180.89        # CRITICAL | Score: 81 | Virtualine Technologies | US
@@ -695,6 +697,7 @@
 20.163.15.141        # HIGH     | Score: 70 | Microsoft Corporation | US
 40.124.176.81        # HIGH     | Score: 70 | Microsoft Corporation | US
 18.189.74.1          # HIGH     | Score: 70 | Amazon Technologies Inc. | US
+185.242.226.14       # HIGH     | Score: 69 | HostUS Solutions LLC | US
 130.12.180.82        # HIGH     | Score: 69 | Virtualine Technologies | US
 159.89.160.76        # HIGH     | Score: 69 | DigitalOcean, LLC | IN
 163.7.12.49          # HIGH     | Score: 69 | BYTEPLUS | ID
@@ -844,6 +847,7 @@
 178.16.54.170        # HIGH     | Score: 58 | OMEGATECH | NL
 18.133.199.181       # HIGH     | Score: 58 | Amazon Data Services UK | GB
 35.167.108.113       # HIGH     | Score: 58 | Amazon.com, Inc. | US
+20.84.153.206        # HIGH     | Score: 57 | Microsoft Corporation | US
 82.102.18.220        # HIGH     | Score: 57 | M247 LTD Paris Infrastructure | FR
 64.23.173.227        # HIGH     | Score: 57 | DigitalOcean, LLC | US
 82.102.18.220        # HIGH     | Score: 57 | M247 LTD Paris Infrastructure | FR
@@ -915,6 +919,8 @@
 178.16.54.247        # HIGH     | Score: 53 | OMEGATECH | NL
 178.16.54.123        # HIGH     | Score: 53 | OMEGATECH | NL
 91.92.243.154        # HIGH     | Score: 53 | OMEGATECH | US
+162.142.125.123      # HIGH     | Score: 52 | Censys, Inc. | US
+198.235.24.12        # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 205.210.31.99        # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 167.94.146.63        # HIGH     | Score: 52 | Censys, Inc. | US
 162.142.125.216      # HIGH     | Score: 52 | Censys, Inc. | US
@@ -1011,9 +1017,3 @@
 162.142.125.115      # HIGH     | Score: 50 | Censys, Inc. | US
 147.185.132.111      # HIGH     | Score: 50 | Palo Alto Networks, Inc | US
 167.94.138.115       # HIGH     | Score: 50 | Censys, Inc. | US
-162.142.125.213      # HIGH     | Score: 50 | Censys, Inc. | US
-164.92.180.114       # HIGH     | Score: 50 | DigitalOcean, LLC | DE
-167.94.138.41        # HIGH     | Score: 50 | Censys, Inc. | US
-162.142.125.213      # HIGH     | Score: 50 | Censys, Inc. | US
-167.94.138.115       # HIGH     | Score: 50 | Censys, Inc. | US
-162.142.125.115      # HIGH     | Score: 50 | Censys, Inc. | US
