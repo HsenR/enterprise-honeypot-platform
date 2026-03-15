@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-15 05:26:41 UTC
-# Total IPs: 926
+# Updated: 2026-03-15 06:26:42 UTC
+# Total IPs: 939
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -40,6 +40,7 @@
 207.166.168.14       # CRITICAL | Score:100 | BYTEPLUS | SG
 176.120.22.240       # CRITICAL | Score:100 | Proton66 OOO | RU
 187.191.2.214        # CRITICAL | Score:100 | TOTAL PLAY TELECOMUNICACIONES  | MX
+87.121.84.67         # CRITICAL | Score: 98 | Dedicated Servers and VPS Host | US
 45.156.87.91         # CRITICAL | Score: 98 | VMHeaven.io | NL
 183.56.233.121       # CRITICAL | Score: 98 | CHINANET Guangdong province ne | CN
 16.58.56.214         # CRITICAL | Score: 98 | Amazon.com, Inc. | US
@@ -103,6 +104,7 @@
 117.164.191.217      # CRITICAL | Score: 98 | China Mobile Communications Co | CN
 183.56.233.121       # CRITICAL | Score: 98 | CHINANET Guangdong province ne | CN
 62.171.160.177       # CRITICAL | Score: 98 | Contabo GmbH | FR
+185.142.236.41       # CRITICAL | Score: 96 | Black.HOST CLOUD Network | SC
 185.226.197.15       # CRITICAL | Score: 96 | ICG-4-ZEN-AMS | PT
 3.129.187.38         # CRITICAL | Score: 96 | Amazon Technologies Inc. | US
 130.12.180.72        # CRITICAL | Score: 96 | Virtualine Technologies | US
@@ -290,6 +292,7 @@
 204.76.203.30        # CRITICAL | Score: 92 | Intelligence Hosting LLC | NL
 45.142.193.221       # CRITICAL | Score: 92 | Limited Network LTD | RO
 80.82.77.202         # CRITICAL | Score: 92 | FiberXpress BV | NL
+179.43.143.146       # CRITICAL | Score: 91 | PRIVATE LAYER INC | CH
 102.22.20.125        # CRITICAL | Score: 91 | Dimension Data Ltd | GH
 143.198.76.96        # CRITICAL | Score: 91 | DigitalOcean, LLC | US
 149.86.227.60        # CRITICAL | Score: 91 | MEVSPACE sp. z o.o. | PL
@@ -313,6 +316,9 @@
 149.86.227.60        # CRITICAL | Score: 91 | MEVSPACE sp. z o.o. | PL
 193.29.13.164        # CRITICAL | Score: 91 | Bunea TELECOM SRL | RO
 46.151.182.190       # CRITICAL | Score: 91 | DEMENIN B.V. | NL
+206.168.34.115       # CRITICAL | Score: 90 | Censys, Inc. | US
+206.168.34.217       # CRITICAL | Score: 90 | Censys, Inc. | US
+206.168.34.223       # CRITICAL | Score: 90 | Censys, Inc. | US
 206.168.34.123       # CRITICAL | Score: 90 | Censys, Inc. | US
 78.128.114.38        # CRITICAL | Score: 90 | Tamatiya EOOD | BG
 206.168.34.116       # CRITICAL | Score: 90 | Censys, Inc. | US
@@ -540,6 +546,7 @@
 45.156.128.152       # CRITICAL | Score: 77 | INAP-AMS-1 | PT
 144.202.82.88        # CRITICAL | Score: 77 | Vultr Holdings, LLC | US
 144.202.82.88        # CRITICAL | Score: 77 | Vultr Holdings, LLC | US
+167.86.88.201        # CRITICAL | Score: 76 | Contabo GmbH | DE
 3.132.26.232         # CRITICAL | Score: 76 | Amazon Technologies Inc. | US
 104.248.198.91       # CRITICAL | Score: 76 | DigitalOcean, LLC | NL
 91.92.243.27         # CRITICAL | Score: 76 | OMEGATECH | US
@@ -611,6 +618,7 @@
 178.16.54.89         # HIGH     | Score: 72 | OMEGATECH | NL
 178.16.54.89         # HIGH     | Score: 72 | OMEGATECH | NL
 20.64.104.5          # HIGH     | Score: 72 | Microsoft Corporation | US
+35.222.200.228       # HIGH     | Score: 71 | Google LLC | US
 87.121.84.76         # HIGH     | Score: 71 | Dedicated Servers and VPS Host | US
 185.226.196.15       # HIGH     | Score: 71 | ICG-3-ZEN-LAX | PT
 138.199.19.180       # HIGH     | Score: 71 | Datacamp Limited | DE
@@ -684,7 +692,6 @@
 74.208.218.198       # HIGH     | Score: 66 | IONOS Inc. | US
 178.16.54.111        # HIGH     | Score: 66 | OMEGATECH | NL
 134.199.148.75       # HIGH     | Score: 66 | DigitalOcean, LLC | AU
-143.244.57.120       # HIGH     | Score: 66 | Datacamp Limited | FR
 156.146.33.76        # HIGH     | Score: 66 | Datacamp Limited | DE
 178.62.211.204       # HIGH     | Score: 66 | DigitalOcean Amsterdam | NL
 143.244.57.120       # HIGH     | Score: 66 | Datacamp Limited | FR
@@ -712,6 +719,7 @@
 44.215.219.236       # HIGH     | Score: 65 | Amazon Data Services Northern  | US
 206.189.190.47       # HIGH     | Score: 65 | DigitalOcean, LLC | US
 188.166.164.48       # HIGH     | Score: 65 | DigitalOcean, LLC | DE
+185.242.226.39       # HIGH     | Score: 64 | HostUS Solutions LLC | US
 185.242.226.70       # HIGH     | Score: 64 | HostUS Solutions LLC | US
 194.180.48.63        # HIGH     | Score: 64 | Neterra Ltd. | DE
 18.221.18.194        # HIGH     | Score: 64 | Amazon Technologies Inc. | US
@@ -745,12 +753,14 @@
 176.65.140.207       # HIGH     | Score: 61 | PapilioHost-DE | AU
 47.89.195.183        # HIGH     | Score: 61 | Alibaba Cloud - US | US
 134.199.148.75       # HIGH     | Score: 61 | DigitalOcean, LLC | AU
+20.64.104.155        # HIGH     | Score: 60 | Microsoft Corporation | US
 159.65.89.9          # HIGH     | Score: 60 | DigitalOcean, LLC | GB
 4.227.178.208        # HIGH     | Score: 60 | Microsoft Corporation | US
 139.59.47.187        # HIGH     | Score: 60 | DigitalOcean, LLC | IN
 20.15.162.238        # HIGH     | Score: 60 | Microsoft Corporation | US
 20.118.32.242        # HIGH     | Score: 60 | Microsoft Corporation | US
 159.65.89.9          # HIGH     | Score: 60 | DigitalOcean, LLC | GB
+40.74.212.73         # HIGH     | Score: 59 | Microsoft Corporation | US
 93.77.177.126        # HIGH     | Score: 59 | Yandex.Cloud LLC | RU
 92.4.93.72           # HIGH     | Score: 59 | Oracle Svenska AB | IN
 54.67.74.238         # HIGH     | Score: 59 | Amazon Technologies Inc. | US
@@ -855,6 +865,9 @@
 178.16.54.123        # HIGH     | Score: 53 | OMEGATECH | NL
 3.134.93.22          # HIGH     | Score: 53 | Amazon Technologies Inc. | US
 178.16.54.193        # HIGH     | Score: 53 | OMEGATECH | NL
+198.235.24.145       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
+167.94.146.49        # HIGH     | Score: 52 | Censys, Inc. | US
+205.210.31.199       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 162.142.125.192      # HIGH     | Score: 52 | Censys, Inc. | US
 167.94.138.190       # HIGH     | Score: 52 | Censys, Inc. | US
 162.142.125.118      # HIGH     | Score: 52 | Censys, Inc. | US
