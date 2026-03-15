@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-15 14:26:50 UTC
-# Total IPs: 987
+# Updated: 2026-03-15 15:26:51 UTC
+# Total IPs: 989
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -15,7 +15,6 @@
 #
 
 # ── CRITICAL THREATS ─────────────────────────────────
-103.215.201.34       # CRITICAL | Score:100 | A2j Data Services Pvt. Ltd. | IN
 45.91.64.7           # CRITICAL | Score:100 | F6 | RU
 103.215.201.34       # CRITICAL | Score:100 | A2j Data Services Pvt. Ltd. | IN
 45.91.64.7           # CRITICAL | Score:100 | F6 | RU
@@ -164,6 +163,7 @@
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
+204.76.203.73        # CRITICAL | Score: 94 | Intelligence Hosting LLC | NL
 152.32.159.180       # CRITICAL | Score: 94 | UCLOUD INFORMATION TECHNOLOGY  | IN
 85.11.167.106        # CRITICAL | Score: 94 | SOFCOMPANY Ltd | BG
 152.32.159.180       # CRITICAL | Score: 94 | UCLOUD INFORMATION TECHNOLOGY  | IN
@@ -247,6 +247,7 @@
 3.151.241.153        # CRITICAL | Score: 93 | Amazon Technologies Inc. | US
 3.151.241.153        # CRITICAL | Score: 93 | Amazon Technologies Inc. | US
 176.65.132.45        # CRITICAL | Score: 93 | VMHeaven.io | DE
+78.128.114.130       # CRITICAL | Score: 92 | Tamatiya EOOD | BG
 49.88.156.34         # CRITICAL | Score: 92 | CHINANET jiangsu province netw | CN
 204.76.203.18        # CRITICAL | Score: 92 | Intelligence Hosting LLC | NL
 45.153.34.187        # CRITICAL | Score: 92 | VMHeaven.io | NL
@@ -447,6 +448,7 @@
 8.209.212.42         # CRITICAL | Score: 86 | Shiodome Sumitomo Blog 1-9-2 T | JP
 185.242.226.40       # CRITICAL | Score: 86 | HostUS Solutions LLC | US
 91.224.92.125        # CRITICAL | Score: 86 | Cloud hosting | GB
+176.65.148.66        # CRITICAL | Score: 85 | Pfcloud UG | NL
 178.16.54.139        # CRITICAL | Score: 85 | OMEGATECH | NL
 130.12.180.74        # CRITICAL | Score: 85 | Virtualine Technologies | US
 130.12.180.37        # CRITICAL | Score: 85 | Virtualine Technologies | US
@@ -539,7 +541,6 @@
 202.166.198.121      # CRITICAL | Score: 79 | WorldLink Communications | NP
 167.172.116.219      # CRITICAL | Score: 79 | DigitalOcean, LLC | US
 45.156.129.90        # CRITICAL | Score: 79 | INAP-CHI-1 | PT
-35.216.144.195       # CRITICAL | Score: 78 | Google LLC | CH
 89.117.104.16        # CRITICAL | Score: 78 | SC Lithuanian Radio and TV Cen | DE
 35.216.144.195       # CRITICAL | Score: 78 | Google LLC | CH
 178.16.54.35         # CRITICAL | Score: 78 | OMEGATECH | NL
@@ -845,7 +846,6 @@
 209.97.161.164       # HIGH     | Score: 57 | DigitalOcean, LLC | SG
 128.203.200.49       # HIGH     | Score: 57 | Microsoft Limited | US
 40.124.173.6         # HIGH     | Score: 57 | Microsoft Corporation | US
-94.198.40.124        # HIGH     | Score: 56 | M247 LTD Frankfurt Infrastruct | DE
 85.204.70.92         # HIGH     | Score: 56 | Hydra Communications Ltd | FR
 178.16.54.111        # HIGH     | Score: 56 | OMEGATECH | NL
 178.16.54.111        # HIGH     | Score: 56 | OMEGATECH | NL
@@ -898,6 +898,8 @@
 178.16.54.247        # HIGH     | Score: 53 | OMEGATECH | NL
 178.16.54.123        # HIGH     | Score: 53 | OMEGATECH | NL
 91.92.243.154        # HIGH     | Score: 53 | OMEGATECH | US
+162.142.125.47       # HIGH     | Score: 52 | Censys, Inc. | US
+205.210.31.43        # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 156.146.33.78        # HIGH     | Score: 52 | Datacamp Limited | DE
 146.70.178.164       # HIGH     | Score: 52 | M247 LTD Frankfurt Infrastruct | DE
 143.110.254.183      # HIGH     | Score: 52 | DigitalOcean, LLC | IN
