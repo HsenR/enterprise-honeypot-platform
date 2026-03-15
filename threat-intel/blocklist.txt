@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-15 06:26:42 UTC
-# Total IPs: 939
+# Updated: 2026-03-15 07:26:43 UTC
+# Total IPs: 943
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -48,7 +48,6 @@
 62.171.160.177       # CRITICAL | Score: 98 | Contabo GmbH | FR
 180.114.98.111       # CRITICAL | Score: 98 | Chinanet Jiangsu Province Netw | CN
 18.116.101.220       # CRITICAL | Score: 98 | Amazon Technologies Inc. | US
-191.96.11.36         # CRITICAL | Score: 98 | Chunkserve Mateusz Peplinski | NL
 85.105.253.144       # CRITICAL | Score: 98 | Turk Telekomunikasyon Anonim S | TR
 130.12.180.108       # CRITICAL | Score: 98 | Virtualine Technologies | US
 130.12.180.72        # CRITICAL | Score: 98 | Virtualine Technologies | US
@@ -104,6 +103,7 @@
 117.164.191.217      # CRITICAL | Score: 98 | China Mobile Communications Co | CN
 183.56.233.121       # CRITICAL | Score: 98 | CHINANET Guangdong province ne | CN
 62.171.160.177       # CRITICAL | Score: 98 | Contabo GmbH | FR
+47.250.51.94         # CRITICAL | Score: 96 | Alibaba Cloud - MY | MY
 185.142.236.41       # CRITICAL | Score: 96 | Black.HOST CLOUD Network | SC
 185.226.197.15       # CRITICAL | Score: 96 | ICG-4-ZEN-AMS | PT
 3.129.187.38         # CRITICAL | Score: 96 | Amazon Technologies Inc. | US
@@ -114,7 +114,6 @@
 18.218.118.203       # CRITICAL | Score: 96 | Amazon Technologies Inc. | US
 3.131.220.121        # CRITICAL | Score: 96 | Amazon Technologies Inc. | US
 3.143.162.210        # CRITICAL | Score: 96 | Amazon Technologies Inc. | US
-101.206.107.245      # CRITICAL | Score: 96 | UNICOM Sichuan province networ | CN
 130.12.180.55        # CRITICAL | Score: 96 | Virtualine Technologies | US
 130.12.180.80        # CRITICAL | Score: 96 | Virtualine Technologies | US
 130.12.180.80        # CRITICAL | Score: 96 | Virtualine Technologies | US
@@ -165,6 +164,7 @@
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
+45.156.129.65        # CRITICAL | Score: 94 | INAP-CHI-1 | PT
 45.156.128.56        # CRITICAL | Score: 94 | INAP-AMS-1 | PT
 195.178.110.108      # CRITICAL | Score: 94 | TECHOFF SRV LIMITED | BG
 66.132.153.121       # CRITICAL | Score: 94 | Censys, Inc. | US
@@ -241,6 +241,7 @@
 3.151.241.153        # CRITICAL | Score: 93 | Amazon Technologies Inc. | US
 3.151.241.153        # CRITICAL | Score: 93 | Amazon Technologies Inc. | US
 176.65.132.45        # CRITICAL | Score: 93 | VMHeaven.io | DE
+118.193.59.142       # CRITICAL | Score: 92 | UCLOUD INFORMATION TECHNOLOGY  | DE
 45.148.10.121        # CRITICAL | Score: 92 | TECHOFF SRV LIMITED | NL
 20.163.58.125        # CRITICAL | Score: 92 | Microsoft Corporation | US
 45.156.129.93        # CRITICAL | Score: 92 | INAP-CHI-1 | PT
@@ -251,7 +252,6 @@
 130.12.180.49        # CRITICAL | Score: 92 | Virtualine Technologies | US
 49.88.156.34         # CRITICAL | Score: 92 | CHINANET jiangsu province netw | CN
 185.156.73.233       # CRITICAL | Score: 92 | TOV E-RISHENNYA | UA
-45.153.34.187        # CRITICAL | Score: 92 | VMHeaven.io | NL
 49.88.156.34         # CRITICAL | Score: 92 | CHINANET jiangsu province netw | CN
 204.76.203.18        # CRITICAL | Score: 92 | Intelligence Hosting LLC | NL
 45.153.34.187        # CRITICAL | Score: 92 | VMHeaven.io | NL
@@ -346,6 +346,8 @@
 206.168.34.63        # CRITICAL | Score: 90 | Censys, Inc. | US
 206.168.34.197       # CRITICAL | Score: 90 | Censys, Inc. | US
 206.168.34.116       # CRITICAL | Score: 90 | Censys, Inc. | US
+185.242.226.42       # CRITICAL | Score: 89 | HostUS Solutions LLC | US
+66.132.153.140       # CRITICAL | Score: 89 | Censys, Inc. | US
 185.242.226.46       # CRITICAL | Score: 89 | HostUS Solutions LLC | US
 66.132.153.143       # CRITICAL | Score: 89 | Censys, Inc. | US
 45.156.129.66        # CRITICAL | Score: 89 | INAP-CHI-1 | PT
@@ -496,6 +498,7 @@
 142.93.110.241       # CRITICAL | Score: 81 | DigitalOcean, LLC | DE
 110.4.13.252         # CRITICAL | Score: 81 | Asia Pacific Network Informati | HK
 48.216.244.43        # CRITICAL | Score: 81 | Microsoft Limited | US
+135.119.16.163       # CRITICAL | Score: 80 | Microsoft Limited | US
 130.12.180.82        # CRITICAL | Score: 80 | Virtualine Technologies | US
 130.12.180.37        # CRITICAL | Score: 80 | Virtualine Technologies | US
 130.12.180.77        # CRITICAL | Score: 80 | Virtualine Technologies | US
@@ -689,6 +692,7 @@
 45.142.154.10        # HIGH     | Score: 67 | HDTIDC LIMITED | HK
 45.142.154.98        # HIGH     | Score: 67 | HDTIDC LIMITED | HK
 178.20.210.151       # HIGH     | Score: 67 | Shereverov Marat Ahmedovich | DE
+8.216.1.47           # HIGH     | Score: 66 | Alibaba Cloud (Singapore) Priv | JP
 74.208.218.198       # HIGH     | Score: 66 | IONOS Inc. | US
 178.16.54.111        # HIGH     | Score: 66 | OMEGATECH | NL
 134.199.148.75       # HIGH     | Score: 66 | DigitalOcean, LLC | AU
@@ -865,6 +869,7 @@
 178.16.54.123        # HIGH     | Score: 53 | OMEGATECH | NL
 3.134.93.22          # HIGH     | Score: 53 | Amazon Technologies Inc. | US
 178.16.54.193        # HIGH     | Score: 53 | OMEGATECH | NL
+198.235.24.150       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 198.235.24.145       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 167.94.146.49        # HIGH     | Score: 52 | Censys, Inc. | US
 205.210.31.199       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
@@ -886,7 +891,6 @@
 162.142.125.193      # HIGH     | Score: 52 | Censys, Inc. | US
 167.94.146.51        # HIGH     | Score: 52 | Censys, Inc. | US
 162.142.125.122      # HIGH     | Score: 52 | Censys, Inc. | US
-167.94.138.125       # HIGH     | Score: 52 | Censys, Inc. | US
 162.142.125.199      # HIGH     | Score: 52 | Censys, Inc. | US
 156.146.33.78        # HIGH     | Score: 52 | Datacamp Limited | DE
 146.70.178.164       # HIGH     | Score: 52 | M247 LTD Frankfurt Infrastruct | DE
