@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-15 01:27:04 UTC
-# Total IPs: 810
+# Updated: 2026-03-15 03:26:39 UTC
+# Total IPs: 812
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -15,6 +15,7 @@
 #
 
 # ── CRITICAL THREATS ─────────────────────────────────
+176.120.22.240       # CRITICAL | Score:100 | Proton66 OOO | RU
 103.215.201.34       # CRITICAL | Score:100 | A2j Data Services Pvt. Ltd. | IN
 45.91.64.7           # CRITICAL | Score:100 | F6 | RU
 103.215.201.34       # CRITICAL | Score:100 | A2j Data Services Pvt. Ltd. | IN
@@ -347,6 +348,7 @@
 130.12.180.71        # CRITICAL | Score: 88 | Virtualine Technologies | US
 103.199.16.79        # CRITICAL | Score: 88 | GREENCLOUD LIMITED LIABILITY C | VN
 134.122.93.145       # CRITICAL | Score: 88 | DigitalOcean, LLC | DE
+185.242.226.44       # CRITICAL | Score: 87 | HostUS Solutions LLC | US
 45.156.129.93        # CRITICAL | Score: 87 | INAP-CHI-1 | PT
 185.242.226.43       # CRITICAL | Score: 87 | HostUS Solutions LLC | US
 152.32.132.189       # CRITICAL | Score: 87 | UCLOUD INFORMATION TECHNOLOGY  | HK
@@ -757,6 +759,7 @@
 40.124.174.247       # HIGH     | Score: 54 | Microsoft Corporation | US
 3.134.93.22          # HIGH     | Score: 53 | Amazon Technologies Inc. | US
 178.16.54.193        # HIGH     | Score: 53 | OMEGATECH | NL
+162.142.125.206      # HIGH     | Score: 52 | Censys, Inc. | US
 167.94.138.122       # HIGH     | Score: 52 | Censys, Inc. | US
 167.94.146.50        # HIGH     | Score: 52 | Censys, Inc. | US
 209.97.161.164       # HIGH     | Score: 52 | DigitalOcean, LLC | SG
@@ -802,7 +805,6 @@
 167.94.138.44        # HIGH     | Score: 52 | Censys, Inc. | US
 18.143.235.216       # HIGH     | Score: 52 | Amazon Data Services Singapore | SG
 162.142.125.121      # HIGH     | Score: 52 | Censys, Inc. | US
-44.246.78.181        # HIGH     | Score: 51 | Amazon.com, Inc. | US
 44.246.78.181        # HIGH     | Score: 51 | Amazon.com, Inc. | US
 178.16.54.89         # HIGH     | Score: 51 | OMEGATECH | NL
 178.16.54.193        # HIGH     | Score: 51 | OMEGATECH | NL
