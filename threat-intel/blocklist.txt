@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-15 09:26:45 UTC
-# Total IPs: 960
+# Updated: 2026-03-15 10:26:46 UTC
+# Total IPs: 964
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -532,6 +532,7 @@
 130.12.180.82        # CRITICAL | Score: 79 | Virtualine Technologies | US
 206.189.24.243       # CRITICAL | Score: 79 | DigitalOcean, LLC | GB
 45.156.129.90        # CRITICAL | Score: 79 | INAP-CHI-1 | PT
+35.216.254.237       # CRITICAL | Score: 78 | Google LLC | CH
 130.12.180.174       # CRITICAL | Score: 78 | Virtualine Technologies | US
 35.216.144.195       # CRITICAL | Score: 78 | Google LLC | CH
 89.117.104.16        # CRITICAL | Score: 78 | SC Lithuanian Radio and TV Cen | DE
@@ -730,10 +731,12 @@
 209.38.24.134        # HIGH     | Score: 66 | DigitalOcean, LLC | AU
 185.242.226.23       # HIGH     | Score: 66 | HostUS Solutions LLC | US
 121.173.173.48       # HIGH     | Score: 66 | Korea Telecom | KR
+20.80.105.157        # HIGH     | Score: 65 | Microsoft Corporation | US
 206.189.129.245      # HIGH     | Score: 65 | DigitalOcean, LLC | IN
 44.215.219.236       # HIGH     | Score: 65 | Amazon Data Services Northern  | US
 206.189.190.47       # HIGH     | Score: 65 | DigitalOcean, LLC | US
 188.166.164.48       # HIGH     | Score: 65 | DigitalOcean, LLC | DE
+134.209.204.195      # HIGH     | Score: 64 | DigitalOcean, LLC | NL
 185.242.226.39       # HIGH     | Score: 64 | HostUS Solutions LLC | US
 185.242.226.70       # HIGH     | Score: 64 | HostUS Solutions LLC | US
 194.180.48.63        # HIGH     | Score: 64 | Neterra Ltd. | DE
@@ -829,6 +832,7 @@
 20.15.225.33         # HIGH     | Score: 57 | Microsoft Corporation | US
 139.59.182.237       # HIGH     | Score: 57 | DigitalOcean, LLC | GB
 143.244.132.78       # HIGH     | Score: 57 | DigitalOcean, LLC | IN
+104.248.160.105      # HIGH     | Score: 56 | DigitalOcean, LLC | GB
 134.199.157.84       # HIGH     | Score: 56 | DigitalOcean, LLC | AU
 45.156.129.141       # HIGH     | Score: 56 | INAP-CHI-1 | PT
 167.99.194.237       # HIGH     | Score: 56 | DigitalOcean, LLC | GB
@@ -853,7 +857,6 @@
 45.87.249.40         # HIGH     | Score: 54 | Shereverov Marat Ahmedovich | SC
 91.92.243.52         # HIGH     | Score: 54 | OMEGATECH | US
 178.16.54.193        # HIGH     | Score: 54 | OMEGATECH | NL
-165.22.81.219        # HIGH     | Score: 54 | DigitalOcean, LLC | DE
 45.150.174.99        # HIGH     | Score: 54 | Clouvider Limited | DE
 178.16.54.111        # HIGH     | Score: 54 | OMEGATECH | NL
 3.134.93.22          # HIGH     | Score: 54 | Amazon Technologies Inc. | US
@@ -881,6 +884,8 @@
 178.16.54.123        # HIGH     | Score: 53 | OMEGATECH | NL
 3.134.93.22          # HIGH     | Score: 53 | Amazon Technologies Inc. | US
 178.16.54.193        # HIGH     | Score: 53 | OMEGATECH | NL
+167.94.138.117       # HIGH     | Score: 52 | Censys, Inc. | US
+147.185.132.13       # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 167.94.146.54        # HIGH     | Score: 52 | Censys, Inc. | US
 205.210.31.35        # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 162.142.125.43       # HIGH     | Score: 52 | Censys, Inc. | US
@@ -964,7 +969,6 @@
 162.142.125.213      # HIGH     | Score: 50 | Censys, Inc. | US
 167.94.138.115       # HIGH     | Score: 50 | Censys, Inc. | US
 164.92.180.114       # HIGH     | Score: 50 | DigitalOcean, LLC | DE
-167.94.138.36        # HIGH     | Score: 50 | Censys, Inc. | US
 146.70.36.140        # HIGH     | Score: 50 | M247 LTD Frankfurt Infrastruct | DE
 146.70.36.126        # HIGH     | Score: 50 | M247 LTD Frankfurt Infrastruct | DE
 178.16.54.193        # HIGH     | Score: 50 | OMEGATECH | NL
