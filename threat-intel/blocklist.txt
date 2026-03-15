@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-15 11:26:47 UTC
-# Total IPs: 971
+# Updated: 2026-03-15 12:26:48 UTC
+# Total IPs: 975
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -164,6 +164,7 @@
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
+170.64.134.231       # CRITICAL | Score: 94 | DigitalOcean, LLC | AU
 45.156.128.57        # CRITICAL | Score: 94 | INAP-AMS-1 | PT
 66.132.153.119       # CRITICAL | Score: 94 | Censys, Inc. | US
 185.224.128.251      # CRITICAL | Score: 94 | Alsycon B.V. | NL
@@ -244,6 +245,7 @@
 3.151.241.153        # CRITICAL | Score: 93 | Amazon Technologies Inc. | US
 3.151.241.153        # CRITICAL | Score: 93 | Amazon Technologies Inc. | US
 176.65.132.45        # CRITICAL | Score: 93 | VMHeaven.io | DE
+204.76.203.30        # CRITICAL | Score: 92 | Intelligence Hosting LLC | NL
 118.193.59.142       # CRITICAL | Score: 92 | UCLOUD INFORMATION TECHNOLOGY  | DE
 45.148.10.121        # CRITICAL | Score: 92 | TECHOFF SRV LIMITED | NL
 20.163.58.125        # CRITICAL | Score: 92 | Microsoft Corporation | US
@@ -406,6 +408,7 @@
 103.199.16.79        # CRITICAL | Score: 88 | GREENCLOUD LIMITED LIABILITY C | VN
 134.122.93.145       # CRITICAL | Score: 88 | DigitalOcean, LLC | DE
 167.71.66.127        # CRITICAL | Score: 88 | DigitalOcean, LLC | NL
+185.242.226.43       # CRITICAL | Score: 87 | HostUS Solutions LLC | US
 89.42.231.241        # CRITICAL | Score: 87 | Amarutu Technology Ltd | NL
 185.242.226.44       # CRITICAL | Score: 87 | HostUS Solutions LLC | US
 89.248.163.200       # CRITICAL | Score: 87 | RECYBER PROJECT NETBLOCK | NL
@@ -656,6 +659,7 @@
 87.121.84.76         # HIGH     | Score: 71 | Dedicated Servers and VPS Host | US
 185.226.196.15       # HIGH     | Score: 71 | ICG-3-ZEN-LAX | PT
 121.173.173.48       # HIGH     | Score: 71 | Korea Telecom | KR
+40.124.176.81        # HIGH     | Score: 70 | Microsoft Corporation | US
 20.163.15.141        # HIGH     | Score: 70 | Microsoft Corporation | US
 130.12.180.101       # HIGH     | Score: 70 | Virtualine Technologies | US
 178.16.54.89         # HIGH     | Score: 70 | OMEGATECH | NL
