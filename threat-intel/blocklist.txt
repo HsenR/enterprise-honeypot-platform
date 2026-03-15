@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-15 19:26:55 UTC
-# Total IPs: 999
+# Updated: 2026-03-15 20:26:56 UTC
+# Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -547,6 +547,7 @@
 130.12.180.82        # CRITICAL | Score: 80 | Virtualine Technologies | US
 135.119.16.163       # CRITICAL | Score: 80 | Microsoft Limited | US
 20.169.85.72         # CRITICAL | Score: 80 | Microsoft Corporation | US
+185.242.226.21       # CRITICAL | Score: 79 | HostUS Solutions LLC | US
 185.180.141.42       # CRITICAL | Score: 79 | ICG-1-ZEN-DFW | PT
 130.12.180.89        # CRITICAL | Score: 79 | Virtualine Technologies | US
 130.12.180.89        # CRITICAL | Score: 79 | Virtualine Technologies | US
@@ -692,7 +693,6 @@
 20.163.15.141        # HIGH     | Score: 70 | Microsoft Corporation | US
 40.124.176.81        # HIGH     | Score: 70 | Microsoft Corporation | US
 18.189.74.1          # HIGH     | Score: 70 | Amazon Technologies Inc. | US
-64.227.132.35        # HIGH     | Score: 69 | DigitalOcean, LLC | IN
 130.12.180.82        # HIGH     | Score: 69 | Virtualine Technologies | US
 159.89.160.76        # HIGH     | Score: 69 | DigitalOcean, LLC | IN
 163.7.12.49          # HIGH     | Score: 69 | BYTEPLUS | ID
@@ -719,6 +719,7 @@
 47.251.53.147        # HIGH     | Score: 68 | Alibaba Cloud - US | US
 47.251.53.147        # HIGH     | Score: 68 | Alibaba Cloud - US | US
 184.32.16.105        # HIGH     | Score: 68 | Amazon.com, Inc. | US
+135.237.126.41       # HIGH     | Score: 67 | Microsoft Limited | US
 139.59.31.132        # HIGH     | Score: 67 | DigitalOcean, LLC | IN
 130.12.180.116       # HIGH     | Score: 67 | Virtualine Technologies | US
 139.59.31.132        # HIGH     | Score: 67 | DigitalOcean, LLC | IN
@@ -761,6 +762,7 @@
 74.208.218.198       # HIGH     | Score: 66 | IONOS Inc. | US
 8.216.1.47           # HIGH     | Score: 66 | Alibaba Cloud (Singapore) Priv | JP
 35.169.206.177       # HIGH     | Score: 66 | Amazon Technologies Inc. | US
+18.188.57.88         # HIGH     | Score: 65 | Amazon Technologies Inc. | US
 18.217.208.51        # HIGH     | Score: 65 | Amazon Technologies Inc. | US
 206.189.129.245      # HIGH     | Score: 65 | DigitalOcean, LLC | IN
 44.215.219.236       # HIGH     | Score: 65 | Amazon Data Services Northern  | US
@@ -787,6 +789,7 @@
 130.12.180.116       # HIGH     | Score: 63 | Virtualine Technologies | US
 121.173.173.48       # HIGH     | Score: 63 | Korea Telecom | KR
 121.173.173.48       # HIGH     | Score: 63 | Korea Telecom | KR
+20.38.33.240         # HIGH     | Score: 62 | Microsoft Corporation | US
 91.92.243.27         # HIGH     | Score: 62 | OMEGATECH | US
 130.12.180.92        # HIGH     | Score: 62 | Virtualine Technologies | US
 178.16.54.89         # HIGH     | Score: 62 | OMEGATECH | NL
@@ -910,6 +913,7 @@
 178.16.54.247        # HIGH     | Score: 53 | OMEGATECH | NL
 178.16.54.123        # HIGH     | Score: 53 | OMEGATECH | NL
 91.92.243.154        # HIGH     | Score: 53 | OMEGATECH | US
+205.210.31.99        # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 167.94.146.63        # HIGH     | Score: 52 | Censys, Inc. | US
 162.142.125.216      # HIGH     | Score: 52 | Censys, Inc. | US
 162.142.125.47       # HIGH     | Score: 52 | Censys, Inc. | US
@@ -995,6 +999,7 @@
 91.92.243.154        # HIGH     | Score: 51 | OMEGATECH | US
 178.16.54.247        # HIGH     | Score: 51 | OMEGATECH | NL
 178.16.54.123        # HIGH     | Score: 51 | OMEGATECH | NL
+167.94.138.124       # HIGH     | Score: 50 | Censys, Inc. | US
 178.16.54.193        # HIGH     | Score: 50 | OMEGATECH | NL
 178.16.54.193        # HIGH     | Score: 50 | OMEGATECH | NL
 185.231.33.22        # HIGH     | Score: 50 | Datashield, Inc. | SC
@@ -1012,7 +1017,3 @@
 162.142.125.115      # HIGH     | Score: 50 | Censys, Inc. | US
 167.94.146.52        # HIGH     | Score: 50 | Censys, Inc. | US
 167.94.138.52        # HIGH     | Score: 50 | Censys, Inc. | US
-104.140.148.110      # HIGH     | Score: 50 | Eonix Corporation | US
-167.94.138.113       # HIGH     | Score: 50 | Censys, Inc. | US
-167.94.138.45        # HIGH     | Score: 50 | Censys, Inc. | US
-167.94.138.63        # HIGH     | Score: 50 | Censys, Inc. | US
