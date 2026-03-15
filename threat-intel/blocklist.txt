@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-15 00:27:03 UTC
-# Total IPs: 812
+# Updated: 2026-03-15 01:27:04 UTC
+# Total IPs: 810
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -630,7 +630,6 @@
 209.38.24.134        # HIGH     | Score: 66 | DigitalOcean, LLC | AU
 185.242.226.23       # HIGH     | Score: 66 | HostUS Solutions LLC | US
 121.173.173.48       # HIGH     | Score: 66 | Korea Telecom | KR
-18.188.57.88         # HIGH     | Score: 65 | Amazon Technologies Inc. | US
 47.243.177.131       # HIGH     | Score: 65 | ALIBABA CLOUD - HK | HK
 20.118.202.145       # HIGH     | Score: 65 | Microsoft Corporation | US
 206.189.129.245      # HIGH     | Score: 65 | DigitalOcean, LLC | IN
@@ -731,7 +730,6 @@
 68.183.200.51        # HIGH     | Score: 55 | DigitalOcean, LLC | CA
 217.216.48.180       # HIGH     | Score: 55 | Contabo GmbH | US
 217.216.48.180       # HIGH     | Score: 55 | Contabo GmbH | US
-18.133.212.170       # HIGH     | Score: 54 | Amazon Data Services UK | GB
 18.133.212.170       # HIGH     | Score: 54 | Amazon Data Services UK | GB
 139.28.219.70        # HIGH     | Score: 54 | M247 LTD Paris Infrastructure | FR
 165.22.81.219        # HIGH     | Score: 54 | DigitalOcean, LLC | DE
