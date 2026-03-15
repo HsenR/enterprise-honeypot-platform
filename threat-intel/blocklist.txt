@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-15 18:26:54 UTC
-# Total IPs: 991
+# Updated: 2026-03-15 19:26:55 UTC
+# Total IPs: 999
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -164,6 +164,7 @@
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
+185.12.59.118        # CRITICAL | Score: 94 | Blix Group AS | NO
 204.76.203.73        # CRITICAL | Score: 94 | Intelligence Hosting LLC | NL
 152.32.159.180       # CRITICAL | Score: 94 | UCLOUD INFORMATION TECHNOLOGY  | IN
 85.11.167.106        # CRITICAL | Score: 94 | SOFCOMPANY Ltd | BG
@@ -235,6 +236,7 @@
 170.64.134.231       # CRITICAL | Score: 94 | DigitalOcean, LLC | AU
 165.154.138.34       # CRITICAL | Score: 94 | UCLOUD INFORMATION TECHNOLOGY  | DE
 176.65.148.214       # CRITICAL | Score: 94 | Pfcloud UG | NL
+45.156.129.101       # CRITICAL | Score: 93 | INAP-CHI-1 | PT
 3.151.241.153        # CRITICAL | Score: 93 | Amazon Technologies Inc. | US
 130.12.180.19        # CRITICAL | Score: 93 | Virtualine Technologies | US
 130.12.180.19        # CRITICAL | Score: 93 | Virtualine Technologies | US
@@ -249,6 +251,7 @@
 3.151.241.153        # CRITICAL | Score: 93 | Amazon Technologies Inc. | US
 3.151.241.153        # CRITICAL | Score: 93 | Amazon Technologies Inc. | US
 176.65.132.45        # CRITICAL | Score: 93 | VMHeaven.io | DE
+45.156.129.100       # CRITICAL | Score: 92 | INAP-CHI-1 | PT
 185.180.141.44       # CRITICAL | Score: 92 | ICG-1-ZEN-DFW | PT
 94.102.49.155        # CRITICAL | Score: 92 | FiberXpress BV | NL
 78.128.114.130       # CRITICAL | Score: 92 | Tamatiya EOOD | BG
@@ -367,6 +370,8 @@
 206.168.34.56        # CRITICAL | Score: 90 | Censys, Inc. | US
 206.168.34.48        # CRITICAL | Score: 90 | Censys, Inc. | US
 206.168.34.205       # CRITICAL | Score: 90 | Censys, Inc. | US
+185.242.226.5        # CRITICAL | Score: 89 | HostUS Solutions LLC | US
+113.203.203.206      # CRITICAL | Score: 89 | Connect Communication | PK
 178.16.54.139        # CRITICAL | Score: 89 | OMEGATECH | NL
 130.12.180.49        # CRITICAL | Score: 89 | Virtualine Technologies | US
 77.83.39.74          # CRITICAL | Score: 89 | Pitline Ltd | UA
@@ -563,6 +568,7 @@
 35.216.144.195       # CRITICAL | Score: 78 | Google LLC | CH
 130.12.180.174       # CRITICAL | Score: 78 | Virtualine Technologies | US
 35.216.254.237       # CRITICAL | Score: 78 | Google LLC | CH
+92.118.39.30         # CRITICAL | Score: 77 | DMZHOST | RO
 20.65.194.87         # CRITICAL | Score: 77 | Microsoft Corporation | US
 167.86.107.35        # CRITICAL | Score: 77 | Contabo GmbH | FR
 130.12.180.82        # CRITICAL | Score: 77 | Virtualine Technologies | US
@@ -627,6 +633,7 @@
 100.28.153.226       # HIGH     | Score: 74 | Amazon Data Services Northern  | US
 143.198.190.148      # HIGH     | Score: 74 | DigitalOcean, LLC | US
 178.62.208.162       # HIGH     | Score: 74 | DigitalOcean Amsterdam | NL
+178.20.208.185       # HIGH     | Score: 73 | NetCrafters OU | RU
 130.12.180.82        # HIGH     | Score: 73 | Virtualine Technologies | US
 130.12.180.57        # HIGH     | Score: 73 | Virtualine Technologies | US
 130.12.180.57        # HIGH     | Score: 73 | Virtualine Technologies | US
@@ -754,6 +761,7 @@
 74.208.218.198       # HIGH     | Score: 66 | IONOS Inc. | US
 8.216.1.47           # HIGH     | Score: 66 | Alibaba Cloud (Singapore) Priv | JP
 35.169.206.177       # HIGH     | Score: 66 | Amazon Technologies Inc. | US
+18.217.208.51        # HIGH     | Score: 65 | Amazon Technologies Inc. | US
 206.189.129.245      # HIGH     | Score: 65 | DigitalOcean, LLC | IN
 44.215.219.236       # HIGH     | Score: 65 | Amazon Data Services Northern  | US
 206.189.190.47       # HIGH     | Score: 65 | DigitalOcean, LLC | US
