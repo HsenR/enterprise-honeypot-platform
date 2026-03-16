@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-16 09:26:48 UTC
+# Updated: 2026-03-16 10:26:49 UTC
 # Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -15,6 +15,7 @@
 #
 
 # ── CRITICAL THREATS ─────────────────────────────────
+103.215.201.34       # CRITICAL | Score:100 | A2j Data Services Pvt. Ltd. | IN
 176.120.22.240       # CRITICAL | Score:100 | Proton66 OOO | RU
 3.130.168.2          # CRITICAL | Score:100 | Amazon Technologies Inc. | US
 161.97.67.38         # CRITICAL | Score:100 | Contabo GmbH | FR
@@ -1016,4 +1017,3 @@
 162.142.125.123      # HIGH     | Score: 52 | Censys, Inc. | US
 198.235.24.12        # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
 167.94.146.55        # HIGH     | Score: 52 | Censys, Inc. | US
-162.142.125.120      # HIGH     | Score: 52 | Censys, Inc. | US
