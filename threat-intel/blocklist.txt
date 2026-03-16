@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-16 05:26:43 UTC
+# Updated: 2026-03-16 06:26:45 UTC
 # Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -178,7 +178,6 @@
 118.194.236.126      # CRITICAL | Score: 94 | UCLOUD INFORMATION TECHNOLOGY  | JP
 66.132.153.140       # CRITICAL | Score: 94 | Censys, Inc. | US
 80.94.95.116         # CRITICAL | Score: 94 | UNMANAGED LTD | RO
-152.32.159.180       # CRITICAL | Score: 94 | UCLOUD INFORMATION TECHNOLOGY  | IN
 85.11.167.106        # CRITICAL | Score: 94 | SOFCOMPANY Ltd | BG
 152.32.159.180       # CRITICAL | Score: 94 | UCLOUD INFORMATION TECHNOLOGY  | IN
 185.224.128.251      # CRITICAL | Score: 94 | Alsycon B.V. | NL
@@ -714,6 +713,7 @@
 18.189.74.1          # HIGH     | Score: 70 | Amazon Technologies Inc. | US
 20.64.105.82         # HIGH     | Score: 70 | Microsoft Corporation | US
 20.65.195.109        # HIGH     | Score: 70 | Microsoft Corporation | US
+50.85.51.39          # HIGH     | Score: 69 | Microsoft Limited | NL
 159.89.160.76        # HIGH     | Score: 69 | DigitalOcean, LLC | IN
 163.7.12.49          # HIGH     | Score: 69 | BYTEPLUS | ID
 121.173.173.48       # HIGH     | Score: 69 | Korea Telecom | KR
