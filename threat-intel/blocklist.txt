@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-16 14:26:53 UTC
+# Updated: 2026-03-16 15:26:54 UTC
 # Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -400,6 +400,7 @@
 199.45.154.125       # CRITICAL | Score: 90 | Censys, Inc. | US
 206.168.34.34        # CRITICAL | Score: 90 | Censys, Inc. | US
 206.168.34.47        # CRITICAL | Score: 90 | Censys, Inc. | US
+66.132.153.132       # CRITICAL | Score: 89 | Censys, Inc. | US
 77.83.39.74          # CRITICAL | Score: 89 | Pitline Ltd | UA
 130.12.180.74        # CRITICAL | Score: 89 | Virtualine Technologies | US
 178.16.54.139        # CRITICAL | Score: 89 | OMEGATECH | NL
@@ -759,6 +760,7 @@
 135.237.126.41       # HIGH     | Score: 67 | Microsoft Limited | US
 20.119.75.60         # HIGH     | Score: 67 | Microsoft Corporation | US
 20.38.33.240         # HIGH     | Score: 67 | Microsoft Corporation | US
+45.87.249.155        # HIGH     | Score: 66 | Shereverov Marat Ahmedovich | SC
 13.58.84.198         # HIGH     | Score: 66 | Amazon Technologies Inc. | US
 130.12.180.116       # HIGH     | Score: 66 | Virtualine Technologies | US
 91.92.243.197        # HIGH     | Score: 66 | OMEGATECH | US
@@ -835,6 +837,7 @@
 159.65.89.9          # HIGH     | Score: 60 | DigitalOcean, LLC | GB
 159.65.89.9          # HIGH     | Score: 60 | DigitalOcean, LLC | GB
 20.64.104.155        # HIGH     | Score: 60 | Microsoft Corporation | US
+3.139.58.65          # HIGH     | Score: 59 | Amazon Technologies Inc. | US
 34.66.133.48         # HIGH     | Score: 59 | Google LLC | US
 34.66.133.48         # HIGH     | Score: 59 | Google LLC | US
 34.66.133.48         # HIGH     | Score: 59 | Google LLC | US
@@ -865,6 +868,7 @@
 18.133.199.181       # HIGH     | Score: 58 | Amazon Data Services UK | GB
 35.167.108.113       # HIGH     | Score: 58 | Amazon.com, Inc. | US
 134.199.157.84       # HIGH     | Score: 58 | DigitalOcean, LLC | AU
+165.22.227.61        # HIGH     | Score: 57 | DigitalOcean, LLC | CA
 64.23.173.227        # HIGH     | Score: 57 | DigitalOcean, LLC | US
 82.102.18.220        # HIGH     | Score: 57 | M247 LTD Paris Infrastructure | FR
 143.244.128.115      # HIGH     | Score: 57 | DigitalOcean, LLC | IN
@@ -1013,7 +1017,3 @@
 167.94.146.55        # HIGH     | Score: 52 | Censys, Inc. | US
 162.142.125.120      # HIGH     | Score: 52 | Censys, Inc. | US
 167.94.146.51        # HIGH     | Score: 52 | Censys, Inc. | US
-162.142.125.209      # HIGH     | Score: 52 | Censys, Inc. | US
-162.142.125.216      # HIGH     | Score: 52 | Censys, Inc. | US
-178.16.54.193        # HIGH     | Score: 51 | OMEGATECH | NL
-178.16.54.247        # HIGH     | Score: 51 | OMEGATECH | NL
