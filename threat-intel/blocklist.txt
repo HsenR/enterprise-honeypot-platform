@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-16 11:26:50 UTC
+# Updated: 2026-03-16 12:26:51 UTC
 # Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -38,7 +38,6 @@
 3.130.168.2          # CRITICAL | Score:100 | Amazon Technologies Inc. | US
 176.120.22.240       # CRITICAL | Score:100 | Proton66 OOO | RU
 103.215.201.34       # CRITICAL | Score:100 | A2j Data Services Pvt. Ltd. | IN
-152.32.206.181       # CRITICAL | Score: 98 | UCLOUD INFORMATION TECHNOLOGY  | US
 187.191.2.214        # CRITICAL | Score: 98 | TOTAL PLAY TELECOMUNICACIONES  | MX
 130.12.180.108       # CRITICAL | Score: 98 | Virtualine Technologies | US
 3.131.220.121        # CRITICAL | Score: 98 | Amazon Technologies Inc. | US
@@ -169,7 +168,8 @@
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
-85.11.167.106        # CRITICAL | Score: 94 | SOFCOMPANY Ltd | BG
+66.132.153.119       # CRITICAL | Score: 94 | Censys, Inc. | US
+195.178.110.131      # CRITICAL | Score: 94 | TECHOFF SRV LIMITED | BG
 152.32.159.180       # CRITICAL | Score: 94 | UCLOUD INFORMATION TECHNOLOGY  | IN
 185.224.128.251      # CRITICAL | Score: 94 | Alsycon B.V. | NL
 185.224.128.251      # CRITICAL | Score: 94 | Alsycon B.V. | NL
