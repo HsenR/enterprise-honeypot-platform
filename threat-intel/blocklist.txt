@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-16 04:26:42 UTC
+# Updated: 2026-03-16 05:26:43 UTC
 # Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -17,7 +17,6 @@
 # ── CRITICAL THREATS ─────────────────────────────────
 176.120.22.240       # CRITICAL | Score:100 | Proton66 OOO | RU
 3.130.168.2          # CRITICAL | Score:100 | Amazon Technologies Inc. | US
-207.244.239.45       # CRITICAL | Score:100 | Contabo Inc. | US
 161.97.67.38         # CRITICAL | Score:100 | Contabo GmbH | FR
 45.91.64.7           # CRITICAL | Score:100 | F6 | RU
 161.97.67.38         # CRITICAL | Score:100 | Contabo GmbH | FR
@@ -38,6 +37,7 @@
 187.191.2.214        # CRITICAL | Score:100 | TOTAL PLAY TELECOMUNICACIONES  | MX
 3.130.168.2          # CRITICAL | Score:100 | Amazon Technologies Inc. | US
 176.120.22.240       # CRITICAL | Score:100 | Proton66 OOO | RU
+36.154.50.214        # CRITICAL | Score: 98 | China Mobile Communications Co | CN
 16.58.56.214         # CRITICAL | Score: 98 | Amazon.com, Inc. | US
 18.116.101.220       # CRITICAL | Score: 98 | Amazon Technologies Inc. | US
 152.32.206.181       # CRITICAL | Score: 98 | UCLOUD INFORMATION TECHNOLOGY  | US
@@ -330,6 +330,7 @@
 94.102.49.155        # CRITICAL | Score: 92 | FiberXpress BV | NL
 185.180.141.44       # CRITICAL | Score: 92 | ICG-1-ZEN-DFW | PT
 45.156.129.100       # CRITICAL | Score: 92 | INAP-CHI-1 | PT
+170.64.160.161       # CRITICAL | Score: 91 | DigitalOcean, LLC | AU
 193.29.13.164        # CRITICAL | Score: 91 | Bunea TELECOM SRL | RO
 143.198.76.96        # CRITICAL | Score: 91 | DigitalOcean, LLC | US
 3.129.187.38         # CRITICAL | Score: 91 | Amazon Technologies Inc. | US
@@ -832,6 +833,7 @@
 159.65.89.9          # HIGH     | Score: 60 | DigitalOcean, LLC | GB
 159.65.89.9          # HIGH     | Score: 60 | DigitalOcean, LLC | GB
 20.64.104.155        # HIGH     | Score: 60 | Microsoft Corporation | US
+34.66.133.48         # HIGH     | Score: 59 | Google LLC | US
 159.223.231.137      # HIGH     | Score: 59 | DigitalOcean, LLC | NL
 188.166.25.251       # HIGH     | Score: 59 | Digital Ocean, Inc. | NL
 138.68.171.246       # HIGH     | Score: 59 | DigitalOcean, LLC | GB
@@ -1015,5 +1017,3 @@
 167.94.146.55        # HIGH     | Score: 52 | Censys, Inc. | US
 162.142.125.120      # HIGH     | Score: 52 | Censys, Inc. | US
 178.16.54.193        # HIGH     | Score: 51 | OMEGATECH | NL
-178.16.54.247        # HIGH     | Score: 51 | OMEGATECH | NL
-178.16.54.247        # HIGH     | Score: 51 | OMEGATECH | NL
