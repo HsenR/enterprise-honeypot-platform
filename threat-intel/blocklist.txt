@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-16 08:26:47 UTC
+# Updated: 2026-03-16 09:26:48 UTC
 # Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -37,6 +37,7 @@
 187.191.2.214        # CRITICAL | Score:100 | TOTAL PLAY TELECOMUNICACIONES  | MX
 3.130.168.2          # CRITICAL | Score:100 | Amazon Technologies Inc. | US
 176.120.22.240       # CRITICAL | Score:100 | Proton66 OOO | RU
+176.65.139.44        # CRITICAL | Score: 98 | Storm Industries | DE
 36.154.50.214        # CRITICAL | Score: 98 | China Mobile Communications Co | CN
 16.58.56.214         # CRITICAL | Score: 98 | Amazon.com, Inc. | US
 18.116.101.220       # CRITICAL | Score: 98 | Amazon Technologies Inc. | US
@@ -854,7 +855,6 @@
 93.77.177.126        # HIGH     | Score: 59 | Yandex.Cloud LLC | RU
 40.74.212.73         # HIGH     | Score: 59 | Microsoft Corporation | US
 134.199.157.84       # HIGH     | Score: 58 | DigitalOcean, LLC | AU
-121.173.173.48       # HIGH     | Score: 58 | Korea Telecom | KR
 85.204.70.92         # HIGH     | Score: 58 | Hydra Communications Ltd | FR
 85.204.70.92         # HIGH     | Score: 58 | Hydra Communications Ltd | FR
 85.204.70.92         # HIGH     | Score: 58 | Hydra Communications Ltd | FR
