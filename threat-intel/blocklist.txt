@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-16 01:27:02 UTC
-# Total IPs: 994
+# Updated: 2026-03-16 03:26:41 UTC
+# Total IPs: 995
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -677,6 +677,7 @@
 185.226.196.15       # HIGH     | Score: 71 | ICG-3-ZEN-LAX | PT
 87.121.84.76         # HIGH     | Score: 71 | Dedicated Servers and VPS Host | US
 35.222.200.228       # HIGH     | Score: 71 | Google LLC | US
+20.65.195.109        # HIGH     | Score: 70 | Microsoft Corporation | US
 20.64.105.82         # HIGH     | Score: 70 | Microsoft Corporation | US
 178.16.54.89         # HIGH     | Score: 70 | OMEGATECH | NL
 178.16.54.89         # HIGH     | Score: 70 | OMEGATECH | NL
