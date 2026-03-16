@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-16 00:27:01 UTC
-# Total IPs: 1000
+# Updated: 2026-03-16 01:27:02 UTC
+# Total IPs: 994
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -39,7 +39,6 @@
 3.130.168.2          # CRITICAL | Score:100 | Amazon Technologies Inc. | US
 176.120.22.240       # CRITICAL | Score:100 | Proton66 OOO | RU
 176.65.139.44        # CRITICAL | Score: 98 | Storm Industries | DE
-130.12.180.108       # CRITICAL | Score: 98 | Virtualine Technologies | US
 130.12.180.72        # CRITICAL | Score: 98 | Virtualine Technologies | US
 130.12.180.108       # CRITICAL | Score: 98 | Virtualine Technologies | US
 16.58.56.214         # CRITICAL | Score: 98 | Amazon.com, Inc. | US
@@ -101,6 +100,7 @@
 117.164.191.217      # CRITICAL | Score: 98 | China Mobile Communications Co | CN
 45.156.87.91         # CRITICAL | Score: 98 | VMHeaven.io | NL
 87.121.84.67         # CRITICAL | Score: 98 | Dedicated Servers and VPS Host | US
+1.94.6.230           # CRITICAL | Score: 96 | Beijing Teletron Telecom Engin | CN
 45.153.34.213        # CRITICAL | Score: 96 | VMHeaven.io | NL
 185.180.141.43       # CRITICAL | Score: 96 | ICG-1-ZEN-DFW | PT
 130.12.180.80        # CRITICAL | Score: 96 | Virtualine Technologies | US
@@ -238,7 +238,6 @@
 176.65.148.214       # CRITICAL | Score: 94 | Pfcloud UG | NL
 45.156.129.101       # CRITICAL | Score: 93 | INAP-CHI-1 | PT
 3.151.241.153        # CRITICAL | Score: 93 | Amazon Technologies Inc. | US
-130.12.180.19        # CRITICAL | Score: 93 | Virtualine Technologies | US
 130.12.180.19        # CRITICAL | Score: 93 | Virtualine Technologies | US
 45.33.65.239         # CRITICAL | Score: 93 | Linode | US
 130.12.180.19        # CRITICAL | Score: 93 | Virtualine Technologies | US
@@ -546,7 +545,6 @@
 185.242.226.21       # CRITICAL | Score: 79 | HostUS Solutions LLC | US
 185.180.141.42       # CRITICAL | Score: 79 | ICG-1-ZEN-DFW | PT
 130.12.180.89        # CRITICAL | Score: 79 | Virtualine Technologies | US
-130.12.180.89        # CRITICAL | Score: 79 | Virtualine Technologies | US
 207.154.211.129      # CRITICAL | Score: 79 | DigitalOcean, LLC | DE
 130.12.180.82        # CRITICAL | Score: 79 | Virtualine Technologies | US
 206.189.24.243       # CRITICAL | Score: 79 | DigitalOcean, LLC | GB
@@ -649,7 +647,6 @@
 130.12.180.57        # HIGH     | Score: 73 | Virtualine Technologies | US
 185.226.196.12       # HIGH     | Score: 73 | ICG-3-ZEN-LAX | PT
 20.118.209.123       # HIGH     | Score: 73 | Microsoft Corporation | US
-130.12.180.117       # HIGH     | Score: 72 | Virtualine Technologies | US
 178.16.54.134        # HIGH     | Score: 72 | OMEGATECH | NL
 130.12.180.101       # HIGH     | Score: 72 | Virtualine Technologies | US
 130.12.180.117       # HIGH     | Score: 72 | Virtualine Technologies | US
@@ -681,7 +678,6 @@
 87.121.84.76         # HIGH     | Score: 71 | Dedicated Servers and VPS Host | US
 35.222.200.228       # HIGH     | Score: 71 | Google LLC | US
 20.64.105.82         # HIGH     | Score: 70 | Microsoft Corporation | US
-130.12.180.101       # HIGH     | Score: 70 | Virtualine Technologies | US
 178.16.54.89         # HIGH     | Score: 70 | OMEGATECH | NL
 178.16.54.89         # HIGH     | Score: 70 | OMEGATECH | NL
 20.65.193.55         # HIGH     | Score: 70 | Microsoft Corporation | US
@@ -782,11 +778,9 @@
 185.242.226.70       # HIGH     | Score: 64 | HostUS Solutions LLC | US
 185.242.226.39       # HIGH     | Score: 64 | HostUS Solutions LLC | US
 134.209.204.195      # HIGH     | Score: 64 | DigitalOcean, LLC | NL
-130.12.180.116       # HIGH     | Score: 63 | Virtualine Technologies | US
 121.173.173.48       # HIGH     | Score: 63 | Korea Telecom | KR
 121.173.173.48       # HIGH     | Score: 63 | Korea Telecom | KR
 20.38.33.240         # HIGH     | Score: 62 | Microsoft Corporation | US
-130.12.180.92        # HIGH     | Score: 62 | Virtualine Technologies | US
 178.16.54.89         # HIGH     | Score: 62 | OMEGATECH | NL
 130.12.180.92        # HIGH     | Score: 62 | Virtualine Technologies | US
 138.68.171.246       # HIGH     | Score: 62 | DigitalOcean, LLC | GB
@@ -822,7 +816,6 @@
 92.4.93.72           # HIGH     | Score: 59 | Oracle Svenska AB | IN
 93.77.177.126        # HIGH     | Score: 59 | Yandex.Cloud LLC | RU
 40.74.212.73         # HIGH     | Score: 59 | Microsoft Corporation | US
-91.92.243.197        # HIGH     | Score: 58 | OMEGATECH | US
 91.92.243.197        # HIGH     | Score: 58 | OMEGATECH | US
 121.173.173.48       # HIGH     | Score: 58 | Korea Telecom | KR
 85.204.70.92         # HIGH     | Score: 58 | Hydra Communications Ltd | FR
@@ -907,6 +900,7 @@
 178.16.54.247        # HIGH     | Score: 53 | OMEGATECH | NL
 178.16.54.123        # HIGH     | Score: 53 | OMEGATECH | NL
 91.92.243.154        # HIGH     | Score: 53 | OMEGATECH | US
+162.142.125.120      # HIGH     | Score: 52 | Censys, Inc. | US
 167.94.146.55        # HIGH     | Score: 52 | Censys, Inc. | US
 162.142.125.123      # HIGH     | Score: 52 | Censys, Inc. | US
 198.235.24.12        # HIGH     | Score: 52 | Palo Alto Networks, Inc | US
