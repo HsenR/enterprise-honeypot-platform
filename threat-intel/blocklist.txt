@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-17 07:26:44 UTC
-# Total IPs: 992
+# Updated: 2026-03-17 08:26:45 UTC
+# Total IPs: 991
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -35,7 +35,6 @@
 103.215.201.34       # CRITICAL | Score:100 | A2j Data Services Pvt. Ltd. | IN
 3.130.168.2          # CRITICAL | Score:100 | Amazon Technologies Inc. | US
 3.131.220.121        # CRITICAL | Score: 98 | Amazon Technologies Inc. | US
-185.196.8.233        # CRITICAL | Score: 98 | Global-Data System IT Corporat | CH
 16.58.56.214         # CRITICAL | Score: 98 | Amazon.com, Inc. | US
 45.202.102.17        # CRITICAL | Score: 98 | Hasan Bulduk | SC
 187.191.2.214        # CRITICAL | Score: 98 | TOTAL PLAY TELECOMUNICACIONES  | MX
