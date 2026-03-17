@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-17 19:26:59 UTC
-# Total IPs: 999
+# Updated: 2026-03-17 20:27:00 UTC
+# Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -350,6 +350,7 @@
 193.29.13.164        # CRITICAL | Score: 91 | Bunea TELECOM SRL | RO
 170.64.160.161       # CRITICAL | Score: 91 | DigitalOcean, LLC | AU
 170.64.160.161       # CRITICAL | Score: 91 | DigitalOcean, LLC | AU
+199.45.154.137       # CRITICAL | Score: 90 | Censys, Inc. | US
 130.12.180.74        # CRITICAL | Score: 90 | Virtualine Technologies | US
 178.16.54.139        # CRITICAL | Score: 90 | OMEGATECH | NL
 130.12.180.49        # CRITICAL | Score: 90 | Virtualine Technologies | US
