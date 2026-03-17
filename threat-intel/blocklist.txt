@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-17 12:26:51 UTC
-# Total IPs: 990
+# Updated: 2026-03-17 13:26:52 UTC
+# Total IPs: 991
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -36,7 +36,6 @@
 103.215.201.34       # CRITICAL | Score:100 | A2j Data Services Pvt. Ltd. | IN
 3.130.168.2          # CRITICAL | Score:100 | Amazon Technologies Inc. | US
 3.131.220.121        # CRITICAL | Score: 98 | Amazon Technologies Inc. | US
-45.202.102.17        # CRITICAL | Score: 98 | Hasan Bulduk | SC
 187.191.2.214        # CRITICAL | Score: 98 | TOTAL PLAY TELECOMUNICACIONES  | MX
 16.58.56.214         # CRITICAL | Score: 98 | Amazon.com, Inc. | US
 45.202.102.17        # CRITICAL | Score: 98 | Hasan Bulduk | SC
@@ -157,6 +156,7 @@
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
+66.132.153.125       # CRITICAL | Score: 94 | Censys, Inc. | US
 185.180.141.12       # CRITICAL | Score: 94 | ICG-1-ZEN-DFW | PT
 152.32.133.103       # CRITICAL | Score: 94 | UCLOUD INFORMATION TECHNOLOGY  | HK
 185.224.128.251      # CRITICAL | Score: 94 | Alsycon B.V. | NL
@@ -349,6 +349,7 @@
 193.29.13.164        # CRITICAL | Score: 91 | Bunea TELECOM SRL | RO
 170.64.160.161       # CRITICAL | Score: 91 | DigitalOcean, LLC | AU
 170.64.160.161       # CRITICAL | Score: 91 | DigitalOcean, LLC | AU
+206.168.34.44        # CRITICAL | Score: 90 | Censys, Inc. | US
 206.168.34.112       # CRITICAL | Score: 90 | Censys, Inc. | US
 206.168.34.122       # CRITICAL | Score: 90 | Censys, Inc. | US
 130.12.180.74        # CRITICAL | Score: 90 | Virtualine Technologies | US
