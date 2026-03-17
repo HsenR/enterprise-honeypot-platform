@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-17 21:27:01 UTC
-# Total IPs: 1000
+# Updated: 2026-03-17 22:27:02 UTC
+# Total IPs: 999
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -899,7 +899,6 @@
 178.16.54.247        # HIGH     | Score: 53 | OMEGATECH | NL
 178.16.54.123        # HIGH     | Score: 53 | OMEGATECH | NL
 91.92.243.154        # HIGH     | Score: 53 | OMEGATECH | US
-138.197.171.221      # HIGH     | Score: 52 | DigitalOcean, LLC | CA
 178.16.54.194        # HIGH     | Score: 52 | OMEGATECH | NL
 64.23.173.115        # HIGH     | Score: 52 | DigitalOcean, LLC | US
 178.16.54.194        # HIGH     | Score: 52 | OMEGATECH | NL
