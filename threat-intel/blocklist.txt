@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-17 18:26:58 UTC
-# Total IPs: 1000
+# Updated: 2026-03-17 19:26:59 UTC
+# Total IPs: 999
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -15,6 +15,7 @@
 #
 
 # ── CRITICAL THREATS ─────────────────────────────────
+45.91.64.7           # CRITICAL | Score:100 | F6 | RU
 94.26.106.200        # CRITICAL | Score:100 | Telco power Ltd | DE
 192.109.200.219      # CRITICAL | Score:100 | Telco power Ltd | SE
 103.215.201.34       # CRITICAL | Score:100 | A2j Data Services Pvt. Ltd. | IN
@@ -267,7 +268,6 @@
 45.156.129.101       # CRITICAL | Score: 93 | INAP-CHI-1 | PT
 3.151.241.153        # CRITICAL | Score: 93 | Amazon Technologies Inc. | US
 45.156.87.91         # CRITICAL | Score: 93 | VMHeaven.io | NL
-142.93.3.113         # CRITICAL | Score: 92 | DigitalOcean, LLC | US
 142.93.3.113         # CRITICAL | Score: 92 | DigitalOcean, LLC | US
 49.88.156.34         # CRITICAL | Score: 92 | CHINANET jiangsu province netw | CN
 184.105.247.194      # CRITICAL | Score: 92 | The Shadowserver Foundation, I | US
@@ -807,7 +807,6 @@
 159.65.89.9          # HIGH     | Score: 60 | DigitalOcean, LLC | GB
 20.64.104.155        # HIGH     | Score: 60 | Microsoft Corporation | US
 157.230.208.60       # HIGH     | Score: 60 | DigitalOcean, LLC | US
-34.66.133.48         # HIGH     | Score: 59 | Google LLC | US
 34.66.133.48         # HIGH     | Score: 59 | Google LLC | US
 34.66.133.48         # HIGH     | Score: 59 | Google LLC | US
 188.166.25.251       # HIGH     | Score: 59 | Digital Ocean, Inc. | NL
