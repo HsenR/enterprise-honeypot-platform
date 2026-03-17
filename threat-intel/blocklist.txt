@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-17 11:26:49 UTC
-# Total IPs: 989
+# Updated: 2026-03-17 12:26:51 UTC
+# Total IPs: 990
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -513,6 +513,7 @@
 81.29.142.50         # CRITICAL | Score: 84 | Data-center IMAQLIQ Ltd. | RU
 185.242.226.46       # CRITICAL | Score: 84 | HostUS Solutions LLC | US
 185.180.141.42       # CRITICAL | Score: 84 | ICG-1-ZEN-DFW | PT
+34.140.241.185       # CRITICAL | Score: 83 | Google LLC | BE
 185.180.141.67       # CRITICAL | Score: 83 | ICG-1-ZEN-DFW | PT
 130.12.180.74        # CRITICAL | Score: 83 | Virtualine Technologies | US
 45.156.128.152       # CRITICAL | Score: 82 | INAP-AMS-1 | PT
