@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-17 08:26:45 UTC
+# Updated: 2026-03-17 09:26:46 UTC
 # Total IPs: 991
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -463,6 +463,7 @@
 185.242.226.43       # CRITICAL | Score: 87 | HostUS Solutions LLC | US
 167.86.107.35        # CRITICAL | Score: 87 | Contabo GmbH | FR
 93.123.109.247       # CRITICAL | Score: 87 | TECHOFF_SRV_LIMITED | BG
+103.203.57.18        # CRITICAL | Score: 86 | Beijing Tiantexin Tech. Co., L | CN
 18.218.118.203       # CRITICAL | Score: 86 | Amazon Technologies Inc. | US
 18.218.118.203       # CRITICAL | Score: 86 | Amazon Technologies Inc. | US
 130.12.180.74        # CRITICAL | Score: 86 | Virtualine Technologies | US
@@ -659,7 +660,6 @@
 185.247.137.63       # HIGH     | Score: 72 | Driftnet Ltd | GB
 40.124.175.131       # HIGH     | Score: 72 | Microsoft Corporation | US
 134.199.175.208      # HIGH     | Score: 72 | DigitalOcean, LLC | AU
-159.65.152.30        # HIGH     | Score: 71 | DigitalOcean, LLC | IN
 161.35.212.221       # HIGH     | Score: 71 | DigitalOcean, LLC | DE
 161.35.212.221       # HIGH     | Score: 71 | DigitalOcean, LLC | DE
 161.35.212.221       # HIGH     | Score: 71 | DigitalOcean, LLC | DE
