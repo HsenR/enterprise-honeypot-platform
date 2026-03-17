@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-17 13:26:52 UTC
-# Total IPs: 991
+# Updated: 2026-03-17 14:26:53 UTC
+# Total IPs: 994
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -558,6 +558,7 @@
 130.12.180.82        # CRITICAL | Score: 80 | Virtualine Technologies | US
 135.119.16.163       # CRITICAL | Score: 80 | Microsoft Limited | US
 20.169.85.72         # CRITICAL | Score: 80 | Microsoft Corporation | US
+23.97.62.132         # CRITICAL | Score: 79 | Microsoft Corporation | SG
 130.12.180.82        # CRITICAL | Score: 79 | Virtualine Technologies | US
 206.189.24.243       # CRITICAL | Score: 79 | DigitalOcean, LLC | GB
 45.156.129.90        # CRITICAL | Score: 79 | INAP-CHI-1 | PT
@@ -793,6 +794,7 @@
 209.38.23.101        # HIGH     | Score: 61 | DigitalOcean, LLC | AU
 37.120.153.42        # HIGH     | Score: 61 | M247 LTD Stockholm Infrastruct | SE
 37.120.153.42        # HIGH     | Score: 61 | M247 LTD Stockholm Infrastruct | SE
+157.230.208.60       # HIGH     | Score: 60 | DigitalOcean, LLC | US
 139.59.47.187        # HIGH     | Score: 60 | DigitalOcean, LLC | IN
 20.15.162.238        # HIGH     | Score: 60 | Microsoft Corporation | US
 20.118.32.242        # HIGH     | Score: 60 | Microsoft Corporation | US
@@ -821,6 +823,7 @@
 3.139.58.65          # HIGH     | Score: 59 | Amazon Technologies Inc. | US
 34.66.133.48         # HIGH     | Score: 59 | Google LLC | US
 164.92.228.239       # HIGH     | Score: 59 | DigitalOcean, LLC | DE
+18.133.199.181       # HIGH     | Score: 58 | Amazon Data Services UK | GB
 85.204.70.92         # HIGH     | Score: 58 | Hydra Communications Ltd | FR
 159.223.216.117      # HIGH     | Score: 58 | DigitalOcean, LLC | NL
 85.204.70.92         # HIGH     | Score: 58 | Hydra Communications Ltd | FR
