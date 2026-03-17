@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-17 16:26:55 UTC
-# Total IPs: 996
+# Updated: 2026-03-17 17:26:57 UTC
+# Total IPs: 997
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -777,6 +777,7 @@
 194.180.48.63        # HIGH     | Score: 64 | Neterra Ltd. | DE
 185.242.226.39       # HIGH     | Score: 64 | HostUS Solutions LLC | US
 194.180.48.63        # HIGH     | Score: 64 | Neterra Ltd. | DE
+104.164.8.186        # HIGH     | Score: 63 | Nodestop LLC | US
 178.16.54.111        # HIGH     | Score: 62 | OMEGATECH | NL
 137.184.188.165      # HIGH     | Score: 62 | DigitalOcean, LLC | US
 137.184.188.165      # HIGH     | Score: 62 | DigitalOcean, LLC | US
