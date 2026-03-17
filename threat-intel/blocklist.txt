@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-17 09:26:46 UTC
-# Total IPs: 991
+# Updated: 2026-03-17 10:26:47 UTC
+# Total IPs: 990
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -15,6 +15,7 @@
 #
 
 # ── CRITICAL THREATS ─────────────────────────────────
+106.75.9.106         # CRITICAL | Score:100 | Shanghai UCloud Information Te | CN
 94.26.106.200        # CRITICAL | Score:100 | Telco power Ltd | DE
 192.109.200.219      # CRITICAL | Score:100 | Telco power Ltd | SE
 103.215.201.34       # CRITICAL | Score:100 | A2j Data Services Pvt. Ltd. | IN
@@ -35,7 +36,6 @@
 103.215.201.34       # CRITICAL | Score:100 | A2j Data Services Pvt. Ltd. | IN
 3.130.168.2          # CRITICAL | Score:100 | Amazon Technologies Inc. | US
 3.131.220.121        # CRITICAL | Score: 98 | Amazon Technologies Inc. | US
-16.58.56.214         # CRITICAL | Score: 98 | Amazon.com, Inc. | US
 45.202.102.17        # CRITICAL | Score: 98 | Hasan Bulduk | SC
 187.191.2.214        # CRITICAL | Score: 98 | TOTAL PLAY TELECOMUNICACIONES  | MX
 16.58.56.214         # CRITICAL | Score: 98 | Amazon.com, Inc. | US
@@ -154,7 +154,6 @@
 3.129.187.38         # CRITICAL | Score: 96 | Amazon Technologies Inc. | US
 18.218.118.203       # CRITICAL | Score: 96 | Amazon Technologies Inc. | US
 3.143.162.210        # CRITICAL | Score: 96 | Amazon Technologies Inc. | US
-3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
