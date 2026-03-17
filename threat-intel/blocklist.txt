@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-16 23:27:03 UTC
+# Updated: 2026-03-17 00:27:04 UTC
 # Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -402,7 +402,6 @@
 206.168.34.34        # CRITICAL | Score: 90 | Censys, Inc. | US
 206.168.34.47        # CRITICAL | Score: 90 | Censys, Inc. | US
 66.132.153.132       # CRITICAL | Score: 89 | Censys, Inc. | US
-77.83.39.74          # CRITICAL | Score: 89 | Pitline Ltd | UA
 130.12.180.74        # CRITICAL | Score: 89 | Virtualine Technologies | US
 178.16.54.139        # CRITICAL | Score: 89 | OMEGATECH | NL
 77.83.39.74          # CRITICAL | Score: 89 | Pitline Ltd | UA
@@ -647,7 +646,6 @@
 185.242.226.23       # CRITICAL | Score: 75 | HostUS Solutions LLC | US
 
 # ── HIGH THREATS ─────────────────────────────────────
-164.92.138.14        # HIGH     | Score: 74 | DigitalOcean, LLC | DE
 164.92.138.14        # HIGH     | Score: 74 | DigitalOcean, LLC | DE
 159.89.160.76        # HIGH     | Score: 74 | DigitalOcean, LLC | IN
 139.59.44.184        # HIGH     | Score: 74 | DigitalOcean, LLC | IN
@@ -1017,3 +1015,5 @@
 162.142.125.209      # HIGH     | Score: 52 | Censys, Inc. | US
 162.142.125.216      # HIGH     | Score: 52 | Censys, Inc. | US
 178.16.54.193        # HIGH     | Score: 51 | OMEGATECH | NL
+178.16.54.247        # HIGH     | Score: 51 | OMEGATECH | NL
+178.16.54.247        # HIGH     | Score: 51 | OMEGATECH | NL
