@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-17 14:26:53 UTC
-# Total IPs: 994
+# Updated: 2026-03-17 15:26:54 UTC
+# Total IPs: 995
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -662,6 +662,7 @@
 185.247.137.63       # HIGH     | Score: 72 | Driftnet Ltd | GB
 40.124.175.131       # HIGH     | Score: 72 | Microsoft Corporation | US
 134.199.175.208      # HIGH     | Score: 72 | DigitalOcean, LLC | AU
+161.35.212.221       # HIGH     | Score: 71 | DigitalOcean, LLC | DE
 161.35.212.221       # HIGH     | Score: 71 | DigitalOcean, LLC | DE
 161.35.212.221       # HIGH     | Score: 71 | DigitalOcean, LLC | DE
 3.132.26.232         # HIGH     | Score: 71 | Amazon Technologies Inc. | US
