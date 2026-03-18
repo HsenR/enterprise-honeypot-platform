@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-18 18:27:01 UTC
+# Updated: 2026-03-18 19:27:02 UTC
 # Total IPs: 977
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -256,6 +256,7 @@
 80.94.95.115         # CRITICAL | Score: 94 | UNMANAGED LTD | RO
 80.94.95.116         # CRITICAL | Score: 94 | UNMANAGED LTD | RO
 152.32.133.103       # CRITICAL | Score: 94 | UCLOUD INFORMATION TECHNOLOGY  | HK
+209.97.188.199       # CRITICAL | Score: 93 | DigitalOcean, LLC | GB
 130.12.180.19        # CRITICAL | Score: 93 | Virtualine Technologies | US
 167.71.66.127        # CRITICAL | Score: 93 | DigitalOcean, LLC | NL
 130.12.180.19        # CRITICAL | Score: 93 | Virtualine Technologies | US
@@ -880,7 +881,6 @@
 178.16.54.247        # HIGH     | Score: 53 | OMEGATECH | NL
 178.16.54.123        # HIGH     | Score: 53 | OMEGATECH | NL
 91.92.243.154        # HIGH     | Score: 53 | OMEGATECH | US
-64.23.173.115        # HIGH     | Score: 52 | DigitalOcean, LLC | US
 178.16.54.194        # HIGH     | Score: 52 | OMEGATECH | NL
 91.92.243.52         # HIGH     | Score: 52 | OMEGATECH | US
 34.143.131.162       # HIGH     | Score: 52 | Google LLC | SG
