@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-18 21:27:04 UTC
-# Total IPs: 976
+# Updated: 2026-03-18 22:27:05 UTC
+# Total IPs: 979
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -89,6 +89,7 @@
 16.58.56.214         # CRITICAL | Score: 98 | Amazon.com, Inc. | US
 45.87.249.155        # CRITICAL | Score: 98 | Shereverov Marat Ahmedovich | SC
 202.74.74.118        # CRITICAL | Score: 98 | PT Global Port Binekatara | ID
+23.180.120.131       # CRITICAL | Score: 96 | UHQ Services LLC | US
 3.131.220.121        # CRITICAL | Score: 96 | Amazon Technologies Inc. | US
 130.12.180.72        # CRITICAL | Score: 96 | Virtualine Technologies | US
 130.12.180.80        # CRITICAL | Score: 96 | Virtualine Technologies | US
@@ -267,6 +268,7 @@
 45.156.129.101       # CRITICAL | Score: 93 | INAP-CHI-1 | PT
 3.151.241.153        # CRITICAL | Score: 93 | Amazon Technologies Inc. | US
 45.156.87.91         # CRITICAL | Score: 93 | VMHeaven.io | NL
+204.76.203.18        # CRITICAL | Score: 92 | Intelligence Hosting LLC | NL
 49.88.156.34         # CRITICAL | Score: 92 | CHINANET jiangsu province netw | CN
 118.193.44.169       # CRITICAL | Score: 92 | UCLOUD INFORMATION TECHNOLOGY  | HK
 45.153.34.187        # CRITICAL | Score: 92 | VMHeaven.io | NL
@@ -649,6 +651,7 @@
 178.20.208.185       # HIGH     | Score: 73 | NetCrafters OU | RU
 45.151.139.200       # HIGH     | Score: 73 | TIME-HOST-NET | RU
 202.74.74.118        # HIGH     | Score: 73 | PT Global Port Binekatara | ID
+40.124.173.224       # HIGH     | Score: 72 | Microsoft Corporation | US
 130.12.180.57        # HIGH     | Score: 72 | Virtualine Technologies | US
 178.16.54.89         # HIGH     | Score: 72 | OMEGATECH | NL
 178.16.54.89         # HIGH     | Score: 72 | OMEGATECH | NL
