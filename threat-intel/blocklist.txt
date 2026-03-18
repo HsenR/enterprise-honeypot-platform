@@ -3,7 +3,7 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-18 07:26:48 UTC
+# Updated: 2026-03-18 08:26:49 UTC
 # Total IPs: 978
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
@@ -513,6 +513,7 @@
 185.180.141.67       # CRITICAL | Score: 83 | ICG-1-ZEN-DFW | PT
 130.12.180.74        # CRITICAL | Score: 83 | Virtualine Technologies | US
 34.140.241.185       # CRITICAL | Score: 83 | Google LLC | BE
+118.194.228.239      # CRITICAL | Score: 82 | UCLOUD INFORMATION TECHNOLOGY  | JP
 45.156.128.152       # CRITICAL | Score: 82 | INAP-AMS-1 | PT
 45.156.128.154       # CRITICAL | Score: 82 | INAP-AMS-1 | PT
 165.232.138.158      # CRITICAL | Score: 82 | DigitalOcean, LLC | US
@@ -847,7 +848,6 @@
 45.156.129.141       # HIGH     | Score: 56 | INAP-CHI-1 | PT
 134.199.157.84       # HIGH     | Score: 56 | DigitalOcean, LLC | AU
 104.248.160.105      # HIGH     | Score: 56 | DigitalOcean, LLC | GB
-45.86.211.26         # HIGH     | Score: 55 | Clouvider Limited | US
 68.183.200.51        # HIGH     | Score: 55 | DigitalOcean, LLC | CA
 217.216.48.180       # HIGH     | Score: 55 | Contabo GmbH | US
 217.216.48.180       # HIGH     | Score: 55 | Contabo GmbH | US
