@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-18 10:26:51 UTC
-# Total IPs: 977
+# Updated: 2026-03-18 11:26:52 UTC
+# Total IPs: 975
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -17,7 +17,6 @@
 # ── CRITICAL THREATS ─────────────────────────────────
 45.91.64.7           # CRITICAL | Score:100 | F6 | RU
 207.166.168.14       # CRITICAL | Score:100 | BYTEPLUS | SG
-94.26.106.200        # CRITICAL | Score:100 | Telco power Ltd | DE
 192.109.200.219      # CRITICAL | Score:100 | Telco power Ltd | SE
 103.215.201.34       # CRITICAL | Score:100 | A2j Data Services Pvt. Ltd. | IN
 103.215.201.34       # CRITICAL | Score:100 | A2j Data Services Pvt. Ltd. | IN
@@ -824,7 +823,6 @@
 134.199.157.84       # HIGH     | Score: 58 | DigitalOcean, LLC | AU
 18.133.199.181       # HIGH     | Score: 58 | Amazon Data Services UK | GB
 185.231.33.22        # HIGH     | Score: 57 | Datashield, Inc. | SC
-138.197.171.221      # HIGH     | Score: 57 | DigitalOcean, LLC | CA
 82.102.18.220        # HIGH     | Score: 57 | M247 LTD Paris Infrastructure | FR
 167.172.55.154       # HIGH     | Score: 57 | DigitalOcean, LLC | GB
 159.89.26.2          # HIGH     | Score: 57 | DigitalOcean, LLC | DE
