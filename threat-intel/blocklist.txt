@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-18 22:27:05 UTC
-# Total IPs: 979
+# Updated: 2026-03-18 23:27:06 UTC
+# Total IPs: 990
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -155,6 +155,8 @@
 18.218.118.203       # CRITICAL | Score: 96 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
 3.130.168.2          # CRITICAL | Score: 95 | Amazon Technologies Inc. | US
+66.132.153.112       # CRITICAL | Score: 94 | Censys, Inc. | US
+66.132.153.120       # CRITICAL | Score: 94 | Censys, Inc. | US
 185.224.128.251      # CRITICAL | Score: 94 | Alsycon B.V. | NL
 103.40.61.98         # CRITICAL | Score: 94 | Gleam Worldwide Services Pvt L | IN
 96.126.106.7         # CRITICAL | Score: 94 | Linode | US
@@ -268,6 +270,10 @@
 45.156.129.101       # CRITICAL | Score: 93 | INAP-CHI-1 | PT
 3.151.241.153        # CRITICAL | Score: 93 | Amazon Technologies Inc. | US
 45.156.87.91         # CRITICAL | Score: 93 | VMHeaven.io | NL
+45.156.129.100       # CRITICAL | Score: 92 | INAP-CHI-1 | PT
+86.54.31.32          # CRITICAL | Score: 92 | Black HOST Ltd. | CA
+49.88.156.34         # CRITICAL | Score: 92 | CHINANET jiangsu province netw | CN
+185.242.226.45       # CRITICAL | Score: 92 | HostUS Solutions LLC | US
 204.76.203.18        # CRITICAL | Score: 92 | Intelligence Hosting LLC | NL
 49.88.156.34         # CRITICAL | Score: 92 | CHINANET jiangsu province netw | CN
 118.193.44.169       # CRITICAL | Score: 92 | UCLOUD INFORMATION TECHNOLOGY  | HK
@@ -397,7 +403,6 @@
 199.45.154.137       # CRITICAL | Score: 90 | Censys, Inc. | US
 199.45.154.137       # CRITICAL | Score: 90 | Censys, Inc. | US
 66.132.153.117       # CRITICAL | Score: 89 | Censys, Inc. | US
-66.132.153.117       # CRITICAL | Score: 89 | Censys, Inc. | US
 178.16.54.139        # CRITICAL | Score: 89 | OMEGATECH | NL
 45.156.128.153       # CRITICAL | Score: 89 | INAP-AMS-1 | PT
 178.16.54.139        # CRITICAL | Score: 89 | OMEGATECH | NL
@@ -495,6 +500,7 @@
 130.12.180.77        # CRITICAL | Score: 85 | Virtualine Technologies | US
 20.163.27.102        # CRITICAL | Score: 85 | Microsoft Corporation | US
 176.65.148.66        # CRITICAL | Score: 85 | Pfcloud UG | NL
+138.68.134.113       # CRITICAL | Score: 84 | DigitalOcean, LLC | GB
 64.227.106.112       # CRITICAL | Score: 84 | DigitalOcean, LLC | US
 81.29.142.50         # CRITICAL | Score: 84 | Data-center IMAQLIQ Ltd. | RU
 64.227.106.112       # CRITICAL | Score: 84 | DigitalOcean, LLC | US
@@ -547,6 +553,7 @@
 40.124.174.226       # CRITICAL | Score: 81 | Microsoft Corporation | US
 143.110.223.17       # CRITICAL | Score: 81 | DigitalOcean, LLC | CA
 143.110.223.17       # CRITICAL | Score: 81 | DigitalOcean, LLC | CA
+104.164.8.186        # CRITICAL | Score: 80 | Nodestop LLC | US
 3.134.216.108        # CRITICAL | Score: 80 | Amazon Technologies Inc. | US
 130.12.180.82        # CRITICAL | Score: 80 | Virtualine Technologies | US
 178.16.54.134        # CRITICAL | Score: 80 | OMEGATECH | NL
@@ -583,6 +590,7 @@
 209.97.139.46        # CRITICAL | Score: 78 | DigitalOcean, LLC | GB
 106.75.9.75          # CRITICAL | Score: 78 | Shanghai UCloud Information Te | CN
 209.97.139.46        # CRITICAL | Score: 78 | DigitalOcean, LLC | GB
+144.202.82.88        # CRITICAL | Score: 77 | Vultr Holdings, LLC | US
 91.92.243.197        # CRITICAL | Score: 77 | OMEGATECH | US
 91.92.243.197        # CRITICAL | Score: 77 | OMEGATECH | US
 45.156.128.152       # CRITICAL | Score: 77 | INAP-AMS-1 | PT
@@ -600,6 +608,7 @@
 209.38.94.176        # CRITICAL | Score: 77 | DigitalOcean, LLC | AU
 91.92.240.84         # CRITICAL | Score: 77 | OMEGATECH | DE
 91.92.240.84         # CRITICAL | Score: 77 | OMEGATECH | DE
+91.232.238.112       # CRITICAL | Score: 76 | Kukushkin Anatoly Valerievich | UA
 91.92.243.27         # CRITICAL | Score: 76 | OMEGATECH | US
 130.12.180.101       # CRITICAL | Score: 76 | Virtualine Technologies | US
 130.12.180.101       # CRITICAL | Score: 76 | Virtualine Technologies | US
@@ -699,6 +708,7 @@
 50.85.51.39          # HIGH     | Score: 69 | Microsoft Limited | NL
 188.166.164.48       # HIGH     | Score: 69 | DigitalOcean, LLC | DE
 185.242.226.39       # HIGH     | Score: 69 | HostUS Solutions LLC | US
+47.251.53.147        # HIGH     | Score: 68 | Alibaba Cloud - US | US
 130.12.180.116       # HIGH     | Score: 68 | Virtualine Technologies | US
 47.251.53.147        # HIGH     | Score: 68 | Alibaba Cloud - US | US
 98.90.43.197         # HIGH     | Score: 68 | Amazon Data Services Northern  | US
@@ -751,6 +761,7 @@
 20.80.105.157        # HIGH     | Score: 65 | Microsoft Corporation | US
 18.217.208.51        # HIGH     | Score: 65 | Amazon Technologies Inc. | US
 18.188.57.88         # HIGH     | Score: 65 | Amazon Technologies Inc. | US
+194.180.48.63        # HIGH     | Score: 64 | Neterra Ltd. | DE
 178.16.54.111        # HIGH     | Score: 64 | OMEGATECH | NL
 194.180.48.63        # HIGH     | Score: 64 | Neterra Ltd. | DE
 178.16.54.111        # HIGH     | Score: 64 | OMEGATECH | NL
