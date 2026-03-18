@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-18 00:27:05 UTC
-# Total IPs: 999
+# Updated: 2026-03-18 01:27:05 UTC
+# Total IPs: 1000
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -808,6 +808,7 @@
 159.65.89.9          # HIGH     | Score: 60 | DigitalOcean, LLC | GB
 20.64.104.155        # HIGH     | Score: 60 | Microsoft Corporation | US
 157.230.208.60       # HIGH     | Score: 60 | DigitalOcean, LLC | US
+188.166.25.251       # HIGH     | Score: 59 | Digital Ocean, Inc. | NL
 34.66.133.48         # HIGH     | Score: 59 | Google LLC | US
 34.66.133.48         # HIGH     | Score: 59 | Google LLC | US
 188.166.25.251       # HIGH     | Score: 59 | Digital Ocean, Inc. | NL
@@ -866,6 +867,7 @@
 45.156.129.141       # HIGH     | Score: 56 | INAP-CHI-1 | PT
 134.199.157.84       # HIGH     | Score: 56 | DigitalOcean, LLC | AU
 104.248.160.105      # HIGH     | Score: 56 | DigitalOcean, LLC | GB
+84.247.153.4         # HIGH     | Score: 55 | Contabo GmbH | JP
 45.86.211.26         # HIGH     | Score: 55 | Clouvider Limited | US
 68.183.200.51        # HIGH     | Score: 55 | DigitalOcean, LLC | CA
 217.216.48.180       # HIGH     | Score: 55 | Contabo GmbH | US
@@ -1015,4 +1017,3 @@
 167.94.138.124       # HIGH     | Score: 50 | Censys, Inc. | US
 167.94.138.45        # HIGH     | Score: 50 | Censys, Inc. | US
 142.93.145.115       # HIGH     | Score: 50 | DigitalOcean, LLC | CA
-167.94.138.61        # HIGH     | Score: 50 | Censys, Inc. | US
