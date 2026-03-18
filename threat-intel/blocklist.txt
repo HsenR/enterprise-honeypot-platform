@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-18 08:26:49 UTC
-# Total IPs: 978
+# Updated: 2026-03-18 09:26:50 UTC
+# Total IPs: 977
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -42,7 +42,6 @@
 45.87.249.155        # CRITICAL | Score: 98 | Shereverov Marat Ahmedovich | SC
 16.58.56.214         # CRITICAL | Score: 98 | Amazon.com, Inc. | US
 18.116.101.220       # CRITICAL | Score: 98 | Amazon Technologies Inc. | US
-167.71.66.127        # CRITICAL | Score: 98 | DigitalOcean, LLC | NL
 167.71.66.127        # CRITICAL | Score: 98 | DigitalOcean, LLC | NL
 130.12.180.108       # CRITICAL | Score: 98 | Virtualine Technologies | US
 16.58.56.214         # CRITICAL | Score: 98 | Amazon.com, Inc. | US
