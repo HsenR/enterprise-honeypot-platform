@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-18 19:27:02 UTC
-# Total IPs: 977
+# Updated: 2026-03-18 20:27:03 UTC
+# Total IPs: 975
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -681,7 +681,6 @@
 18.189.74.1          # HIGH     | Score: 70 | Amazon Technologies Inc. | US
 20.64.105.82         # HIGH     | Score: 70 | Microsoft Corporation | US
 20.65.195.109        # HIGH     | Score: 70 | Microsoft Corporation | US
-163.7.12.49          # HIGH     | Score: 69 | BYTEPLUS | ID
 121.173.173.48       # HIGH     | Score: 69 | Korea Telecom | KR
 130.12.180.92        # HIGH     | Score: 69 | Virtualine Technologies | US
 130.12.180.92        # HIGH     | Score: 69 | Virtualine Technologies | US
@@ -748,7 +747,6 @@
 20.80.105.157        # HIGH     | Score: 65 | Microsoft Corporation | US
 18.217.208.51        # HIGH     | Score: 65 | Amazon Technologies Inc. | US
 18.188.57.88         # HIGH     | Score: 65 | Amazon Technologies Inc. | US
-121.173.173.48       # HIGH     | Score: 64 | Korea Telecom | KR
 178.16.54.111        # HIGH     | Score: 64 | OMEGATECH | NL
 194.180.48.63        # HIGH     | Score: 64 | Neterra Ltd. | DE
 178.16.54.111        # HIGH     | Score: 64 | OMEGATECH | NL
