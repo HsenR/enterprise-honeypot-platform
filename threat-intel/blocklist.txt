@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-18 05:26:45 UTC
-# Total IPs: 979
+# Updated: 2026-03-18 06:26:46 UTC
+# Total IPs: 978
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -42,7 +42,6 @@
 45.87.249.155        # CRITICAL | Score: 98 | Shereverov Marat Ahmedovich | SC
 16.58.56.214         # CRITICAL | Score: 98 | Amazon.com, Inc. | US
 18.116.101.220       # CRITICAL | Score: 98 | Amazon Technologies Inc. | US
-130.12.180.108       # CRITICAL | Score: 98 | Virtualine Technologies | US
 167.71.66.127        # CRITICAL | Score: 98 | DigitalOcean, LLC | NL
 167.71.66.127        # CRITICAL | Score: 98 | DigitalOcean, LLC | NL
 130.12.180.108       # CRITICAL | Score: 98 | Virtualine Technologies | US
@@ -268,6 +267,7 @@
 45.156.129.101       # CRITICAL | Score: 93 | INAP-CHI-1 | PT
 3.151.241.153        # CRITICAL | Score: 93 | Amazon Technologies Inc. | US
 45.156.87.91         # CRITICAL | Score: 93 | VMHeaven.io | NL
+165.154.182.92       # CRITICAL | Score: 92 | UCLOUD INFORMATION TECHNOLOGY  | US
 185.156.73.233       # CRITICAL | Score: 92 | TOV E-RISHENNYA | UA
 118.193.44.169       # CRITICAL | Score: 92 | UCLOUD INFORMATION TECHNOLOGY  | HK
 49.88.156.34         # CRITICAL | Score: 92 | CHINANET jiangsu province netw | CN
@@ -348,7 +348,6 @@
 170.64.160.161       # CRITICAL | Score: 91 | DigitalOcean, LLC | AU
 170.64.160.161       # CRITICAL | Score: 91 | DigitalOcean, LLC | AU
 199.45.154.137       # CRITICAL | Score: 90 | Censys, Inc. | US
-130.12.180.49        # CRITICAL | Score: 90 | Virtualine Technologies | US
 178.16.54.139        # CRITICAL | Score: 90 | OMEGATECH | NL
 130.12.180.49        # CRITICAL | Score: 90 | Virtualine Technologies | US
 206.168.34.63        # CRITICAL | Score: 90 | Censys, Inc. | US
