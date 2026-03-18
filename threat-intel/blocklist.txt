@@ -3,8 +3,8 @@
 # ║     by Loki | T-Pot v24.04.1 | AWS eu-central-1      ║
 # ╚══════════════════════════════════════════════════════╝
 #
-# Updated: 2026-03-18 12:26:53 UTC
-# Total IPs: 974
+# Updated: 2026-03-18 13:26:54 UTC
+# Total IPs: 973
 # Criteria: HIGH and CRITICAL threat score from live honeypot
 # Sources: VirusTotal + AbuseIPDB correlation
 # Format: IP | Threat Level | Score | ISP | Country
@@ -155,7 +155,6 @@
 152.32.133.103       # CRITICAL | Score: 94 | UCLOUD INFORMATION TECHNOLOGY  | HK
 80.94.95.116         # CRITICAL | Score: 94 | UNMANAGED LTD | RO
 80.94.95.115         # CRITICAL | Score: 94 | UNMANAGED LTD | RO
-185.224.128.251      # CRITICAL | Score: 94 | Alsycon B.V. | NL
 185.224.128.251      # CRITICAL | Score: 94 | Alsycon B.V. | NL
 103.40.61.98         # CRITICAL | Score: 94 | Gleam Worldwide Services Pvt L | IN
 96.126.106.7         # CRITICAL | Score: 94 | Linode | US
